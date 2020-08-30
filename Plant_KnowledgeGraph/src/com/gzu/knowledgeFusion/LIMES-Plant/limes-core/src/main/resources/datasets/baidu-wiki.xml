@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>    
+<!DOCTYPE LIMES SYSTEM "limes.dtd">    
+<LIMES>        
+	<PREFIX>            
+		<NAMESPACE>http://www.w3.org/2002/07/owl#</NAMESPACE>            
+		<LABEL>owl</LABEL>        
+	</PREFIX>        
+	<!--<PREFIX>            
+		<NAMESPACE>http://zhishi.me/ontology/</NAMESPACE>            
+		<LABEL>zhishi</LABEL>        
+	</PREFIX>        
+	<PREFIX>            
+		<NAMESPACE>http://cndbpedia/resource/</NAMESPACE>            
+		<LABEL>cndb</LABEL>        
+	</PREFIX>
+	<PREFIX>            
+		<NAMESPACE>http://cndbpedia/ontology/</NAMESPACE>            
+		<LABEL>cndbo</LABEL>        
+	</PREFIX>
+	<PREFIX>            
+		<NAMESPACE>http://www.w3.org/2000/01/rdf-schema#</NAMESPACE>            
+		<LABEL>rdfs</LABEL>        
+	</PREFIX>-->
+	<SOURCE>            
+		<ID>plant_baidu</ID>            
+		<ENDPOINT>plant_source.csv</ENDPOINT>           
+		<VAR>?x</VAR>            
+		<PAGESIZE>-1</PAGESIZE>            
+		<RESTRICTION></RESTRICTION>            
+		<PROPERTY>name as lowercase</PROPERTY>            
+		<TYPE>csv</TYPE>        
+	</SOURCE>        
+	<TARGET>            
+		<ID>plant_wiki</ID>           
+		<ENDPOINT>plant_target.csv</ENDPOINT>            
+		<VAR>?y</VAR>            
+		<PAGESIZE>-1</PAGESIZE>            
+		<RESTRICTION></RESTRICTION>            
+		<PROPERTY>name as lowercase</PROPERTY>                    
+		<TYPE>csv</TYPE>        
+	</TARGET>        
+	<METRIC>Cosine(x.name, y.name) | 0.8</METRIC>
+	<!--<METRIC>jarowinkler(x.name,y.name)</METRIC>  -->      
+	<ACCEPTANCE>            
+		<THRESHOLD>0.9</THRESHOLD>            
+		<FILE>accept_result.nt</FILE>            
+		<RELATION>owl:sameAs</RELATION>        
+	</ACCEPTANCE>        
+	<REVIEW>            
+		<THRESHOLD>0.5</THRESHOLD>            
+		<FILE>review_result.nt</FILE>            
+		<RELATION>owl:sameAs</RELATION>        
+	</REVIEW>
+	<EXECUTION>            
+		<REWRITER>default</REWRITER>            
+		<PLANNER>default</PLANNER>            
+		<ENGINE>default</ENGINE>        
+	</EXECUTION>
+
+	<OUTPUT>TAB</OUTPUT>    
+</LIMES>

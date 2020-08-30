@@ -1,0 +1,210 @@
+HudongItem1,relation,HudongItem2
+囊颖草,taxon rank,种
+细果角茴香,taxon rank,种
+节节菜,taxon rank,种
+芹叶龙眼独活,taxon rank,种
+芹叶龙眼独活,parent taxon,楤木属
+蛔蒿,taxon rank,种
+蛔蒿,parent taxon,蒿属
+蛔蒿,has fruit type,胞果
+川西火绒草,taxon rank,种
+珍珠菜,taxon rank,属
+珍珠菜,has fruit type,蒴果
+绣球绣线菊,taxon rank,种
+绣球绣线菊,parent taxon,绣线菊属
+赛葵,taxon rank,种
+大叶树萝卜,taxon rank,种
+南岭杜鹃,taxon rank,种
+针齿铁仔,taxon rank,种
+密花树,taxon rank,种
+针齿铁仔,parent taxon,铁仔属
+催吐萝芙木,taxon rank,种
+异色来江藤,taxon rank,种
+黑果枸杞,taxon rank,种
+黑果枸杞,parent taxon,枸杞属
+倒挂金钟,taxon rank,属
+倒挂金钟,has fruit type,浆果
+巴豆,taxon rank,种
+白背叶,taxon rank,种
+中国旌节花,taxon rank,种
+中麻黄,taxon rank,种
+巴豆,parent taxon,巴豆属
+白背叶,parent taxon,野桐属
+金铃花,taxon rank,种
+粉花绣线梅,taxon rank,种
+巴豆,has fruit type,蒴果
+粉花绣线梅,parent taxon,绣线梅属
+海桐,taxon rank,种
+算盘子,taxon rank,种
+翅柃,taxon rank,种
+短柱柃,taxon rank,种
+翅柃,parent taxon,柃属
+短柱柃,parent taxon,柃属
+檵木,taxon rank,种
+凹脉金花茶,taxon rank,种
+凹脉金花茶,parent taxon,山茶属
+花楸树,taxon rank,种
+花楸树,parent taxon,花楸属
+柠檬,taxon rank,种
+臭茉莉,taxon rank,变种
+花楸树,has fruit type,梨果
+柠檬,parent taxon,柑橘属
+臭茉莉,parent taxon,重瓣臭茉莉
+柠檬,has fruit type,柑果
+鳄梨,taxon rank,种
+鳄梨,parent taxon,鳄梨属
+蚬木,taxon rank,种
+鳄梨,has fruit type,浆果
+鳄梨,this taxon is source of,鳄梨
+红茄苳,taxon rank,种
+红茄苳,parent taxon,红树属
+鳄梨,different from,鳄梨
+海岸桐,taxon rank,种
+山牡荆,taxon rank,种
+木犀,taxon rank,种
+山牡荆,parent taxon,牡荆属
+斜叶榕,taxon rank,种
+黄皮,taxon rank,种
+肉花卫矛,taxon rank,种
+闽楠,taxon rank,种
+肉花卫矛,parent taxon,卫矛属
+闽楠,parent taxon,楠属
+檀香,taxon rank,种
+酒瓶椰子,taxon rank,种
+董棕,taxon rank,种
+滇润楠,taxon rank,种
+滇润楠,parent taxon,润楠属
+马鞍树,taxon rank,种
+夏栎,subclass of,栎属
+毛叶石楠,taxon rank,种
+夏栎,taxon rank,种
+毛叶石楠,parent taxon,石楠属
+大叶栎,taxon rank,种
+夏栎,parent taxon,栎属
+大叶栎,parent taxon,栎属
+夏栎,has fruit type,坚果
+夏栎,this taxon is source of,橡子
+藏杏,taxon rank,种
+蟠桃,taxon rank,变种
+蟠桃,parent taxon,桃
+东北杏,taxon rank,种
+山杏,taxon rank,种
+厚皮树,taxon rank,种
+北美乔柏,taxon rank,种
+毛叶山桐子,taxon rank,变种
+椿树,taxon rank,种
+东北杏,parent taxon,李属
+山杏,parent taxon,李属
+毛叶山桐子,parent taxon,山桐子
+山杏,has fruit type,核果
+山杏,this taxon is source of,杏
+糖枫,taxon rank,种
+山莓,taxon rank,种
+日本七叶树,taxon rank,种
+糖枫,parent taxon,枫属
+日本七叶树,parent taxon,七叶树属
+山楝,taxon rank,种
+山楝,parent taxon,山楝属
+榛子,subclass of,坚果
+糖枫,has fruit type,翅果
+河北梨,taxon rank,种
+河北梨,parent taxon,梨
+沙果,taxon rank,种
+岳桦,taxon rank,种
+沙果,parent taxon,苹果属
+岳桦,parent taxon,桦木属
+南岭黄檀,taxon rank,种
+黄背栎,taxon rank,种
+通麦栎,taxon rank,种
+辽东栎,taxon rank,种
+黄背栎,parent taxon,栎属
+通麦栎,parent taxon,栎属
+辽东栎,parent taxon,栎属
+茅栗,taxon rank,种
+日本栗,taxon rank,种
+茅栗,parent taxon,栗
+日本栗,parent taxon,栗
+假鹊肾树,taxon rank,种
+紫檀,taxon rank,种
+高山榕,taxon rank,种
+赤桉,taxon rank,种
+赤桉,parent taxon,桉树
+杏李,taxon rank,种
+楸叶泡桐,taxon rank,种
+桦树,taxon rank,属
+赤桉,endemic to,澳大利亚
+杏李,parent taxon,李属
+楸叶泡桐,parent taxon,泡桐属
+胖大海,taxon rank,种
+油楠,taxon rank,种
+金钱槭,taxon rank,种
+云南山楂,taxon rank,种
+云南山楂,parent taxon,山楂
+耐寒栒子,taxon rank,种
+光叶山楂,taxon rank,种
+唐棣,sex or gender,男性
+光叶山楂,parent taxon,山楂
+唐棣,country of citizenship,中国
+天山花楸,taxon rank,种
+天山花楸,parent taxon,花楸属
+陕甘花楸,taxon rank,种
+陕甘花楸,parent taxon,花楸属
+黄山花楸,taxon rank,种
+木荷,taxon rank,种
+黄山花楸,parent taxon,花楸属
+金合欢,taxon rank,属
+深山含笑,taxon rank,种
+杨梅,taxon rank,种
+杨梅,parent taxon,杨梅属
+枇杷,taxon rank,种
+阔瓣含笑,taxon rank,种
+棕榈,taxon rank,种
+枇杷,parent taxon,枇杷属
+棕榈,parent taxon,棕榈属
+三尖杉,taxon rank,种
+银杉,taxon rank,属
+樟叶槭,taxon rank,种
+黄檀,taxon rank,种
+榆树,taxon rank,属
+三尖杉,parent taxon,三尖杉属
+银杉,parent taxon,松科
+樟叶槭,parent taxon,枫属
+榆树,parent taxon,榆科
+桉树,taxon rank,属
+八宝树,taxon rank,种
+八角,taxon rank,种
+巴山冷杉,taxon rank,种
+桉树,has fruit type,蒴果
+榆树,this taxon is source of,榆林
+八角,parent taxon,八角属
+巴山冷杉,parent taxon,冷杉属
+海南粗榧,taxon rank,种
+中国无忧花,taxon rank,种
+八角,has fruit type,蓇葖果
+海南粗榧,parent taxon,三尖杉属
+海南萝芙木,taxon rank,变种
+白桂木,taxon rank,种
+海南萝芙木,parent taxon,萝芙木
+大王椰子,taxon rank,种
+巴东木莲,taxon rank,种
+猴樟,taxon rank,种
+紫楠,taxon rank,种
+阴香,taxon rank,种
+大王椰子,parent taxon,王棕属
+巴东木莲,parent taxon,木莲属
+猴樟,parent taxon,樟属
+紫楠,parent taxon,楠属
+阴香,parent taxon,樟属
+白花泡桐,taxon rank,种
+大王椰子,flower color,白色
+白花泡桐,parent taxon,泡桐属
+柏木,instance of,姓氏
+柏木,language of work or name,日语
+板栗,taxon rank,种
+柏木,different from,柏木
+板栗,parent taxon,栗
+柏木,said to be the same as,柏木
+柏木,said to be the same as,柏木
+梓树,taxon rank,种
+贝壳杉,taxon rank,种
+柏木,said to be the same as,柏木

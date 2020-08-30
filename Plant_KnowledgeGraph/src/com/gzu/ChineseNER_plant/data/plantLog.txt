@@ -1,0 +1,453 @@
+D:\Python37\python.exe E:/学习/深度学习相关/ChineseNER_plant/tensorflow/train.py
+D:\Python37\lib\site-packages\tensorflow\python\framework\dtypes.py:526: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_qint8 = np.dtype([("qint8", np.int8, 1)])
+D:\Python37\lib\site-packages\tensorflow\python\framework\dtypes.py:527: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_quint8 = np.dtype([("quint8", np.uint8, 1)])
+D:\Python37\lib\site-packages\tensorflow\python\framework\dtypes.py:528: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_qint16 = np.dtype([("qint16", np.int16, 1)])
+D:\Python37\lib\site-packages\tensorflow\python\framework\dtypes.py:529: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_quint16 = np.dtype([("quint16", np.uint16, 1)])
+D:\Python37\lib\site-packages\tensorflow\python\framework\dtypes.py:530: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_qint32 = np.dtype([("qint32", np.int32, 1)])
+D:\Python37\lib\site-packages\tensorflow\python\framework\dtypes.py:535: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  np_resource = np.dtype([("resource", np.ubyte, 1)])
+train len: 1096
+test len: 672
+word2id len 937
+Creating the data generator ...
+Finished creating the data generator.
+begin to train...
+WARNING:tensorflow:From D:\Python37\lib\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+WARNING:tensorflow:From E:\学习\深度学习相关\ChineseNER_plant\tensorflow\bilstm_crf.py:27: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+WARNING:tensorflow:From E:\学习\深度学习相关\ChineseNER_plant\tensorflow\bilstm_crf.py:29: LSTMCell.__init__ (from tensorflow.python.ops.rnn_cell_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+This class is equivalent as tf.keras.layers.LSTMCell, and will be replaced by that in Tensorflow 2.0.
+WARNING:tensorflow:From E:\学习\深度学习相关\ChineseNER_plant\tensorflow\bilstm_crf.py:36: bidirectional_dynamic_rnn (from tensorflow.python.ops.rnn) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `keras.layers.Bidirectional(keras.layers.RNN(cell))`, which is equivalent to this API
+WARNING:tensorflow:From D:\Python37\lib\site-packages\tensorflow\python\ops\rnn.py:443: dynamic_rnn (from tensorflow.python.ops.rnn) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `keras.layers.RNN(cell)`, which is equivalent to this API
+
+WARNING: The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+If you depend on functionality not listed there, please file an issue.
+
+WARNING:tensorflow:From D:\Python37\lib\site-packages\tensorflow\python\ops\rnn.py:626: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2020-08-03 16:03:11.326796: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2
+-------------------------------------train-------------------------------------
+Epoch: 1/100 train accuracy: 0.3581, train recall: 0.2840, train f: 0.3168
+-------------------------------------test-------------------------------------
+Epoch: 1/100 test accuracy: 0.3880, test recall: 0.3153, test f: 0.3479
+-------------------------------------train-------------------------------------
+Epoch: 2/100 train accuracy: 0.4511, train recall: 0.4059, train f: 0.4273
+-------------------------------------test-------------------------------------
+Epoch: 2/100 test accuracy: 0.4399, test recall: 0.3917, test f: 0.4144
+-------------------------------------train-------------------------------------
+Epoch: 3/100 train accuracy: 0.5568, train recall: 0.5453, train f: 0.5510
+-------------------------------------test-------------------------------------
+Epoch: 3/100 test accuracy: 0.5262, test recall: 0.5167, test f: 0.5214
+-------------------------------------train-------------------------------------
+Epoch: 4/100 train accuracy: 0.7262, train recall: 0.6704, train f: 0.6972
+-------------------------------------test-------------------------------------
+Epoch: 4/100 test accuracy: 0.6686, test recall: 0.6250, test f: 0.6461
+-------------------------------------train-------------------------------------
+Epoch: 5/100 train accuracy: 0.8290, train recall: 0.7990, train f: 0.8137
+-------------------------------------test-------------------------------------
+Epoch: 5/100 test accuracy: 0.7631, test recall: 0.7472, test f: 0.7551
+WARNING:tensorflow:From D:\Python37\lib\site-packages\tensorflow\python\training\saver.py:966: remove_checkpoint (from tensorflow.python.training.checkpoint_management) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use standard file APIs to delete files with this prefix.
+-------------------------------------train-------------------------------------
+Epoch: 6/100 train accuracy: 0.8780, train recall: 0.8568, train f: 0.8672
+-------------------------------------test-------------------------------------
+Epoch: 6/100 test accuracy: 0.8047, test recall: 0.8014, test f: 0.8031
+-------------------------------------train-------------------------------------
+Epoch: 7/100 train accuracy: 0.8989, train recall: 0.8826, train f: 0.8906
+-------------------------------------test-------------------------------------
+Epoch: 7/100 test accuracy: 0.8117, test recall: 0.8083, test f: 0.8100
+-------------------------------------train-------------------------------------
+Epoch: 8/100 train accuracy: 0.9149, train recall: 0.9085, train f: 0.9117
+-------------------------------------test-------------------------------------
+Epoch: 8/100 test accuracy: 0.8380, test recall: 0.8403, test f: 0.8391
+-------------------------------------train-------------------------------------
+Epoch: 9/100 train accuracy: 0.9253, train recall: 0.9206, train f: 0.9229
+-------------------------------------test-------------------------------------
+Epoch: 9/100 test accuracy: 0.8340, test recall: 0.8444, test f: 0.8392
+-------------------------------------train-------------------------------------
+Epoch: 10/100 train accuracy: 0.9410, train recall: 0.9353, train f: 0.9381
+-------------------------------------test-------------------------------------
+Epoch: 10/100 test accuracy: 0.8511, test recall: 0.8653, test f: 0.8581
+-------------------------------------train-------------------------------------
+Epoch: 11/100 train accuracy: 0.9513, train recall: 0.9439, train f: 0.9476
+-------------------------------------test-------------------------------------
+Epoch: 11/100 test accuracy: 0.8617, test recall: 0.8653, test f: 0.8635
+-------------------------------------train-------------------------------------
+Epoch: 12/100 train accuracy: 0.9566, train recall: 0.9525, train f: 0.9546
+-------------------------------------test-------------------------------------
+Epoch: 12/100 test accuracy: 0.8687, test recall: 0.8819, test f: 0.8753
+-------------------------------------train-------------------------------------
+Epoch: 13/100 train accuracy: 0.9652, train recall: 0.9586, train f: 0.9619
+-------------------------------------test-------------------------------------
+Epoch: 13/100 test accuracy: 0.8767, test recall: 0.8792, test f: 0.8779
+-------------------------------------train-------------------------------------
+Epoch: 14/100 train accuracy: 0.9592, train recall: 0.9525, train f: 0.9558
+-------------------------------------test-------------------------------------
+Epoch: 14/100 test accuracy: 0.8772, test recall: 0.8833, test f: 0.8803
+-------------------------------------train-------------------------------------
+Epoch: 15/100 train accuracy: 0.9687, train recall: 0.9620, train f: 0.9653
+-------------------------------------test-------------------------------------
+Epoch: 15/100 test accuracy: 0.8814, test recall: 0.8875, test f: 0.8844
+-------------------------------------train-------------------------------------
+Epoch: 16/100 train accuracy: 0.9645, train recall: 0.9603, train f: 0.9624
+-------------------------------------test-------------------------------------
+Epoch: 16/100 test accuracy: 0.8704, test recall: 0.8958, test f: 0.8830
+-------------------------------------train-------------------------------------
+Epoch: 17/100 train accuracy: 0.9748, train recall: 0.9689, train f: 0.9719
+-------------------------------------test-------------------------------------
+Epoch: 17/100 test accuracy: 0.8856, test recall: 0.9028, test f: 0.8941
+-------------------------------------train-------------------------------------
+Epoch: 18/100 train accuracy: 0.9765, train recall: 0.9698, train f: 0.9731
+-------------------------------------test-------------------------------------
+Epoch: 18/100 test accuracy: 0.8861, test recall: 0.8972, test f: 0.8916
+-------------------------------------train-------------------------------------
+Epoch: 19/100 train accuracy: 0.9784, train recall: 0.9759, train f: 0.9771
+-------------------------------------test-------------------------------------
+Epoch: 19/100 test accuracy: 0.8944, test recall: 0.9056, test f: 0.8999
+-------------------------------------train-------------------------------------
+Epoch: 20/100 train accuracy: 0.9792, train recall: 0.9733, train f: 0.9762
+-------------------------------------test-------------------------------------
+Epoch: 20/100 test accuracy: 0.8871, test recall: 0.9056, test f: 0.8962
+-------------------------------------train-------------------------------------
+Epoch: 21/100 train accuracy: 0.9800, train recall: 0.9741, train f: 0.9771
+-------------------------------------test-------------------------------------
+Epoch: 21/100 test accuracy: 0.8945, test recall: 0.9069, test f: 0.9007
+-------------------------------------train-------------------------------------
+Epoch: 22/100 train accuracy: 0.9809, train recall: 0.9750, train f: 0.9779
+-------------------------------------test-------------------------------------
+Epoch: 22/100 test accuracy: 0.8937, test recall: 0.9111, test f: 0.9023
+-------------------------------------train-------------------------------------
+Epoch: 23/100 train accuracy: 0.9792, train recall: 0.9758, train f: 0.9775
+-------------------------------------test-------------------------------------
+Epoch: 23/100 test accuracy: 0.8930, test recall: 0.9042, test f: 0.8986
+-------------------------------------train-------------------------------------
+Epoch: 24/100 train accuracy: 0.9818, train recall: 0.9776, train f: 0.9797
+-------------------------------------test-------------------------------------
+Epoch: 24/100 test accuracy: 0.8973, test recall: 0.9097, test f: 0.9034
+-------------------------------------train-------------------------------------
+Epoch: 25/100 train accuracy: 0.9835, train recall: 0.9767, train f: 0.9801
+-------------------------------------test-------------------------------------
+Epoch: 25/100 test accuracy: 0.9025, test recall: 0.9125, test f: 0.9075
+-------------------------------------train-------------------------------------
+Epoch: 26/100 train accuracy: 0.9740, train recall: 0.9706, train f: 0.9723
+-------------------------------------test-------------------------------------
+Epoch: 26/100 test accuracy: 0.8967, test recall: 0.9167, test f: 0.9066
+-------------------------------------train-------------------------------------
+Epoch: 27/100 train accuracy: 0.9835, train recall: 0.9793, train f: 0.9814
+-------------------------------------test-------------------------------------
+Epoch: 27/100 test accuracy: 0.9008, test recall: 0.9083, test f: 0.9046
+-------------------------------------train-------------------------------------
+Epoch: 28/100 train accuracy: 0.9775, train recall: 0.9724, train f: 0.9749
+-------------------------------------test-------------------------------------
+Epoch: 28/100 test accuracy: 0.9014, test recall: 0.9139, test f: 0.9076
+-------------------------------------train-------------------------------------
+Epoch: 29/100 train accuracy: 0.9844, train recall: 0.9793, train f: 0.9818
+-------------------------------------test-------------------------------------
+Epoch: 29/100 test accuracy: 0.9000, test recall: 0.9125, test f: 0.9062
+-------------------------------------train-------------------------------------
+Epoch: 30/100 train accuracy: 0.9809, train recall: 0.9767, train f: 0.9788
+-------------------------------------test-------------------------------------
+Epoch: 30/100 test accuracy: 0.9031, test recall: 0.9194, test f: 0.9112
+-------------------------------------train-------------------------------------
+Epoch: 31/100 train accuracy: 0.9783, train recall: 0.9733, train f: 0.9758
+-------------------------------------test-------------------------------------
+Epoch: 31/100 test accuracy: 0.9003, test recall: 0.9153, test f: 0.9077
+-------------------------------------train-------------------------------------
+Epoch: 32/100 train accuracy: 0.9835, train recall: 0.9758, train f: 0.9796
+-------------------------------------test-------------------------------------
+Epoch: 32/100 test accuracy: 0.8992, test recall: 0.9167, test f: 0.9078
+-------------------------------------train-------------------------------------
+Epoch: 33/100 train accuracy: 0.9784, train recall: 0.9767, train f: 0.9775
+-------------------------------------test-------------------------------------
+Epoch: 33/100 test accuracy: 0.8981, test recall: 0.9181, test f: 0.9080
+-------------------------------------train-------------------------------------
+Epoch: 34/100 train accuracy: 0.9801, train recall: 0.9776, train f: 0.9788
+-------------------------------------test-------------------------------------
+Epoch: 34/100 test accuracy: 0.8910, test recall: 0.9083, test f: 0.8996
+-------------------------------------train-------------------------------------
+Epoch: 35/100 train accuracy: 0.9835, train recall: 0.9784, train f: 0.9810
+-------------------------------------test-------------------------------------
+Epoch: 35/100 test accuracy: 0.9003, test recall: 0.9153, test f: 0.9077
+-------------------------------------train-------------------------------------
+Epoch: 36/100 train accuracy: 0.9826, train recall: 0.9758, train f: 0.9792
+-------------------------------------test-------------------------------------
+Epoch: 36/100 test accuracy: 0.8940, test recall: 0.9139, test f: 0.9038
+-------------------------------------train-------------------------------------
+Epoch: 37/100 train accuracy: 0.9792, train recall: 0.9758, train f: 0.9775
+-------------------------------------test-------------------------------------
+Epoch: 37/100 test accuracy: 0.9083, test recall: 0.9222, test f: 0.9152
+-------------------------------------train-------------------------------------
+Epoch: 38/100 train accuracy: 0.9827, train recall: 0.9776, train f: 0.9801
+-------------------------------------test-------------------------------------
+Epoch: 38/100 test accuracy: 0.8937, test recall: 0.9111, test f: 0.9023
+-------------------------------------train-------------------------------------
+Epoch: 39/100 train accuracy: 0.9844, train recall: 0.9802, train f: 0.9823
+-------------------------------------test-------------------------------------
+Epoch: 39/100 test accuracy: 0.8925, test recall: 0.9111, test f: 0.9017
+-------------------------------------train-------------------------------------
+Epoch: 40/100 train accuracy: 0.9818, train recall: 0.9784, train f: 0.9801
+-------------------------------------test-------------------------------------
+Epoch: 40/100 test accuracy: 0.9049, test recall: 0.9250, test f: 0.9148
+-------------------------------------train-------------------------------------
+Epoch: 41/100 train accuracy: 0.9818, train recall: 0.9758, train f: 0.9788
+-------------------------------------test-------------------------------------
+Epoch: 41/100 test accuracy: 0.8966, test recall: 0.9153, test f: 0.9058
+-------------------------------------train-------------------------------------
+Epoch: 42/100 train accuracy: 0.9844, train recall: 0.9793, train f: 0.9818
+-------------------------------------test-------------------------------------
+Epoch: 42/100 test accuracy: 0.9060, test recall: 0.9236, test f: 0.9147
+-------------------------------------train-------------------------------------
+Epoch: 43/100 train accuracy: 0.9844, train recall: 0.9784, train f: 0.9814
+-------------------------------------test-------------------------------------
+Epoch: 43/100 test accuracy: 0.9068, test recall: 0.9194, test f: 0.9131
+-------------------------------------train-------------------------------------
+Epoch: 44/100 train accuracy: 0.9766, train recall: 0.9750, train f: 0.9758
+-------------------------------------test-------------------------------------
+Epoch: 44/100 test accuracy: 0.8970, test recall: 0.9194, test f: 0.9081
+-------------------------------------train-------------------------------------
+Epoch: 45/100 train accuracy: 0.9869, train recall: 0.9801, train f: 0.9835
+-------------------------------------test-------------------------------------
+Epoch: 45/100 test accuracy: 0.9057, test recall: 0.9208, test f: 0.9132
+-------------------------------------train-------------------------------------
+Epoch: 46/100 train accuracy: 0.9852, train recall: 0.9793, train f: 0.9822
+-------------------------------------test-------------------------------------
+Epoch: 46/100 test accuracy: 0.9007, test recall: 0.9194, test f: 0.9100
+-------------------------------------train-------------------------------------
+Epoch: 47/100 train accuracy: 0.9861, train recall: 0.9802, train f: 0.9831
+-------------------------------------test-------------------------------------
+Epoch: 47/100 test accuracy: 0.9055, test recall: 0.9181, test f: 0.9117
+-------------------------------------train-------------------------------------
+Epoch: 48/100 train accuracy: 0.9826, train recall: 0.9775, train f: 0.9801
+-------------------------------------test-------------------------------------
+Epoch: 48/100 test accuracy: 0.8995, test recall: 0.9194, test f: 0.9093
+-------------------------------------train-------------------------------------
+Epoch: 49/100 train accuracy: 0.9852, train recall: 0.9793, train f: 0.9823
+-------------------------------------test-------------------------------------
+Epoch: 49/100 test accuracy: 0.9068, test recall: 0.9194, test f: 0.9131
+-------------------------------------train-------------------------------------
+Epoch: 50/100 train accuracy: 0.9853, train recall: 0.9802, train f: 0.9827
+-------------------------------------test-------------------------------------
+Epoch: 50/100 test accuracy: 0.9015, test recall: 0.9153, test f: 0.9083
+-------------------------------------train-------------------------------------
+Epoch: 51/100 train accuracy: 0.9853, train recall: 0.9810, train f: 0.9831
+-------------------------------------test-------------------------------------
+Epoch: 51/100 test accuracy: 0.9042, test recall: 0.9181, test f: 0.9111
+-------------------------------------train-------------------------------------
+Epoch: 52/100 train accuracy: 0.9861, train recall: 0.9819, train f: 0.9840
+-------------------------------------test-------------------------------------
+Epoch: 52/100 test accuracy: 0.9041, test recall: 0.9167, test f: 0.9103
+-------------------------------------train-------------------------------------
+Epoch: 53/100 train accuracy: 0.9818, train recall: 0.9776, train f: 0.9797
+-------------------------------------test-------------------------------------
+Epoch: 53/100 test accuracy: 0.8932, test recall: 0.9181, test f: 0.9055
+-------------------------------------train-------------------------------------
+Epoch: 54/100 train accuracy: 0.9836, train recall: 0.9810, train f: 0.9823
+-------------------------------------test-------------------------------------
+Epoch: 54/100 test accuracy: 0.8999, test recall: 0.9236, test f: 0.9116
+-------------------------------------train-------------------------------------
+Epoch: 55/100 train accuracy: 0.9818, train recall: 0.9776, train f: 0.9797
+-------------------------------------test-------------------------------------
+Epoch: 55/100 test accuracy: 0.8971, test recall: 0.9083, test f: 0.9027
+-------------------------------------train-------------------------------------
+Epoch: 56/100 train accuracy: 0.9801, train recall: 0.9784, train f: 0.9793
+-------------------------------------test-------------------------------------
+Epoch: 56/100 test accuracy: 0.8916, test recall: 0.9139, test f: 0.9026
+-------------------------------------train-------------------------------------
+Epoch: 57/100 train accuracy: 0.9853, train recall: 0.9836, train f: 0.9844
+-------------------------------------test-------------------------------------
+Epoch: 57/100 test accuracy: 0.8907, test recall: 0.9167, test f: 0.9035
+-------------------------------------train-------------------------------------
+Epoch: 58/100 train accuracy: 0.9861, train recall: 0.9818, train f: 0.9840
+-------------------------------------test-------------------------------------
+Epoch: 58/100 test accuracy: 0.9007, test recall: 0.9194, test f: 0.9100
+-------------------------------------train-------------------------------------
+Epoch: 59/100 train accuracy: 0.9836, train recall: 0.9836, train f: 0.9836
+-------------------------------------test-------------------------------------
+Epoch: 59/100 test accuracy: 0.8905, test recall: 0.9153, test f: 0.9027
+-------------------------------------train-------------------------------------
+Epoch: 60/100 train accuracy: 0.9818, train recall: 0.9793, train f: 0.9805
+-------------------------------------test-------------------------------------
+Epoch: 60/100 test accuracy: 0.8997, test recall: 0.9222, test f: 0.9108
+-------------------------------------train-------------------------------------
+Epoch: 61/100 train accuracy: 0.9845, train recall: 0.9845, train f: 0.9845
+-------------------------------------test-------------------------------------
+Epoch: 61/100 test accuracy: 0.8877, test recall: 0.9111, test f: 0.8992
+-------------------------------------train-------------------------------------
+Epoch: 62/100 train accuracy: 0.9844, train recall: 0.9801, train f: 0.9823
+-------------------------------------test-------------------------------------
+Epoch: 62/100 test accuracy: 0.8889, test recall: 0.9111, test f: 0.8999
+-------------------------------------train-------------------------------------
+Epoch: 63/100 train accuracy: 0.9870, train recall: 0.9818, train f: 0.9844
+-------------------------------------test-------------------------------------
+Epoch: 63/100 test accuracy: 0.8930, test recall: 0.9153, test f: 0.9040
+-------------------------------------train-------------------------------------
+Epoch: 64/100 train accuracy: 0.9835, train recall: 0.9802, train f: 0.9818
+-------------------------------------test-------------------------------------
+Epoch: 64/100 test accuracy: 0.8892, test recall: 0.9028, test f: 0.8959
+-------------------------------------train-------------------------------------
+Epoch: 65/100 train accuracy: 0.9818, train recall: 0.9793, train f: 0.9805
+-------------------------------------test-------------------------------------
+Epoch: 65/100 test accuracy: 0.8949, test recall: 0.9222, test f: 0.9083
+-------------------------------------train-------------------------------------
+Epoch: 66/100 train accuracy: 0.9852, train recall: 0.9793, train f: 0.9823
+-------------------------------------test-------------------------------------
+Epoch: 66/100 test accuracy: 0.8963, test recall: 0.9125, test f: 0.9043
+-------------------------------------train-------------------------------------
+Epoch: 67/100 train accuracy: 0.9852, train recall: 0.9801, train f: 0.9827
+-------------------------------------test-------------------------------------
+Epoch: 67/100 test accuracy: 0.8930, test recall: 0.9153, test f: 0.9040
+-------------------------------------train-------------------------------------
+Epoch: 68/100 train accuracy: 0.9791, train recall: 0.9724, train f: 0.9757
+-------------------------------------test-------------------------------------
+Epoch: 68/100 test accuracy: 0.8921, test recall: 0.9069, test f: 0.8994
+-------------------------------------train-------------------------------------
+Epoch: 69/100 train accuracy: 0.9844, train recall: 0.9802, train f: 0.9823
+-------------------------------------test-------------------------------------
+Epoch: 69/100 test accuracy: 0.9071, test recall: 0.9222, test f: 0.9146
+-------------------------------------train-------------------------------------
+Epoch: 70/100 train accuracy: 0.9896, train recall: 0.9871, train f: 0.9883
+-------------------------------------test-------------------------------------
+Epoch: 70/100 test accuracy: 0.8861, test recall: 0.9181, test f: 0.9018
+-------------------------------------train-------------------------------------
+Epoch: 71/100 train accuracy: 0.9853, train recall: 0.9810, train f: 0.9831
+-------------------------------------test-------------------------------------
+Epoch: 71/100 test accuracy: 0.9042, test recall: 0.9181, test f: 0.9111
+-------------------------------------train-------------------------------------
+Epoch: 72/100 train accuracy: 0.9861, train recall: 0.9836, train f: 0.9849
+-------------------------------------test-------------------------------------
+Epoch: 72/100 test accuracy: 0.8893, test recall: 0.9153, test f: 0.9021
+-------------------------------------train-------------------------------------
+Epoch: 73/100 train accuracy: 0.9853, train recall: 0.9810, train f: 0.9831
+-------------------------------------test-------------------------------------
+Epoch: 73/100 test accuracy: 0.8902, test recall: 0.9125, test f: 0.9012
+-------------------------------------train-------------------------------------
+Epoch: 74/100 train accuracy: 0.9836, train recall: 0.9836, train f: 0.9836
+-------------------------------------test-------------------------------------
+Epoch: 74/100 test accuracy: 0.8943, test recall: 0.9167, test f: 0.9053
+-------------------------------------train-------------------------------------
+Epoch: 75/100 train accuracy: 0.9818, train recall: 0.9793, train f: 0.9805
+-------------------------------------test-------------------------------------
+Epoch: 75/100 test accuracy: 0.8887, test recall: 0.9097, test f: 0.8991
+-------------------------------------train-------------------------------------
+Epoch: 76/100 train accuracy: 0.9844, train recall: 0.9819, train f: 0.9832
+-------------------------------------test-------------------------------------
+Epoch: 76/100 test accuracy: 0.8943, test recall: 0.9167, test f: 0.9053
+-------------------------------------train-------------------------------------
+Epoch: 77/100 train accuracy: 0.9844, train recall: 0.9801, train f: 0.9822
+-------------------------------------test-------------------------------------
+Epoch: 77/100 test accuracy: 0.8954, test recall: 0.9153, test f: 0.9052
+-------------------------------------train-------------------------------------
+Epoch: 78/100 train accuracy: 0.9862, train recall: 0.9845, train f: 0.9853
+-------------------------------------test-------------------------------------
+Epoch: 78/100 test accuracy: 0.8762, test recall: 0.9042, test f: 0.8900
+-------------------------------------train-------------------------------------
+Epoch: 79/100 train accuracy: 0.9844, train recall: 0.9810, train f: 0.9827
+-------------------------------------test-------------------------------------
+Epoch: 79/100 test accuracy: 0.8847, test recall: 0.9056, test f: 0.8950
+-------------------------------------train-------------------------------------
+Epoch: 80/100 train accuracy: 0.9879, train recall: 0.9862, train f: 0.9870
+-------------------------------------test-------------------------------------
+Epoch: 80/100 test accuracy: 0.8967, test recall: 0.9167, test f: 0.9066
+-------------------------------------train-------------------------------------
+Epoch: 81/100 train accuracy: 0.9844, train recall: 0.9793, train f: 0.9818
+-------------------------------------test-------------------------------------
+Epoch: 81/100 test accuracy: 0.8912, test recall: 0.9097, test f: 0.9003
+-------------------------------------train-------------------------------------
+Epoch: 82/100 train accuracy: 0.9827, train recall: 0.9819, train f: 0.9823
+-------------------------------------test-------------------------------------
+Epoch: 82/100 test accuracy: 0.8970, test recall: 0.9194, test f: 0.9081
+-------------------------------------train-------------------------------------
+Epoch: 83/100 train accuracy: 0.9887, train recall: 0.9845, train f: 0.9866
+-------------------------------------test-------------------------------------
+Epoch: 83/100 test accuracy: 0.8963, test recall: 0.9125, test f: 0.9043
+-------------------------------------train-------------------------------------
+Epoch: 84/100 train accuracy: 0.9870, train recall: 0.9819, train f: 0.9844
+-------------------------------------test-------------------------------------
+Epoch: 84/100 test accuracy: 0.8963, test recall: 0.9125, test f: 0.9043
+-------------------------------------train-------------------------------------
+Epoch: 85/100 train accuracy: 0.9879, train recall: 0.9836, train f: 0.9857
+-------------------------------------test-------------------------------------
+Epoch: 85/100 test accuracy: 0.8992, test recall: 0.9167, test f: 0.9078
+-------------------------------------train-------------------------------------
+Epoch: 86/100 train accuracy: 0.9887, train recall: 0.9836, train f: 0.9861
+-------------------------------------test-------------------------------------
+Epoch: 86/100 test accuracy: 0.8950, test recall: 0.9111, test f: 0.9030
+-------------------------------------train-------------------------------------
+Epoch: 87/100 train accuracy: 0.9878, train recall: 0.9819, train f: 0.9848
+-------------------------------------test-------------------------------------
+Epoch: 87/100 test accuracy: 0.8854, test recall: 0.9014, test f: 0.8933
+-------------------------------------train-------------------------------------
+Epoch: 88/100 train accuracy: 0.9896, train recall: 0.9853, train f: 0.9875
+-------------------------------------test-------------------------------------
+Epoch: 88/100 test accuracy: 0.8977, test recall: 0.9139, test f: 0.9057
+-------------------------------------train-------------------------------------
+Epoch: 89/100 train accuracy: 0.9870, train recall: 0.9836, train f: 0.9853
+-------------------------------------test-------------------------------------
+Epoch: 89/100 test accuracy: 0.8922, test recall: 0.9083, test f: 0.9002
+-------------------------------------train-------------------------------------
+Epoch: 90/100 train accuracy: 0.9861, train recall: 0.9819, train f: 0.9840
+-------------------------------------test-------------------------------------
+Epoch: 90/100 test accuracy: 0.8928, test recall: 0.9139, test f: 0.9032
+-------------------------------------train-------------------------------------
+Epoch: 91/100 train accuracy: 0.9843, train recall: 0.9775, train f: 0.9809
+-------------------------------------test-------------------------------------
+Epoch: 91/100 test accuracy: 0.9012, test recall: 0.9125, test f: 0.9068
+-------------------------------------train-------------------------------------
+Epoch: 92/100 train accuracy: 0.9836, train recall: 0.9819, train f: 0.9827
+-------------------------------------test-------------------------------------
+Epoch: 92/100 test accuracy: 0.8794, test recall: 0.9111, test f: 0.8950
+-------------------------------------train-------------------------------------
+Epoch: 93/100 train accuracy: 0.9836, train recall: 0.9827, train f: 0.9832
+-------------------------------------test-------------------------------------
+Epoch: 93/100 test accuracy: 0.8865, test recall: 0.9111, test f: 0.8986
+-------------------------------------train-------------------------------------
+Epoch: 94/100 train accuracy: 0.9801, train recall: 0.9793, train f: 0.9797
+-------------------------------------test-------------------------------------
+Epoch: 94/100 test accuracy: 0.8951, test recall: 0.9125, test f: 0.9037
+-------------------------------------train-------------------------------------
+Epoch: 95/100 train accuracy: 0.9861, train recall: 0.9836, train f: 0.9849
+-------------------------------------test-------------------------------------
+Epoch: 95/100 test accuracy: 0.8939, test recall: 0.9125, test f: 0.9031
+-------------------------------------train-------------------------------------
+Epoch: 96/100 train accuracy: 0.9844, train recall: 0.9793, train f: 0.9818
+-------------------------------------test-------------------------------------
+Epoch: 96/100 test accuracy: 0.8931, test recall: 0.9167, test f: 0.9047
+-------------------------------------train-------------------------------------
+Epoch: 97/100 train accuracy: 0.9835, train recall: 0.9784, train f: 0.9810
+-------------------------------------test-------------------------------------
+Epoch: 97/100 test accuracy: 0.9034, test recall: 0.9222, test f: 0.9127
+-------------------------------------train-------------------------------------
+Epoch: 98/100 train accuracy: 0.9896, train recall: 0.9879, train f: 0.9888
+-------------------------------------test-------------------------------------
+Epoch: 98/100 test accuracy: 0.8969, test recall: 0.9181, test f: 0.9073
+-------------------------------------train-------------------------------------
+Epoch: 99/100 train accuracy: 0.9922, train recall: 0.9896, train f: 0.9909
+-------------------------------------test-------------------------------------
+Epoch: 99/100 test accuracy: 0.9026, test recall: 0.9139, test f: 0.9082
+-------------------------------------train-------------------------------------
+Epoch: 100/100 train accuracy: 0.9862, train recall: 0.9862, train f: 0.9862
+-------------------------------------test-------------------------------------
+Epoch: 100/100 test accuracy: 0.9067, test recall: 0.9181, test f: 0.9124
+
+Process finished with exit code 0
+16
+0.08
+bilstm+att+crf

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="django" name="Django">
+      <configuration>
+        <option name="rootFolder" value="$MODULE_DIR$/src/com/gzu/demo" />
+        <option name="settingsModule" value="settings.py" />
+        <option name="manageScript" value="$MODULE_DIR$/src/com/gzu/manager.py" />
+        <option name="environment" value="&lt;map/&gt;" />
+        <option name="doNotUseTestRunner" value="false" />
+        <option name="trackFilePattern" value="migrations" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="TemplatesService">
+    <option name="TEMPLATE_CONFIGURATION" value="Django" />
+    <option name="TEMPLATE_FOLDERS">
+      <list>
+        <option value="$MODULE_DIR$/src/com/gzu/static/assets/jquery-knob" />
+        <option value="$MODULE_DIR$/src/com/gzu/static/assets/chart-master/docs" />
+        <option value="$MODULE_DIR$/src/com/gzu/static/assets/chart-master/site" />
+        <option value="$MODULE_DIR$/src/com/gzu/static/assets/chart-master/samples" />
+        <option value="$MODULE_DIR$/src/com/gzu/static/assets/fullcalendar/demos" />
+        <option value="$MODULE_DIR$/src/com/gzu/static/assets/jquery-easy-pie-chart/examples" />
+        <option value="$MODULE_DIR$/src/com/gzu/templates" />
+      </list>
+    </option>
+  </component>
+</module>

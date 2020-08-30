@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/com/gzu/dfs_tree_crawler/treenode_list.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/gzu/wikidataSpider/TrainDataBaseOnWiki/filter_train_data_all.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/gzu/wikidataSpider/TrainDataBaseOnWiki/filter_train_data_all.txt_deduplication.txt" charset="GBK" />
+  </component>
+</project>

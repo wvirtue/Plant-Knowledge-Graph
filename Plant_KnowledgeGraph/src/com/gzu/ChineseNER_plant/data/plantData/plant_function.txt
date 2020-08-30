@@ -1,0 +1,4495 @@
+峨参/O
+根/O 入药/O
+为/O 滋补/O 强壮剂/O
+治/O 脾/B_Disease 虚/M_Disease 食/M_Disease 胀/E_Disease
+肺/B_Disease 虚/M_Disease 咳/M_Disease 喘/E_Disease
+水/B_Disease 肿/E_Disease 等/O
+峨眉半蒴苣苔/O
+全/O 草药/O 用/O
+治疗/O 痈/S_Disease
+峨眉唐松草/O
+全/O 草药/O 用/O
+治/O 疟/B_Disease 疾/M_Disease 寒/M_Disease 热/E_Disease
+湿/B_Disease 热/M_Disease 发/M_Disease 黄/E_Disease
+腹/B_Disease 痛/M_Disease 泻/M_Disease 痢/E_Disease 等/O 症/O （/O 中国/O 药用植物/O 志/O ）/O
+毛梗川黔翠雀花/O
+根/O 药用/O
+治/O 无/B_Disease 名/M_Disease 肿/M_Disease 毒/E_Disease （/O 贵州/O 草药/O ）/O
+莪术/O
+根茎/O 供/O 药用/O
+主治/O
+气/B_Disease 血/M_Disease 凝/M_Disease 滞/E_Disease
+心/B_Disease 腹/M_Disease 胀/M_Disease 痛/E_Disease
+症瘕/O
+积聚/O
+宿/B_Disease 食/M_Disease 不/M_Disease 消/E_Disease
+妇女/O 血/B_Disease 瘀/M_Disease 经/M_Disease 闭/E_Disease
+跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease 作痛/O
+柳叶白前/O
+民间/O 用/O 其/O 根治/O 肺/B_Disease 病/E_Disease
+小/B_Disease 儿/M_Disease 疳/M_Disease 积/E_Disease
+感/B_Disease 冒/M_Disease 咳/M_Disease 嗽/E_Disease 及/O 慢/B_Disease 性/M_Disease 支/M_Disease 气/M_Disease 管/M_Disease 炎/E_Disease 等/O
+无心菜/O
+全草/O 入药/O
+清热解毒/O
+治/O 麦/B_Disease 粒/M_Disease 肿/E_Disease 和/O 咽/B_Disease 喉/M_Disease 痛/E_Disease 等/O 病/O
+鹅肠菜/O
+全草/O 供/O 药用/O
+驱风/O 解毒/O
+外敷/O 治/O 疖/B_Disease 疮/E_Disease
+天胡荽/O
+全草/O 入药/O
+清热/O
+利尿/O
+消肿/O
+解毒/O
+治/O 黄/B_Disease 疸/E_Disease
+赤/B_Disease 白/M_Disease 痢/M_Disease 疾/E_Disease
+目/B_Disease 翳/E_Disease
+喉/B_Disease 肿/E_Disease
+痈/B_Disease 疽/M_Disease 疔/M_Disease 疮/E_Disease
+跌/B_Disease 打/M_Disease 瘀/M_Disease 伤/E_Disease
+破铜钱/O
+全草/O 入药/O
+治/O 砂/B_Disease 淋/E_Disease
+黄/B_Disease 疸/E_Disease
+肝/B_Disease 炎/E_Disease
+肾/B_Disease 炎/E_Disease
+肝/B_Disease 火/M_Disease 头/M_Disease 痛/E_Disease
+火/B_Disease 眼/E_Disease
+百/B_Disease 日/M_Disease 咳/E_Disease 等/O
+乌头/O
+在/O 医疗/O 上/O
+附子/O 治/O 大/B_Disease 汗/M_Disease 亡/M_Disease 阳/E_Disease
+四/B_Disease 肢/M_Disease 厥/M_Disease 逆/E_Disease
+霍/B_Disease 乱/M_Disease 转/M_Disease 筋/E_Disease
+脉/B_Disease 微/M_Disease 欲/M_Disease 绝/E_Disease
+肾阳/O 衰弱/O 的/O 腰/B_Disease 膝/M_Disease 冷/M_Disease 痛/E_Disease
+阳/B_Disease 痿/E_Disease
+水/B_Disease 肿/E_Disease
+脾阳/O 衰弱/O 的/O 泄/B_Disease 泻/M_Disease 久/M_Disease 痢/E_Disease
+脘/B_Disease 腹/M_Disease 冷/M_Disease 痛/E_Disease
+形/B_Disease 寒/M_Disease 畏/M_Disease 冷/E_Disease
+精/B_Disease 神/M_Disease 不/M_Disease 振/E_Disease
+以及/O 风/B_Disease 寒/M_Disease 湿/M_Disease 痹/E_Disease
+脚/B_Disease 气/E_Disease 等/O 症/O （/O 中药/O 志/O ）/O
+乌头/O
+川乌/O 治/O 中/B_Disease 风/E_Disease
+拘挛/O 疼痛/O
+半/B_Disease 身/M_Disease 不/M_Disease 遂/E_Disease
+风/O 痰/O 积聚/O
+癫/B_Disease 癎/E_Disease 等/O 症/O （/O 中药材/O 手册/O ）/O
+黄山乌头/O
+块根/O 药用/O
+治/O 跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease
+无/B_Disease 名/M_Disease 肿/M_Disease 毒/E_Disease 等/O 症/O
+还/O 可作/O 箭/B_Disease 毒/E_Disease （/O 浙江/O 天目山/O 药用植物/O 志/O ）/O
+檫木/O
+根/O 和/O 树皮/O 入药/O
+功能/O 活血/O 散/O 瘀/O
+祛风/O 去/O 湿/O
+治/O 扭/B_Disease 挫/M_Disease 伤/E_Disease 和/O 腰/B_Disease 肌/M_Disease 劳/M_Disease 伤/E_Disease
+土荆芥/O
+全草/O 入药/O
+治/O 蛔/B_Disease 虫/M_Disease 病/E_Disease
+钩/B_Disease 虫/M_Disease 病/E_Disease
+蛲/B_Disease 虫/M_Disease 病/E_Disease
+外用/O 治/O 皮/B_Disease 肤/M_Disease 湿/M_Disease 疹/E_Disease
+并/O 能/O 杀蛆虫/O
+鹅毛玉凤花/O
+块茎/O 药用/O
+有/O 利尿/O 消肿/O
+壮/O 腰/O 补肾/O 之/O 效/O
+治/O 腰/B_Disease 痛/E_Disease
+疝/B_Disease 气/E_Disease 等/O 症/O
+蕨麻/O
+在/O 甘肃/O
+青海/O
+西藏/O 高寒/O 地区/O
+根部/O 膨大/O
+含/O 丰富/O 淀粉/O
+市称/O
+或/O
+人参果/O
+治/O 贫/B_Disease 血/E_Disease 和/O 营/B_Disease 养/M_Disease 不/M_Disease 良/E_Disease 等/O
+又/O 可供/O 甜制/O 食品/O 及/O 酿酒/O 用/O
+鸡娃草/O
+青海/O 民间/O 用/O 此种/O 植物/O 的/O 叶/O 治疗/O 某些/O 癣疾/O
+效果/O 很/O 好/O
+鹅掌草/O
+根状茎/O 可/O 药用/O
+治/O 跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease （/O 浙江/O 天目山/O 药用植物/O 志/O ）/O
+痄腮树/O
+根皮/O 和/O 叶/O 有/O 清热解毒/O 的/O 功效/O
+但有/O 小毒/O
+广西/O 民间/O 用于/O 治/O 腮/B_Disease 腺/M_Disease 炎/E_Disease
+痄腮树/O
+叶/O 外用/O 治/O 皮/B_Disease 炎/E_Disease
+鹅掌柴/O
+叶/O 及/O 根皮/O 民间/O 供/O 药用/O
+治疗/O 流/B_Disease 感/E_Disease
+跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease 等/O 症/O
+白簕/O
+本种/O 为/O 民间/O 常用/O 草药/O
+根/O 有/O 祛风除湿/O
+舒筋活血/O
+消肿/O 解毒/O 之/O 效/O
+治感冒/O
+咳/B_Disease 嗽/E_Disease
+风/B_Disease 湿/E_Disease
+坐/B_Disease 骨/M_Disease 神/M_Disease 经/M_Disease 痛/E_Disease 等/O 症/O
+爪哇唐松草/O
+全草/O 可治/O 关/B_Disease 节/M_Disease 炎/E_Disease
+爪哇唐松草/O
+根/O 可/O 解热/O
+治/O 跌/B_Disease 打/E_Disease 等/O 症/O
+美丽唐松草/O
+根/O 可治/O 炭/B_Disease 疽/M_Disease 病/E_Disease 等/O 症/O
+大籽蒿/O
+高原地区/O 用于/O 治疗/O 太阳/O 紫外线/O 辐射/O 引起/O 的/O 灼伤/O
+鳄嘴花/O
+全株/O 入药/O
+有/O 调经/O
+消肿/O
+去/O 瘀/O
+止痛/O
+接骨/O 之/O 效/O
+可治/O 跌/B_Disease 打/E_Disease
+贫/B_Disease 血/E_Disease
+黄/B_Disease 疽/E_Disease
+风/B_Disease 湿/E_Disease 等/O
+重齿当归/O
+根/O 为/O 常用/O 中药/O 独活/O 的/O 主要/O 品种/O
+主治/O 风/B_Disease 寒/M_Disease 湿/M_Disease 痹/E_Disease
+腰/B_Disease 膝/M_Disease 酸/M_Disease 痛/E_Disease
+头/B_Disease 痛/E_Disease
+齿/B_Disease 痛/E_Disease
+痈疡/O
+漫肿/O 等/O 症/O
+酒饼簕/O
+与/O 其他/O 草药/O 配用/O 治/O 支/B_Disease 气/M_Disease 管/M_Disease 炎/E_Disease
+风/B_Disease 寒/M_Disease 咳/M_Disease 嗽/E_Disease
+感/B_Disease 冒/M_Disease 发/M_Disease 热/E_Disease
+风/B_Disease 湿/M_Disease 关/M_Disease 节/M_Disease 炎/E_Disease
+慢/B_Disease 性/M_Disease 胃/M_Disease 炎/E_Disease
+胃/B_Disease 溃/M_Disease 疡/E_Disease 及/O 跌/B_Disease 打/M_Disease 肿/M_Disease 痛/E_Disease 等/O
+白花丹/O
+1300/O 多年/O 来/O 一直/O 为/O 民间/O 常用药/O
+用以/O 治疗/O 风/B_Disease 湿/M_Disease 跌/M_Disease 打/E_Disease
+筋/B_Disease 骨/M_Disease 疼/M_Disease 痛/E_Disease
+癣/B_Disease 疥/M_Disease 恶/M_Disease 疮/E_Disease 和/O 蛇/B_Disease 咬/M_Disease 伤/E_Disease
+并/O 用以/O 灭孑孓/O
+蝇/B_Disease 蛆/E_Disease
+耳叶马兜铃/O
+种子/O 治/O 喉/B_Disease 炎/E_Disease
+牛皮消/O
+药用/O 块根/O
+养阴清/O 热/O
+润肺/O 止咳/O
+可治/O 神/B_Disease 经/M_Disease 衰/M_Disease 弱/E_Disease
+胃/O 及/O 十/B_Disease 二/M_Disease 指/M_Disease 肠/M_Disease 溃/M_Disease 疡/E_Disease
+肾/B_Disease 炎/E_Disease
+水/B_Disease 肿/E_Disease 等/O
+耳状人字果/O
+全草/O 供/O 药用/O
+可/O 止咳化痰/O
+又/O 可治/O 母/B_Disease 猪/M_Disease 疯/E_Disease
+忍冬/O
+金银花/O 露/O
+是/O 金银花/O 用/O 蒸馏/O 法/O 提取/O 的/O 芳香性/O 挥发油/O 及/O 水溶性/O 溜出/O 物/O
+为/O 清火/O 解毒/O 的/O 良品/O
+可治/O 小/B_Disease 儿/M_Disease 胎/M_Disease 毒/E_Disease
+疮/B_Disease 疖/E_Disease
+发/B_Disease 热/M_Disease 口/M_Disease 喝/E_Disease 等/O 症/O
+忍冬/O
+暑季/O 用以/O 代茶/O
+能治/O 温/B_Disease 热/M_Disease 痧/M_Disease 痘/E_Disease
+血/B_Disease 痢/E_Disease 等/O
+二裂委陵菜/O
+本/O 种/O 植物/O 幼芽/O 密集/O 簇生/O
+形成/O 红/O 紫色/O 的/O 垫/O 状丛/O
+内蒙古/O 土/O 名称/O
+地/O 红花/O
+据传/O 可/O 入药/O 能/O 止血/O
+主治/O 功/B_Disease 能/M_Disease 性/M_Disease 子/M_Disease 宫/M_Disease 出/M_Disease 血/E_Disease
+产/B_Disease 后/M_Disease 出/M_Disease 血/M_Disease 过/M_Disease 多/E_Disease
+赶山鞭/O
+全草/O 又/O 可/O 入药/O
+捣烂/O 治/O 跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease 或/O 煎/O 服作/O 蛇/O 药用/O
+红花绿绒蒿/O
+花茎/O 及果/O 入药/O
+有/O 镇痛/O 止咳/O
+固涩/O
+抗菌/O 的/O 功效/O
+治/O 遗/B_Disease 精/E_Disease
+白/B_Disease 带/E_Disease
+肝/B_Disease 硬/M_Disease 化/E_Disease
+木竹子/O
+树皮/O 入药/O
+有/O 消炎/O 功效/O
+可治/O 各种/O 炎/B_Disease 症/E_Disease
+假朝天罐/O
+全株/O 入药/O
+有/O 清热/O 收敛/O 止血/O 的/O 功效/O
+也/O 有用/O 根治/O 痢/B_Disease 疾/E_Disease 及/O 淋/B_Disease 病/E_Disease
+阿尔泰银莲花/O
+根状茎/O 药用/O
+治/O 癫/B_Disease 癎/E_Disease
+神/B_Disease 经/M_Disease 衰/M_Disease 弱/E_Disease
+风/B_Disease 湿/M_Disease 关/M_Disease 节/M_Disease 痛/E_Disease 等/O 症/O
+（/O 陕西/O 中草药/O ）/O
+罂粟/O
+未成熟/O 果实/O 含/O 乳白色/O 浆液/O
+制干/O 后/O 即为/O 鸦片/O
+和/O 果壳/O 均/O 含/O 吗啡/O
+可待因/O
+碱/O 等/O 多种/O 生物碱/O
+加工/O 入药/O
+有/O 敛/O 肺/O
+涩/O 肠/O
+止咳/O
+止痛/O 和/O 催眠/O 等/O 功效/O
+治/O 久/B_Disease 咳/E_Disease
+久/B_Disease 泻/E_Disease
+久/B_Disease 痢/E_Disease
+脱/B_Disease 肛/E_Disease
+心/B_Disease 腹/M_Disease 筋/M_Disease 骨/M_Disease 诸/M_Disease 痛/E_Disease
+糖胶树/O
+在/O 印度/O 用/O 其/O 树皮/O
+叶/O 及/O 乳汁/O 来/O 提炼/O 药物/O 治/O 疟/B_Disease 疾/E_Disease 和/O 发汗/O
+糖胶树/O
+在/O 我国/O 民间/O 则/O 用/O 其/O 树皮/O 来治/O 头/B_Disease 痛/E_Disease
+伤/B_Disease 风/E_Disease
+痧/B_Disease 气/E_Disease
+肺/B_Disease 炎/E_Disease
+百/B_Disease 日/M_Disease 咳/E_Disease
+慢/B_Disease 性/M_Disease 支/M_Disease 气/M_Disease 管/M_Disease 炎/E_Disease
+糖胶树/O
+外用/O 可治/O 外/B_Disease 伤/E_Disease 止血/O
+接骨/O
+消肿/O
+疮节/O 及/O 配制/O 杀虫剂/O 等/O
+蜀葵/O
+全草/O 入药/O
+有/O 清热/O 止血/O
+消肿/O 解毒/O 之/O 功/O
+治/O 吐/B_Disease 血/E_Disease
+血/B_Disease 崩/E_Disease 等/O 症/O
+茵芋/O
+用作/O 草药/O
+治/O 风/B_Disease 湿/E_Disease
+茵芋/O
+湖北/O 民间/O 用/O 全株/O 作/O 草药/O
+治/O 肾/B_Disease 炎/E_Disease
+水/B_Disease 肿/E_Disease
+篦子三尖杉/O
+叶/O
+枝/O
+种子/O
+根/O 可/O 提取/O 多种/O 植物/O 碱/O
+对/O 治疗/O 白/B_Disease 血/M_Disease 病/E_Disease 及/O 淋/B_Disease 巴/M_Disease 肉/M_Disease 瘤/E_Disease 等/O 有/O 一定/O 疗效/O
+链珠藤/O
+民间/O 常用/O 于/O 治/O 风/B_Disease 火/E_Disease
+齿/B_Disease 痛/E_Disease
+风/B_Disease 湿/M_Disease 性/M_Disease 关/M_Disease 节/M_Disease 痛/E_Disease
+胃/B_Disease 痛/E_Disease 和/O 跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease 等/O
+阿米芹/O
+果实/O 中/O 含/O 凯林/O (/O Khellin/O )/O 成份/O
+用于/O 治疗/O 冠状动脉/O 性疾病/O
+如/O 狭心症/O
+冠状/O 血栓症/O 等/O
+阿米芹/O
+欧洲/O 民间/O 用/O 本/O 植物/O 医治/O 尿/B_Disease 泌/M_Disease 系/M_Disease 统/M_Disease 疾/M_Disease 患/E_Disease 和/O 通/B_Disease 经/E_Disease
+阴香/O
+皮为/O 末/O
+用/O 酒调/O 敷/O
+治/O 恶毒/O 大疮飞蛇疮/O 等/O
+全缘叶绿绒蒿/O
+花前/O 采叶/O 入药/O
+治/O 胃/O 中/O 反酸/O
+全缘叶绿绒蒿/O
+花/O 退热/O 催吐/O
+消炎/O
+治/O 跌/B_Disease 打/E_Disease 骨/B_Disease 折/E_Disease
+黑虎耳草/O
+退热/O
+治/O 肺部/O 疾病/O
+紫金牛/O
+全株/O 及/O 根供/O 药用/O
+治/O 肺/B_Disease 结/M_Disease 核/E_Disease
+咯/B_Disease 血/E_Disease
+咳/B_Disease 嗽/E_Disease
+慢/B_Disease 性/M_Disease 气/M_Disease 管/M_Disease 炎/E_Disease 效果/O 很/O 好/O
+紫金牛/O
+亦/O 治/O 跌/B_Disease 打/M_Disease 风/M_Disease 湿/E_Disease
+黄/B_Disease 胆/M_Disease 肝/M_Disease 炎/E_Disease
+睾/B_Disease 丸/M_Disease 炎/E_Disease
+白/B_Disease 带/E_Disease
+闭/B_Disease 经/E_Disease
+尿/B_Disease 路/M_Disease 感/M_Disease 染/E_Disease 等/O 症/O
+为/O 我国/O 民间/O 常用/O 的/O 中草药/O
+也/O 是/O 常见/O 的/O 花卉/O
+九节龙/O
+全草/O 供/O 药用/O
+有/O 消肿止痛/O 的/O 功效/O
+用于/O 治/O 跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease
+月/B_Disease 经/M_Disease 不/M_Disease 调/E_Disease
+黄/B_Disease 疸/E_Disease 等/O
+九节龙/O
+又/O 治/O 蛇/B_Disease 咬/M_Disease 伤/E_Disease
+矮地榆/O
+本种/O 根/O 入药/O
+治/O 痛/B_Disease 经/E_Disease 等/O 症/O
+地枫皮/O
+皮/O 为/O 祛风除湿/O 中药/O
+主治/O 风/B_Disease 湿/M_Disease 性/M_Disease 关/M_Disease 节/M_Disease 痛/E_Disease
+腰/B_Disease 肌/M_Disease 劳/M_Disease 损/E_Disease 等/O 症/O
+矮金莲花/O
+全草/O 供/O 药用/O
+主治/O 伤/B_Disease 风/E_Disease
+感/B_Disease 冒/E_Disease （/O 秦岭/O 植物/O 志/O ）/O
+独脚金/O
+全/O 草药/O 用/O
+为/O 治/O 小/B_Disease 儿/M_Disease 疳/M_Disease 积/E_Disease 良药/O
+罗勒/O
+全草/O 入药/O
+治/O 胃/B_Disease 痛/E_Disease
+胃/B_Disease 痉/M_Disease 挛/E_Disease
+胃肠/O 胀气/O
+消/B_Disease 化/M_Disease 不/M_Disease 良/E_Disease
+肠/B_Disease 炎/M_Disease 腹/M_Disease 泻/E_Disease
+外/B_Disease 感/M_Disease 风/M_Disease 寒/E_Disease
+头/B_Disease 痛/E_Disease
+胸/B_Disease 痛/E_Disease
+跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease
+瘀/O 肿/O
+风/B_Disease 湿/M_Disease 性/M_Disease 关/M_Disease 节/M_Disease 炎/E_Disease
+小儿/O 发/B_Disease 热/E_Disease
+肾/B_Disease 脏/M_Disease 炎/E_Disease
+蛇/B_Disease 咬/M_Disease 伤/E_Disease
+煎/O 水洗/O 湿/B_Disease 疹/E_Disease 及/O 皮/B_Disease 炎/E_Disease
+罗勒/O
+种子/O 名/O 光明子/O
+主治/O 目/B_Disease 翳/E_Disease
+并/O 试用/O 于/O 避孕/O
+齿叶矮冷水花/O
+华东地区/O 农村/O 常用/O 来治/O 蛇/B_Disease 咬/M_Disease 伤/E_Disease
+野拔子/O
+枝叶/O 可/O 入药/O
+为/O 西南/O 各省/O 常用/O 中草药/O
+治/O 伤/B_Disease 风/M_Disease 感/M_Disease 冒/E_Disease
+消/B_Disease 化/M_Disease 不/M_Disease 良/E_Disease
+腹/B_Disease 痛/M_Disease 腹/M_Disease 胀/E_Disease
+上/B_Disease 吐/M_Disease 下/M_Disease 泻/E_Disease
+胃/B_Disease 肠/M_Disease 炎/E_Disease
+绞/B_Disease 肠/M_Disease 痧/E_Disease
+伤/B_Disease 寒/M_Disease 发/M_Disease 热/E_Disease
+痢/B_Disease 疾/E_Disease
+鼻/B_Disease 衄/E_Disease
+咳/B_Disease 血/E_Disease
+产/B_Disease 后/M_Disease 腹/M_Disease 痛/E_Disease
+外/B_Disease 伤/M_Disease 出/M_Disease 血/E_Disease
+烂/B_Disease 疮/E_Disease
+蛇/B_Disease 咬/M_Disease 伤/E_Disease 等/O 症/O
+算盘子/O
+根/O
+茎/O
+叶/O 和/O 果实/O 均/O 可/O 药用/O
+有/O 活血/O 散/O 瘀/O
+消肿/O 解毒/O 之/O 效/O
+治/O 痢/B_Disease 疾/E_Disease
+腹/B_Disease 泻/E_Disease
+感/B_Disease 冒/M_Disease 发/M_Disease 热/E_Disease
+咳/B_Disease 嗽/E_Disease
+食/B_Disease 滞/M_Disease 腹/M_Disease 痛/E_Disease
+湿/B_Disease 热/M_Disease 腰/M_Disease 痛/E_Disease
+跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease
+氙/B_Disease 气/E_Disease （/O 果/O ）/O 等/O
+矮紫金牛/O
+树皮/O 含/O 单宁/O
+亦/O 供/O 药用/O
+煎/B_Disease 水/E_Disease 服治/O 头/B_Disease 痛/E_Disease
+便/B_Disease 血/E_Disease 等/O 症/O
+艾叶火绒草/O
+中甸/O 用/O 此/O 草治/O 扁/B_Disease 桃/M_Disease 腺/M_Disease 炎/E_Disease
+咽/B_Disease 炎/M_Disease 极/M_Disease 有/M_Disease 效/E_Disease
+名为/O
+蛾药/O
+干时/O 有/O 香气/O
+安龙香科科/O
+云南/O 富源/O 用/O 全草/O 入药/O
+治/O 小/B_Disease 儿/M_Disease 消/M_Disease 化/M_Disease 不/M_Disease 良/E_Disease 及/O 腹/B_Disease 胀/M_Disease 病/E_Disease
+石榴/O
+果皮/O 入药/O
+称/O 皮/O
+味/O 酸涩/O
+性温/O
+功能/O 涩/O 肠/O 止血/O
+治/O 慢/B_Disease 性/M_Disease 下/M_Disease 痢/E_Disease 及/O 肠/B_Disease 痔/M_Disease 出/M_Disease 血/E_Disease 等/O 症/O
+根皮/O 可/O 驱绦虫/O 和/O 蛔虫/O
+九节/O
+治/O 扁/B_Disease 挑/M_Disease 体/M_Disease 炎/E_Disease
+白/B_Disease 喉/E_Disease
+疮/B_Disease 疡/M_Disease 肿/M_Disease 毒/E_Disease
+风/B_Disease 湿/M_Disease 疼/M_Disease 痛/E_Disease
+跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease
+感/B_Disease 冒/M_Disease 发/M_Disease 热/E_Disease
+咽/B_Disease 喉/M_Disease 肿/M_Disease 痛/E_Disease
+胃/B_Disease 痛/E_Disease
+痢/B_Disease 疾/E_Disease
+痔/B_Disease 疮/E_Disease 等/O
+凹脉马兜铃/O
+可/O 治疗/O 胃/B_Disease 痛/E_Disease
+风/B_Disease 湿/M_Disease 痛/E_Disease
+跌/B_Disease 打/M_Disease 肿/M_Disease 痛/E_Disease
+肠/B_Disease 炎/E_Disease 及/O 小/B_Disease 儿/M_Disease 麻/M_Disease 痹/M_Disease 后/M_Disease 遗/M_Disease 症/E_Disease 等/O
+凹叶景天/O
+全/O 草药/O 用/O
+可/O 清热解毒/O
+散/O 瘀/O 消肿/O
+治/O 跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease
+热/B_Disease 疖/E_Disease
+疮/B_Disease 毒/E_Disease 等/O
+吊裙草/O
+本种/O 可供/O 药用/O
+可/O 祛风除湿/O
+消肿止痛/O
+治/O 风/B_Disease 湿/E_Disease 麻/B_Disease 痹/E_Disease
+关/B_Disease 节/M_Disease 肿/M_Disease 痛/E_Disease 等/O 症/O
+小叶棘豆/O
+本/O 种/O 药用/O
+可治/O 黄/B_Disease 疸/E_Disease
+肝/B_Disease 炎/E_Disease
+小叶棘豆/O
+据/O 《/O 西藏阿里地区/O 动植物/O 考察报告/O 》/O （/O 1979/O 年/O
+142/O 页/O ）/O 记载/O ：/O 可/O 治疗/O 炭/B_Disease 疽/E_Disease
+便/B_Disease 血/E_Disease
+肠/B_Disease 炎/M_Disease 腹/M_Disease 泻/E_Disease
+创/B_Disease 伤/M_Disease 出/M_Disease 血/E_Disease
+疮/B_Disease 疖/M_Disease 痈/M_Disease 疽/E_Disease 等/O
+小叶棘豆/O
+兽医/O 用于/O 治疗/O 马鞍/O 伤/O
+甘青报春/O
+藏族/O 民间/O 常用/O 草药/O
+可治/O 神/B_Disease 经/M_Disease 痛/E_Disease
+关/B_Disease 节/M_Disease 痛/E_Disease
+高/B_Disease 血/M_Disease 压/E_Disease 及/O 烫/B_Disease 伤/E_Disease
+疮/B_Disease 疖/E_Disease 等/O
+橄榄/O
+药用/O 治/O 喉/B_Disease 头/M_Disease 炎/E_Disease
+咳/B_Disease 血/E_Disease
+烦/B_Disease 渴/E_Disease
+肠/B_Disease 炎/M_Disease 腹/M_Disease 泻/E_Disease
+橄榄/O
+核供/O 雕刻/O
+兼/O 药用/O
+治鱼/O 骨/B_Disease 鲠/M_Disease 喉/E_Disease 有效/O
+剑叶紫金牛/O
+有用/O 其/O 根/O 与/O 其他/O 草药/O 配伍/O 治鹅/O 喉/O
+小升麻/O
+根状茎/O 可/O 供/O 药用/O
+治/O 劳/B_Disease 伤/M_Disease 内/M_Disease 损/E_Disease
+疖/B_Disease 毒/E_Disease 等/O 症/O
+也/O 可作/O 土/O 农药/O （/O 浙江/O 天目山/O 药用植物/O 志/O ）/O
+蝴蝶花/O
+为/O 民间/O 草药/O
+用于/O 清热解毒/O
+消瘀逐水/O
+治疗/O 小/B_Disease 儿/M_Disease 发/M_Disease 烧/E_Disease
+肺/B_Disease 病/M_Disease 咳/M_Disease 血/E_Disease
+喉/B_Disease 痛/E_Disease
+外/B_Disease 伤/M_Disease 瘀/M_Disease 血/E_Disease 等/O
+毛菍/O
+根/O
+叶/O 可供/O 药用/O
+根/O 有/O 收敛/O 止血/O
+消食/O 止痢/O 的/O 作用/O
+治水/O 泻/O 便/B_Disease 血/E_Disease
+妇/B_Disease 女/M_Disease 血/M_Disease 崩/E_Disease
+止血/O 止痛/O
+毛菍/O
+叶/O 捣烂/O 外敷/O 有/O 拔毒/O 生肌/O 止血/O 的/O 作用/O
+治/O 刀/B_Disease 伤/E_Disease 跌/B_Disease 打/E_Disease
+接骨/O
+疮/B_Disease 疖/E_Disease
+毛虫/O 毒/O 等/O
+康定五加/O
+本种/O 根皮/O 供/O 药用/O
+在/O 西藏/O 用以/O 治疗/O 风/B_Disease 湿/M_Disease 性/M_Disease 关/M_Disease 节/M_Disease 痛/E_Disease 及/O 跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease 等/O 症/O
+南烛/O
+江西/O 民间/O 草/O 医用/O 叶/O 捣烂/O 治/O 刀/O 斧/O 砍伤/O
+木蝴蝶/O
+种子/O
+树皮/O 入药/O
+可/O 消炎/O 镇痛/O
+治/O 心/B_Disease 气/M_Disease 痛/E_Disease
+肝气/O 痛/O
+支/B_Disease 气/M_Disease 管/M_Disease 炎/E_Disease 及/O 胃/O
+十/B_Disease 二/M_Disease 指/M_Disease 肠/M_Disease 溃/M_Disease 疡/E_Disease
+活血丹/O
+民间/O 广泛/O 用/O 全草/O 或/O 茎/O 叶/O 入药/O
+治/O 膀/B_Disease 胱/M_Disease 结/M_Disease 石/E_Disease 或/O 尿/B_Disease 路/M_Disease 结/M_Disease 石/M_Disease 有/M_Disease 效/E_Disease
+外敷/O 跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease
+骨/B_Disease 折/E_Disease
+外/B_Disease 伤/M_Disease 出/M_Disease 血/E_Disease
+疮/B_Disease 疖/M_Disease 痈/M_Disease 肿/E_Disease 丹/B_Disease 毒/E_Disease
+风/B_Disease 癣/E_Disease
+内服/O 亦/O 治/O 伤/B_Disease 风/M_Disease 咳/M_Disease 嗽/E_Disease
+流/B_Disease 感/E_Disease
+吐/B_Disease 血/E_Disease
+咳/B_Disease 血/E_Disease
+衂/B_Disease 血/E_Disease
+下/B_Disease 血/E_Disease
+尿/B_Disease 血/E_Disease
+痢/B_Disease 疾/E_Disease
+疟/B_Disease 疾/E_Disease
+妇/B_Disease 女/M_Disease 月/M_Disease 经/M_Disease 不/M_Disease 调/E_Disease
+痛/B_Disease 经/E_Disease
+红/B_Disease 崩/E_Disease
+白/B_Disease 带/E_Disease
+产/B_Disease 后/M_Disease 血/M_Disease 虚/M_Disease 头/M_Disease 晕/E_Disease
+小/B_Disease 儿/M_Disease 支/M_Disease 气/M_Disease 管/M_Disease 炎/E_Disease
+口/B_Disease 疮/E_Disease
+胎/B_Disease 毒/E_Disease
+惊/B_Disease 风/E_Disease
+子/B_Disease 癎/M_Disease 子/M_Disease 肿/E_Disease
+疳/B_Disease 积/E_Disease
+黄/B_Disease 疸/E_Disease
+肺/B_Disease 结/M_Disease 核/E_Disease
+糖/B_Disease 尿/M_Disease 病/E_Disease 及/O 风/B_Disease 湿/M_Disease 关/M_Disease 节/M_Disease 炎/E_Disease 等/O 症/O
+活血丹/O
+叶汁治/O 小/B_Disease 儿/M_Disease 惊/M_Disease 癎/E_Disease
+慢/B_Disease 性/M_Disease 肺/M_Disease 炎/E_Disease
+绣球防风/O
+根/O 入药/O
+治/O 肝气/O 郁结/O
+风/B_Disease 湿/M_Disease 麻/M_Disease 木/E_Disease 疼痛/O
+痢/B_Disease 疾/E_Disease
+小/B_Disease 儿/M_Disease 疳/M_Disease 积/E_Disease
+皮疹/O
+脱/B_Disease 肛/E_Disease 及/O 虐疾/O
+绣球防风/O
+果/O 入药/O
+配方/O 治/O 感/B_Disease 冒/M_Disease 风/M_Disease 寒/E_Disease
+亦/O 治/O 小儿/O 肺/B_Disease 炎/E_Disease
+绣球防风/O
+全草/O 入药/O
+治/O 疮/B_Disease 疡/M_Disease 肿/M_Disease 毒/E_Disease
+皮疹/O
+小儿/O 瘦疳/O 攻眼/O
+花眼/O 青盲/O
+白翳/O 遮睛/O
+梅毒/O
+痈/B_Disease 疽/E_Disease 发背/O
+无/B_Disease 名/M_Disease 肿/M_Disease 毒/E_Disease
+癣/B_Disease 疥/E_Disease 癞及/O 骨/B_Disease 折/E_Disease 等/O
+绣球防风/O
+在/O 《/O 滇南/O 本草/O 》/O 一/O 书/O 中/O
+对/O 其/O 药用/O 作/O 如下/O 介绍/O ：/O
+主治/O 杨梅/O 结毒/O
+痈/B_Disease 疽/E_Disease 发背/O
+无/B_Disease 名/M_Disease 肿/M_Disease 毒/E_Disease
+绣球防风/O
+其子/O 同/O 地/O 草果/O 为/O 末/O
+用/O 黑/O 羊肝/O 煎/O 汤/O
+治/O 小儿/O 疳疾/O 眼眦/O 最效/O
+刻叶紫堇/O
+全/O 草药/O 用/O
+解毒/O 杀虫/O
+治/O 疮/B_Disease 癣/E_Disease
+蛇/B_Disease 蛟/M_Disease 伤/E_Disease
+博落回/O
+全草/O 有/O 大毒/O
+不可/O 内服/O
+入药/O 治/O 跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease
+关/B_Disease 节/M_Disease 炎/E_Disease
+汗斑/O
+恶/B_Disease 疮/E_Disease
+蜂/O 螫/O 伤及/O 麻醉/O 镇痛/O
+消肿/O
+博落回/O
+作/O 农药/O 可/O 防治/O 稻/B_Disease 椿/M_Disease 象/E_Disease
+稻/B_Disease 苞/M_Disease 虫/E_Disease
+钉螺/O 等/O
+空桶参/O
+全草/O 入药/O
+治/O 跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease
+咽/B_Disease 喉/M_Disease 肿/M_Disease 痛/E_Disease
+蕹菜/O
+除供/O 蔬菜/O 食用/O 外/O
+尚可/O 药用/O
+内服/O 解/O 饮食/O 中毒/O
+外敷/O 治/O 骨/B_Disease 折/E_Disease
+腹/B_Disease 水/E_Disease 及/O 无/B_Disease 名/M_Disease 肿/M_Disease 毒/E_Disease
+高乌头/O
+根/O 药用/O
+治/O 心/B_Disease 悸/E_Disease
+胃/B_Disease 气/M_Disease 痛/E_Disease
+跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease 等/O 症/O （/O 贵州/O 草药/O ）/O
+古钩藤/O
+根/O 和/O 果实/O 民间/O 常用/O 于/O 祛风/O
+止/O 鼻血/O
+消水肿/O 及/O 治/O 乳/B_Disease 癌/E_Disease
+古钩藤/O
+叶/O 外用/O 治/O 疮/B_Disease 毒/E_Disease
+少花龙葵/O
+叶/O 可供/O 蔬食/O
+有/O 清凉/O 散热/O 之/O 功/O
+并/O 可/O 兼治/O 喉/B_Disease 痛/E_Disease
+扣匹/O
+根/O
+茎/O 可/O 药用/O
+治/O 黄白/O 尿症/O
+半夏/O
+主治/O 咳/B_Disease 嗽/M_Disease 痰/M_Disease 多/E_Disease
+恶/B_Disease 心/M_Disease 呕/M_Disease 吐/E_Disease
+半夏/O
+外用/O 治/O 急/B_Disease 性/M_Disease 乳/M_Disease 腺/M_Disease 炎/E_Disease
+急/B_Disease 慢/M_Disease 性/M_Disease 化/M_Disease 浓/M_Disease 性/M_Disease 中/M_Disease 耳/M_Disease 炎/E_Disease
+半夏/O
+兽医/O 用以/O 治锁/O 喉癀/O
+江南山梗菜/O
+根供/O 药用/O
+治/O 痈/B_Disease 肿/M_Disease 疮/M_Disease 毒/E_Disease
+胃/B_Disease 寒/M_Disease 痛/E_Disease
+江南山梗菜/O
+全草/O 治/O 毒/B_Disease 蛇/M_Disease 咬/M_Disease 伤/E_Disease
+败酱/O
+全草/O （/O 药材/O 名/O ：/O 草/O ）/O 和/O 根茎/O 及/O 根/O 入药/O
+能/O 清热解毒/O
+消肿/O 排脓/O
+活血/O 祛瘀/O
+治/O 慢性/O 阑/B_Disease 尾/M_Disease 炎/E_Disease
+疗效/O 极显/O
+南山藤/O
+全株/O 可治/O 胃/B_Disease 热/E_Disease 和/O 胃/B_Disease 痛/E_Disease
+散瘀草/O
+云南/O 用/O 全草/O 入药/O
+曲靖/O 地区/O 内服/O 治/O 慢/B_Disease 性/M_Disease 肝/M_Disease 炎/E_Disease
+尿/B_Disease 路/M_Disease 感/M_Disease 染/E_Disease
+口/B_Disease 腔/M_Disease 炎/E_Disease
+外敷/O 疮/B_Disease 疡/M_Disease 肿/M_Disease 毒/E_Disease
+昭通/O 地区/O 用于/O 骨/B_Disease 折/E_Disease 配方/O
+倒吊笔/O
+根/O 和/O 茎/O 皮/O 可/O 药用/O
+广西/O 民间/O 有/O 用来/O 治/O 颈/B_Disease 淋/M_Disease 巴/M_Disease 结/E_Disease
+风/B_Disease 湿/M_Disease 性/M_Disease 关/M_Disease 节/M_Disease 炎/E_Disease
+金疮小草/O
+全草/O 入药/O
+治/O 痈/B_Disease 疽/M_Disease 疔/M_Disease 疮/E_Disease
+火/B_Disease 眼/E_Disease
+乳/B_Disease 痈/E_Disease
+鼻/B_Disease 衄/E_Disease
+咽/B_Disease 喉/M_Disease 炎/E_Disease
+肠/B_Disease 胃/M_Disease 炎/E_Disease
+急/B_Disease 性/M_Disease 结/M_Disease 膜/M_Disease 炎/E_Disease
+烫/B_Disease 伤/E_Disease
+狗/B_Disease 咬/M_Disease 伤/E_Disease
+毒蛇咬伤以/O 及/O 外/B_Disease 伤/M_Disease 出/M_Disease 血/E_Disease 等/O 症/O
+石椒草/O
+据/O 兰茂/O 《/O 滇南/O 本草/O 》/O 载/O ：/O
+味/O 苦寒/O
+有/O 小毒/O
+走/O 经络/O
+治/O 腹/B_Disease 胀/M_Disease 痛/E_Disease
+寒/B_Disease 冷/M_Disease 胃/M_Disease 气/M_Disease 疼/M_Disease 痛/E_Disease ....../O
+苦苣苔/O
+全/O 草药/O 用/O
+与/O 秋海棠/O
+夏枯草/O 等/O 合用/O 外敷/O
+治/O 毒/B_Disease 蛇/M_Disease 咬/M_Disease 伤/E_Disease
+长叶冻绿/O
+民间/O 常用/O 根/O
+皮/O 煎/B_Disease 水/E_Disease 或/O 醋/O 浸洗/O 治/O 顽/B_Disease 癣/E_Disease 或/O 疥/B_Disease 疮/E_Disease
+楝/O
+用/O 鲜叶/O 可灭/O 钉螺/O 和/O 作/O 农药/O
+用/O 根皮/O 可/O 驱蛔虫/O 和/O 钩虫/O
+但/O 有毒/O
+用/O 时/O 要/O 严遵/O 医嘱/O
+根皮/O 粉调/O 醋/O 可治/O 疥/B_Disease 癣/E_Disease
+用/O 苦子/O 做成/O 油膏/O 可治/O 头/B_Disease 癣/E_Disease
+菜豆树/O
+根/O
+叶/O
+果/O 入药/O
+可凉/O 血/O 消肿/O
+治/O 高/B_Disease 热/E_Disease
+跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease
+毒/B_Disease 蛇/M_Disease 咬/M_Disease 伤/E_Disease
+菜豆树/O
+枝/O
+叶及根/O 又/O 治/O 牛/O 炭/B_Disease 疽/M_Disease 病/E_Disease
+变色马兜铃/O
+块根/O 药用/O
+味苦/O
+性寒/O
+有/O 祛风/O 利尿/O
+清热解毒/O
+止痛/O 之/O 效/O
+可治/O 喉/B_Disease 炎/E_Disease
+肠/B_Disease 炎/E_Disease
+腹/B_Disease 泻/E_Disease 等/O
+黄牛奶树/O
+树皮/O 药用/O
+治感冒/O
+过江藤/O
+治咳嗽/O
+吐/B_Disease 血/E_Disease
+通/B_Disease 淋/E_Disease
+痢/B_Disease 疾/E_Disease
+牙/B_Disease 痛/E_Disease
+疖/B_Disease 毒/E_Disease
+枕/B_Disease 痛/E_Disease
+带/B_Disease 状/M_Disease 疮/M_Disease 疹/E_Disease 及/O 跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease 等/O 症/O
+苦绳/O
+叶/O 外敷/O 可治/O 外/B_Disease 伤/M_Disease 肿/M_Disease 痛/E_Disease
+痈/B_Disease 疖/E_Disease
+骨/B_Disease 折/E_Disease 等/O
+地菍/O
+捣碎/O 外敷/O 可治/O 疮/S_Disease
+痈/S_Disease
+疽/S_Disease
+疖/S_Disease
+宽瓣金莲花/O
+据/O 有关/O 资料/O
+本/O 种/O 植物/O 可/O 用于/O 治疗/O 眼/B_Disease 疾/E_Disease
+夜/B_Disease 盲/E_Disease
+黄/B_Disease 疸/M_Disease 病/E_Disease
+尖叶长柄山蚂蝗/O
+全株/O 供/O 药用/O
+能/O 解表/O 散寒/O
+祛风/O 解毒/O
+治/O 风/B_Disease 湿/M_Disease 骨/M_Disease 痛/E_Disease
+咳/B_Disease 嗽/M_Disease 吐/M_Disease 血/E_Disease
+四川长柄山蚂蝗/O
+根皮/O 及全/O 株供/O 药用/O
+能/O 清热解毒/O
+可治/O 疟/B_Disease 疾/E_Disease 等/O 症/O
+宽序崖豆藤/O
+茎/O 有毒/O
+外用/O 治/O 疮/B_Disease 毒/E_Disease
+祛风/O 湿/O
+宽序崖豆藤/O
+根治/O 白/B_Disease 带/E_Disease
+便/B_Disease 血/E_Disease
+宽叶独行菜/O
+全草/O 入药/O
+有/O 清热/O 燥湿/O 作用/O
+治/O 菌/B_Disease 痢/E_Disease
+肠/B_Disease 炎/E_Disease
+青蛇藤/O
+茎/O 可/O 药用/O
+治/O 腰/B_Disease 痛/E_Disease
+风/B_Disease 湿/M_Disease 麻/M_Disease 木/E_Disease
+跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease 及/O 蛇/B_Disease 咬/M_Disease 伤/E_Disease 等/O
+宽叶金粟兰/O
+主治/O 跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease
+痛/B_Disease 经/E_Disease
+宽叶金粟兰/O
+外敷/O 治/O 癞/B_Disease 痢/M_Disease 头/E_Disease
+疗/B_Disease 疮/E_Disease
+毒/B_Disease 蛇/M_Disease 咬/M_Disease 伤/E_Disease
+水苏/O
+民间/O 用/O 全草/O 或/O 根/O 入药/O
+治/O 百/B_Disease 日/M_Disease 咳/E_Disease
+扁/B_Disease 桃/M_Disease 体/M_Disease 炎/E_Disease
+咽/B_Disease 喉/M_Disease 炎/E_Disease
+痢/B_Disease 疾/E_Disease 等/O 症/O
+根/O 又/O 治/O 带/B_Disease 状/M_Disease 疮/M_Disease 疹/E_Disease
+东北红豆杉/O
+木材/O
+枝叶/O
+树根/O
+树皮/O 能/O 提取/O 紫杉/O 素/O
+可治/O 糖/B_Disease 尿/M_Disease 病/E_Disease
+萝芙木/O
+根/O
+叶/O 供/O 药用/O
+民间/O 有/O 用来/O 治/O 高/B_Disease 血/M_Disease 压/E_Disease
+高/B_Disease 热/M_Disease 症/E_Disease
+胆/B_Disease 囊/M_Disease 炎/E_Disease
+急/B_Disease 性/M_Disease 黄/M_Disease 疸/M_Disease 型/M_Disease 肝/M_Disease 炎/E_Disease
+头/B_Disease 痛/E_Disease
+失/B_Disease 眠/E_Disease
+玄/B_Disease 晕/E_Disease
+癫/B_Disease 癎/E_Disease
+疟/B_Disease 疾/E_Disease
+蛇/B_Disease 咬/M_Disease 伤/E_Disease
+跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease 等/O 病症/O
+药用萝芙木/O
+民间/O 用/O 全株/O 作/O 药用/O
+治/O 伤/B_Disease 寒/E_Disease
+疟/B_Disease 疾/E_Disease
+感/B_Disease 冒/E_Disease
+头/B_Disease 痛/E_Disease
+胃/B_Disease 痛/E_Disease
+咳/B_Disease 嗽/E_Disease
+肚/B_Disease 痛/E_Disease
+蛇/B_Disease 伤/E_Disease 等/O
+海南萝芙木/O
+植株/O 作/O 药用/O 民间/O 有/O 用来/O 治/O 高/B_Disease 血/M_Disease 压/E_Disease
+白/B_Disease 带/E_Disease
+淋/B_Disease 浊/E_Disease
+月/B_Disease 经/M_Disease 不/M_Disease 调/E_Disease
+疝/B_Disease 气/E_Disease
+喉/B_Disease 痛/E_Disease
+海南萝芙木/O
+叶/O 外敷/O 治/O 恶/B_Disease 疮/E_Disease 溃/B_Disease 疡/E_Disease
+黄草乌/O
+根/O 有/O 剧毒/O
+可/O 药用/O
+治/O 跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease
+风/B_Disease 湿/E_Disease 等/O 症/O （/O 云南/O 中草药/O ）/O
+深裂黄草乌/O
+块根/O 有毒/O
+可/O 药用/O
+治/O 风/B_Disease 湿/M_Disease 关/M_Disease 节/M_Disease 痛/E_Disease 和/O 毒/B_Disease 疮/E_Disease （/O 贵州/O 草药/O ）/O
+金铁锁/O
+根/O 入药/O
+治/O 跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease
+胃/B_Disease 疼/E_Disease
+血水草/O
+治/O 劳/B_Disease 伤/M_Disease 咳/M_Disease 嗽/E_Disease
+跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease
+毒/B_Disease 蛇/M_Disease 咬/M_Disease 伤/E_Disease
+便/B_Disease 血/E_Disease
+痢/B_Disease 疾/E_Disease 等/O 症/O
+剪红纱花/O
+全草/O 或/O 根/O 入药/O
+治/O 跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease
+热/B_Disease 淋/E_Disease
+小/B_Disease 便/M_Disease 不/M_Disease 利/E_Disease
+感/B_Disease 冒/E_Disease
+风/B_Disease 湿/M_Disease 关/M_Disease 节/M_Disease 炎/E_Disease
+腹/B_Disease 泻/E_Disease 等/O
+风湿木/O
+根/O
+茎/O 供/O 药用/O
+广西/O 民间/O 有/O 用来/O 治/O 风/B_Disease 湿/E_Disease
+接骨/O
+番杏/O
+也/O 可/O 药用/O
+清热解毒/O
+祛风/O 消肿/O
+治/O 肠/B_Disease 炎/E_Disease
+败/B_Disease 血/M_Disease 症/E_Disease
+疔/B_Disease 疮/M_Disease 红/M_Disease 肿/E_Disease
+风/B_Disease 热/M_Disease 目/M_Disease 赤/E_Disease
+落花生/O
+最早/O 记载/O 花生/O 的/O 文献/O 为/O 1503/O 年/O （/O 明/O 弘治/O 十六年/O ）/O 的/O 江苏/O 《/O 常熟/O 县志/O 》/O
+随后/O 有/O 1504/O 年/O （/O 明/O 弘治/O 十七年/O ）/O 的/O 《/O 上海/O 县志/O 》/O 和/O 1506/O 年/O （/O 明正德/O 元年/O ）/O 的/O 《/O 姑苏/O 县志/O 》/O
+落花生/O
+因此/O 可以/O 认为/O 约/O 在/O 16/O 世纪/O 初叶/O 或/O 中叶/O
+即/O 明代/O 弘治/O 至/O 嘉靖/O 年间/O
+由/O 华侨/O 将/O 花生/O 种子/O 引进/O 福建/O
+广东/O
+然后/O 逐渐/O 引至/O 他省/O
+形成/O 为/O 我国/O 的/O 重要/O 油料植物/O
+南瓜/O
+全株/O 各部/O 又/O 供/O 药用/O
+种子/O 含子/O 氨基酸/O
+有/O 清热/O 除湿/O
+驱虫/O 的/O 功效/O
+对/O 血吸虫/O 有/O 控制/O 和/O 杀灭/O 的/O 作用/O
+藤有/O 清热/O 的/O 作用/O
+瓜蒂/O 有/O 安/B_Disease 胎/E_Disease 的/O 功效/O
+根治/O 牙/B_Disease 痛/E_Disease
+番荔枝/O
+根/O 可/O 药用/O
+治/O 急/B_Disease 性/M_Disease 赤/M_Disease 痢/E_Disease
+精/B_Disease 神/M_Disease 抑/M_Disease 郁/E_Disease
+脊/B_Disease 髓/M_Disease 骨/M_Disease 病/E_Disease
+番荔枝/O
+果实/O 可治/O 恶/B_Disease 疮/E_Disease 肿痛/O
+补脾/O
+假连翘/O
+福建/O 用/O 果治/O 疟/B_Disease 疾/E_Disease 和/O 跌/B_Disease 打/M_Disease 胸/M_Disease 痛/E_Disease
+叶治/O 痛/B_Disease 肿/M_Disease 初/M_Disease 起/E_Disease 和/O 脚/B_Disease 底/M_Disease 挫/M_Disease 伤/M_Disease 瘀/M_Disease 血/E_Disease 或/O 脓/B_Disease 肿/E_Disease
+翻白叶树/O
+本种/O 在/O 广东/O 通称/O 半枫荷/O
+根/O 可供/O 药用/O
+为/O 治疗/O 风/B_Disease 湿/M_Disease 性/M_Disease 关/M_Disease 节/M_Disease 炎/E_Disease 的/O 药材/O
+可/O 浸酒/O 或/O 煎/O 汤/O 服用/O
+落葵/O
+花汁/O 有/O 清/O 血/O 解毒/O 作用/O
+能解/O 痘毒/O
+外敷/O 治/O 痈/B_Disease 毒/E_Disease 及/O 乳/B_Disease 头/M_Disease 破/M_Disease 裂/E_Disease
+反枝苋/O
+全/O 草药/O 用/O
+治/O 腹/B_Disease 泻/E_Disease
+痢/B_Disease 疾/E_Disease
+痔/B_Disease 疮/M_Disease 肿/M_Disease 痛/M_Disease 出/M_Disease 血/E_Disease 等/O 症/O
+匙羹藤/O
+全株/O 可/O 药用/O
+民间/O 用来/O 治/O 风/B_Disease 湿/M_Disease 痹/M_Disease 痛/E_Disease
+脉/B_Disease 管/M_Disease 炎/E_Disease
+毒/B_Disease 蛇/M_Disease 咬/M_Disease 伤/E_Disease
+匙羹藤/O
+外用/O 治/O 痔/B_Disease 疮/E_Disease
+消肿/O
+枪弹/O 创/B_Disease 伤/E_Disease
+也/O 可杀/O 虱/O
+旋花/O
+有些/O 地方/O 用/O 根作药/O
+治/O 白/B_Disease 带/E_Disease
+白/B_Disease 浊/E_Disease
+疝/B_Disease 气/E_Disease
+疖/B_Disease 疮/E_Disease 等/O
+糯米团/O
+全/O 草药/O 用/O
+治/O 消/B_Disease 化/M_Disease 不/M_Disease 良/E_Disease
+食/B_Disease 积/M_Disease 胃/M_Disease 痛/E_Disease 等/O 症/O
+外用/O 治/O 血/B_Disease 管/M_Disease 神/M_Disease 经/M_Disease 性/M_Disease 水/M_Disease 肿/E_Disease
+疗/B_Disease 疮/M_Disease 疖/M_Disease 肿/E_Disease
+乳/B_Disease 腺/M_Disease 炎/E_Disease
+外/B_Disease 伤/M_Disease 出/M_Disease 血/E_Disease 等/O 症/O
+血见愁/O
+据/O 《/O 岭南/O 采药/O 录/O 》/O 载/O ：/O
+凉血/O 解毒/O
+去/O 瘀/O 生/O 新/O
+理/O 跌/B_Disease 打/E_Disease
+敷/O 疮/B_Disease 毒/E_Disease
+治/O 蛇/B_Disease 伤/E_Disease
+消/O 肠/B_Disease 风/M_Disease 下/M_Disease 血/E_Disease
+悬铃叶苎麻/O
+根/O
+叶/O 药用/O
+治/O 外/B_Disease 伤/M_Disease 出/M_Disease 血/E_Disease
+跌/B_Disease 打/M_Disease 肿/M_Disease 痛/E_Disease
+风/B_Disease 疹/E_Disease
+荨/B_Disease 麻/M_Disease 疹/E_Disease 等/O 症/O
+方叶五月茶/O
+供/O 药用/O ：/O 叶可治/O 小儿/O 头/B_Disease 痛/E_Disease
+防风/O
+有/O 发汗/O
+祛痰/O
+驱风/O
+发表/O
+镇痛/O 的/O 功效/O
+用于/O 治感冒/O
+头/B_Disease 痛/E_Disease
+周/B_Disease 身/M_Disease 关/M_Disease 节/M_Disease 痛/E_Disease
+神/B_Disease 经/M_Disease 痛/E_Disease 等/O 症/O
+黄水枝/O
+主治/O 痈/B_Disease 疖/M_Disease 肿/M_Disease 毒/E_Disease
+跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease 及/O 咳/B_Disease 嗽/M_Disease 气/M_Disease 喘/E_Disease 等/O
+杯叶西番莲/O
+广西/O 用/O 全草/O 和根/O 解毒/O
+散/O 瘀/O
+活血/O
+治/O 跌/B_Disease 打/E_Disease
+小果唐松草/O
+根/O 可退/O 热解/O 凉/O
+治/O 跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease 等/O 症/O
+飞蛾藤/O
+治/O 无/B_Disease 名/M_Disease 肿/M_Disease 毒/E_Disease
+劳/B_Disease 伤/M_Disease 疼/M_Disease 痛/E_Disease
+高/B_Disease 烧/E_Disease
+萝藦/O
+全株/O 可/O 药用/O ：/O 果/O 可治/O 劳/B_Disease 伤/E_Disease
+虚/B_Disease 弱/E_Disease
+腰/B_Disease 腿/M_Disease 疼/M_Disease 痛/E_Disease
+缺奶/O
+白/B_Disease 带/E_Disease
+咳/B_Disease 嗽/E_Disease 等/O
+萝藦/O
+根/O 可治/O 跌/B_Disease 打/E_Disease
+蛇/B_Disease 咬/E_Disease
+疔/B_Disease 疮/E_Disease
+瘰/B_Disease 疬/E_Disease
+阳/B_Disease 萎/E_Disease
+萝藦/O
+茎/O 叶/O 可治/O 小/B_Disease 儿/M_Disease 疳/M_Disease 积/E_Disease
+疔/B_Disease 肿/E_Disease
+萝藦/O
+中名/O
+首次/O 见于/O 《/O 唐/O 本草/O 》/O
+后/O 李时珍/O 收载/O 于/O 《/O 本草纲目/O 》/O 蔓草/O 类/O
+谓/O ：/O 子同叶/O 主治/O
+虚/B_Disease 劳/E_Disease
+补益/O 精气/O …/O …/O 
+飞龙掌血/O
+治/O 感/B_Disease 冒/M_Disease 风/M_Disease 寒/E_Disease
+胃/B_Disease 痛/E_Disease
+肋/B_Disease 间/M_Disease 神/M_Disease 经/M_Disease 痛/E_Disease
+风/B_Disease 湿/M_Disease 骨/M_Disease 痛/E_Disease
+跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease
+咯/B_Disease 血/E_Disease 等/O
+楤木/O
+本种/O 为/O 常用/O 的/O 中草药/O
+有/O 镇痛/O 消炎/O
+祛风/O 行气/O
+祛湿/O 活血/O 之/O 效/O
+根皮/O 治/O 胃/B_Disease 炎/E_Disease
+肾/B_Disease 炎/E_Disease 及/O 风/B_Disease 湿/M_Disease 疼/M_Disease 痛/E_Disease
+亦可/O 外敷/O 刀/B_Disease 伤/E_Disease
+黑龙骨/O
+治/O 风/B_Disease 湿/M_Disease 性/M_Disease 关/M_Disease 节/M_Disease 炎/E_Disease
+跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease
+胃/B_Disease 痛/E_Disease
+消/B_Disease 化/M_Disease 不/M_Disease 良/E_Disease
+闭/B_Disease 经/E_Disease
+疟/B_Disease 疾/E_Disease 等/O
+蝙蝠草/O
+全草/O 供/O 药用/O
+治/O 肺/B_Disease 结/M_Disease 核/E_Disease
+虫/B_Disease 蛇/M_Disease 咬/M_Disease 伤/E_Disease
+飞扬草/O
+全草/O 入药/O
+可治/O 痢/B_Disease 疾/E_Disease
+肠/B_Disease 炎/E_Disease
+皮/B_Disease 肤/M_Disease 湿/M_Disease 疹/E_Disease
+皮/B_Disease 炎/E_Disease
+疖/B_Disease 肿/E_Disease 等/O
+飞扬草/O
+鲜汁/O 外用/O 治/O 癣/O 类/O
+白叶藤/O
+叶/O
+茎/O 和/O 乳汁/O 有/O 小毒/O
+但/O 可供/O 药用/O
+可/O 清凉/O 败毒/O
+治/O 蛇/B_Disease 伤/E_Disease
+跌/B_Disease 打/M_Disease 刀/M_Disease 伤/E_Disease
+疮/B_Disease 疥/E_Disease
+白叶藤/O
+也/O 有/O 用作/O 治/O 肺/B_Disease 结/M_Disease 核/M_Disease 咳/M_Disease 血/E_Disease
+胃/B_Disease 出/M_Disease 血/E_Disease
+瓜馥木/O
+根/O 可/O 药用/O
+治/O 跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease 和/O 关/B_Disease 节/M_Disease 炎/E_Disease
+肥皂草/O
+根/O 入药/O
+有/O 祛痰/O
+治/O 气/B_Disease 管/M_Disease 炎/E_Disease
+利尿/O 作用/O
+肥皂荚/O
+果/O 含/O 胰/O 皂素/O
+可/O 洗涤/O 丝绸/O
+亦可/O 入药/O
+治/O 疮/B_Disease 癣/E_Disease
+肿/B_Disease 毒/E_Disease 等/O 症/O
+香茶菜/O
+全草/O 入药/O
+治/O 闭/B_Disease 经/E_Disease
+乳/B_Disease 痈/E_Disease
+跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease
+香茶菜/O
+根/O 入药/O
+治/O 劳/B_Disease 伤/E_Disease
+筋/B_Disease 骨/M_Disease 酸/M_Disease 痛/E_Disease
+疮/B_Disease 毒/E_Disease
+蔪/B_Disease 蛇/M_Disease 咬/M_Disease 伤/E_Disease 等/O 症/O
+为/O 治/O 蛇/B_Disease 伤/E_Disease 要/O 药/O
+小鱼仙草/O
+民间/O 用/O 全草/O 入药/O
+治/O 感/B_Disease 冒/M_Disease 发/M_Disease 热/E_Disease
+中/B_Disease 暑/M_Disease 头/M_Disease 痛/E_Disease
+恶/B_Disease 心/E_Disease
+无/B_Disease 汗/E_Disease
+热/B_Disease 痱/E_Disease
+皮/B_Disease 炎/E_Disease
+湿/B_Disease 疹/E_Disease
+疮/B_Disease 疥/E_Disease
+痢/B_Disease 疾/E_Disease
+肺/B_Disease 积/M_Disease 水/E_Disease
+肾/B_Disease 炎/M_Disease 水/M_Disease 肿/E_Disease
+多/B_Disease 发/M_Disease 性/M_Disease 疖/M_Disease 肿/E_Disease
+外/B_Disease 伤/M_Disease 出/M_Disease 血/E_Disease
+鼻/B_Disease 衄/E_Disease
+痔/B_Disease 瘘/M_Disease 下/M_Disease 血/E_Disease 等/O 症/O
+石荠苎/O
+民间/O 用/O 全草/O 入药/O
+治感冒/O
+中/B_Disease 暑/M_Disease 发/M_Disease 高/M_Disease 烧/E_Disease
+痱/B_Disease 子/E_Disease
+皮/B_Disease 肤/M_Disease 搔/M_Disease 痒/E_Disease
+疟/B_Disease 疾/E_Disease
+便/B_Disease 秘/E_Disease
+内/B_Disease 痔/E_Disease
+便/B_Disease 血/E_Disease
+疥/B_Disease 疮/E_Disease
+湿/B_Disease 脚/M_Disease 气/E_Disease
+外/B_Disease 伤/M_Disease 出/M_Disease 血/E_Disease
+跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease
+石荠苎/O
+此外/O 全草/O 又/O 能/O 杀虫/O
+根/O 可治/O 疮/B_Disease 毒/E_Disease
+分叉露兜/O
+根供/O 药用/O
+可治/O 某些/O 炎/B_Disease 症/E_Disease
+粉绿铁线莲/O
+全草/O 入药/O
+可/O 祛风/O 湿/O
+止痒/O
+主治/O 慢/B_Disease 性/M_Disease 风/M_Disease 湿/M_Disease 关/M_Disease 节/M_Disease 炎/E_Disease
+关/B_Disease 节/M_Disease 疼/M_Disease 痛/E_Disease ;/O 
+野草香/O
+全草/O 或/O 叶/O 入药/O
+治/O 伤/B_Disease 风/M_Disease 感/M_Disease 冒/E_Disease
+疗/B_Disease 疮/E_Disease
+鼻/B_Disease 渊/E_Disease 及/O 蛾/B_Disease 子/E_Disease 等/O 症/O
+有/O 清热解毒/O 作用/O
+蔓九节/O
+治/O 风/B_Disease 湿/M_Disease 痹/M_Disease 痛/E_Disease
+坐/B_Disease 骨/M_Disease 神/M_Disease 经/M_Disease 痛/E_Disease
+痈/B_Disease 疮/M_Disease 肿/M_Disease 毒/E_Disease
+咽/B_Disease 喉/M_Disease 肿/M_Disease 痛/E_Disease
+灯笼草/O
+民间/O 用/O 全草/O 入药/O
+治/O 功/B_Disease 能/M_Disease 性/M_Disease 子/M_Disease 宫/M_Disease 出/M_Disease 血/E_Disease
+胆/B_Disease 囊/M_Disease 炎/E_Disease
+黄/B_Disease 胆/M_Disease 型/M_Disease 肝/M_Disease 炎/E_Disease
+感/B_Disease 冒/M_Disease 头/M_Disease 痛/E_Disease
+腹/B_Disease 痛/E_Disease
+小/B_Disease 儿/M_Disease 疳/M_Disease 积/E_Disease
+火/B_Disease 眼/E_Disease
+跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease
+疗/B_Disease 疮/E_Disease
+皮/B_Disease 肤/M_Disease 疮/M_Disease 疡/E_Disease
+蛇/O 及/O 狂/B_Disease 犬/M_Disease 咬/M_Disease 伤/E_Disease
+烂/B_Disease 脚/M_Disease 丫/E_Disease
+烂/B_Disease 头/M_Disease 疗/E_Disease 及/O 痔/B_Disease 疮/E_Disease 等/O 症/O
+雷公连/O
+茎/O 叶/O 入药/O
+治/O 骨/B_Disease 折/E_Disease
+跌/B_Disease 打/E_Disease
+心/B_Disease 绞/M_Disease 痛/E_Disease （/O 贵州/O
+湖南/O ）/O
+女萎/O
+根/O
+茎/O 藤/O 或/O 全株/O 入药/O
+能/O 消炎/O 消肿/O
+利尿/O 通乳/O
+主治/O 肠/B_Disease 炎/E_Disease
+痢/B_Disease 疾/E_Disease
+甲/B_Disease 状/M_Disease 腺/M_Disease 肿/M_Disease 大/E_Disease
+风/B_Disease 湿/M_Disease 关/M_Disease 节/M_Disease 痛/E_Disease
+尿/B_Disease 路/M_Disease 感/M_Disease 染/E_Disease
+乳汁/O 不下/O （/O 全国/O 中草药/O 汇编/O
+下册/O ）/O
+钝萼铁线莲/O
+全株/O 入药/O
+能/O 清热/O
+利尿/O
+止痛/O
+治/O 湿/B_Disease 热/M_Disease 淋/M_Disease 病/E_Disease
+小/B_Disease 便/M_Disease 不/M_Disease 通/E_Disease
+水/B_Disease 肿/E_Disease
+膀/B_Disease 胱/M_Disease 炎/E_Disease
+肾/B_Disease 盂/M_Disease 肾/M_Disease 炎/E_Disease
+脚/B_Disease 气/M_Disease 水/M_Disease 肿/E_Disease
+闭/B_Disease 经/E_Disease
+头/B_Disease 痛/E_Disease
+钝萼铁线莲/O
+外用/O 治/O 风/B_Disease 湿/M_Disease 性/M_Disease 关/M_Disease 节/M_Disease 炎/E_Disease （/O 云南/O 药用植物/O 名录/O ）/O
+风箱树/O
+根/O 和/O 花序/O 药用/O
+有/O 清热/O 利湿/O
+收敛/O 止泻/O
+祛痰/O 止咳/O 之/O 效/O
+治/O 感/B_Disease 冒/M_Disease 发/M_Disease 热/E_Disease
+咽/B_Disease 喉/M_Disease 肿/M_Disease 痛/E_Disease
+肠/B_Disease 炎/M_Disease 腹/M_Disease 泻/E_Disease 等/O
+树参/O
+本种/O 为/O 民间/O 草药/O
+根/O
+茎/O
+叶治/O 偏/B_Disease 头/M_Disease 痛/E_Disease
+风/B_Disease 湿/M_Disease 痹/M_Disease 痛/E_Disease 等/O 症/O
+枫香槲寄生/O
+全株/O 入药/O
+治/O 风/B_Disease 湿/M_Disease 性/M_Disease 关/M_Disease 节/M_Disease 疼/M_Disease 痛/E_Disease
+腰/B_Disease 肌/M_Disease 劳/M_Disease 损/E_Disease
+民间/O 以/O 寄生/O 于/O 枫香树/O 上/O 的/O 为/O 佳/O
+枫香槲寄生/O
+云南/O 思茅/O 民间/O 则/O 以/O 本种/O 用于/O 治/O 急性/O 膀/B_Disease 胱/M_Disease 炎/E_Disease
+云南金叶子/O
+全株/O 有/O 麻醉/O 作用/O
+根/O 入药/O
+治/O 跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease
+叶/O 有毒/O
+赛莨菪/O
+根/O 入药/O
+治/O 跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease
+风/B_Disease 湿/M_Disease 痛/E_Disease
+外/B_Disease 伤/M_Disease 出/M_Disease 血/E_Disease
+骨/B_Disease 折/E_Disease 等/O 症/O
+绉面草/O
+全草/O 入药/O
+民间/O 用于/O 治感冒/O
+咳/B_Disease 嗽/E_Disease
+风/B_Disease 火/M_Disease 牙/M_Disease 痛/E_Disease
+肠/B_Disease 胃/M_Disease 不/M_Disease 适/E_Disease 及/O 百/B_Disease 日/M_Disease 咳/E_Disease 等/O 症/O
+蜂斗草/O
+全株/O 药用/O
+通/B_Disease 经/E_Disease 活血/O
+治/O 跌/B_Disease 打/E_Disease
+翳/B_Disease 膜/E_Disease
+蜂窠马兜铃/O
+广西/O 民间/O 用根/O 和/O 叶/O 煎/B_Disease 水/E_Disease 治疗/O 猪瘟/O 病/O
+天南星/O
+主治/O 面/B_Disease 神/M_Disease 经/M_Disease 麻/M_Disease 痹/E_Disease
+半/B_Disease 身/M_Disease 不/M_Disease 遂/E_Disease
+小/B_Disease 儿/M_Disease 惊/M_Disease 风/E_Disease
+破/B_Disease 伤/M_Disease 风/E_Disease
+癫/B_Disease 癎/E_Disease
+天南星/O
+外用/O 治疗/O 疮/B_Disease 肿/M_Disease 毒/E_Disease
+毒/B_Disease 蛇/M_Disease 咬/M_Disease 伤/E_Disease
+灭/B_Disease 蝇/M_Disease 蛆/E_Disease
+天南星/O
+用/O 胆汁/O 处理/O 过/O 的/O 称/O 胆南星/O
+主治/O 小/B_Disease 儿/M_Disease 痰/M_Disease 热/E_Disease
+惊/B_Disease 风/M_Disease 抽/M_Disease 搐/E_Disease
+天南星/O
+近年来/O 用/O 鲜/O 南星/O 制成/O 南星/O 阴道/O 栓剂/O 或/O 南星/O 宫颈/O 管/O 栓剂/O 治疗/O 子/B_Disease 宫/M_Disease 颈/M_Disease 癌/E_Disease 有/O 良效/O
+铁轴草/O
+民间/O 用/O 全草/O 治/O 劳/B_Disease 伤/E_Disease 水/B_Disease 肿/E_Disease
+根治/O 肚/B_Disease 胀/E_Disease
+泻/B_Disease 痢/E_Disease
+叶/O 用于/O 止血/O
+治/O 刀/B_Disease 枪/M_Disease 伤/E_Disease
+石萝藦/O
+广西/O 民间/O 用作/O 治/O 肝/B_Disease 炎/E_Disease
+风/B_Disease 火/M_Disease 眼/M_Disease 痛/E_Disease
+东紫苏/O
+全草/O 入药/O
+治/O 外/B_Disease 感/E_Disease ．/O 风/B_Disease 寒/E_Disease
+感/B_Disease 冒/M_Disease 发/M_Disease 热/E_Disease
+头/B_Disease 痛/M_Disease 身/M_Disease 痛/E_Disease
+咽/B_Disease 喉/M_Disease 痛/E_Disease
+虚/B_Disease 火/M_Disease 牙/M_Disease 痛/E_Disease
+消/B_Disease 化/M_Disease 不/M_Disease 良/E_Disease
+肚/B_Disease 泻/E_Disease
+目/B_Disease 痛/E_Disease
+急/B_Disease 性/M_Disease 结/M_Disease 膜/M_Disease 炎/E_Disease
+尿/B_Disease 闭/E_Disease 及/O 肝/B_Disease 炎/E_Disease 等/O 症/O
+苏铁/O
+种子/O 含油/O 和/O 丰富/O 的/O 淀粉/O
+微/O 有毒/O
+供/O 食用/O 和/O 药用/O
+有/O 治/O 痢/B_Disease 疾/E_Disease
+止咳/O 和/O 止血/O 之/O 效/O
+凤仙花/O
+茎/O 称/O
+凤仙透骨草/O
+有/O 祛风/O 湿/O
+活血/O
+止痛/O 之/O 效/O
+用于/O 治/O 风/B_Disease 湿/M_Disease 性/M_Disease 关/M_Disease 节/M_Disease 痛/E_Disease
+屈/B_Disease 伸/M_Disease 不/M_Disease 利/E_Disease
+凤仙花/O
+种子/O 称/O
+急性子/O
+有/O 软坚/O
+消积/O 之/O 效/O
+用于/O 治/O 噎/B_Disease 膈/E_Disease
+骨/B_Disease 鲠/M_Disease 咽/M_Disease 喉/E_Disease
+腹/B_Disease 部/M_Disease 肿/M_Disease 块/E_Disease
+闭/B_Disease 经/E_Disease
+点地梅/O
+民间/O 用/O 全草/O 治/O 扁/B_Disease 桃/M_Disease 腺/M_Disease 炎/E_Disease
+咽/B_Disease 喉/M_Disease 炎/E_Disease
+口/B_Disease 腔/M_Disease 炎/E_Disease 和/O 跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease
+蚕豆/O
+民间/O 药用/O 治疗/O 高/B_Disease 血/M_Disease 压/E_Disease 和/O 浮/B_Disease 肿/E_Disease
+佛光草/O
+贵州/O 用/O 全草/O 入药/O
+治/O 劳/B_Disease 伤/M_Disease 咳/M_Disease 嗽/E_Disease
+喘/O 咳/O
+吐/B_Disease 血/E_Disease 及/O 蛇头/O 疗/O 等/O 症/O
+东亚唐松草/O
+根/O 可治/O 牙/B_Disease 痛/E_Disease
+急/B_Disease 性/M_Disease 皮/M_Disease 炎/E_Disease
+湿/B_Disease 疹/E_Disease 等/O 症/O （/O 陕西/O 中草药/O
+图/O 107/O ）/O
+伏毛山豆根/O
+根/O 药用/O
+性/O 苦/O
+寒/O
+清热解毒/O
+止痛/O
+主治/O 肠/B_Disease 炎/M_Disease 腹/M_Disease 泻/E_Disease
+腹/B_Disease 胀/E_Disease
+胃/B_Disease 痛/E_Disease
+咽/B_Disease 喉/M_Disease 痛/E_Disease 等/O
+伏毛铁棒锤/O
+块根/O 有/O 剧毒/O
+供/O 药用/O
+治/O 跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease
+风/B_Disease 湿/M_Disease 关/M_Disease 节/M_Disease 痛/E_Disease 等/O 症/O （/O 甘肃/O 中草药/O 手册/O ）/O
+夏天无/O
+对/O 风/B_Disease 湿/M_Disease 关/M_Disease 节/M_Disease 痛/E_Disease
+跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease
+腰/B_Disease 肌/M_Disease 劳/M_Disease 损/E_Disease 和/O 高/B_Disease 血/M_Disease 压/E_Disease 有/O 明显/O 的/O 治疗/O 作用/O
+芙蓉菊/O
+是/O 一种/O 民间/O 草药/O
+治/O 小/B_Disease 儿/M_Disease 惊/M_Disease 风/E_Disease
+解/O 麻痘/O 作痒/O 有效/O
+浮萍/O
+治/O 风/B_Disease 湿/M_Disease 脚/M_Disease 气/E_Disease
+风/B_Disease 疹/M_Disease 热/M_Disease 毒/E_Disease
+衄/B_Disease 血/E_Disease
+水/B_Disease 肿/E_Disease
+小/B_Disease 便/M_Disease 不/M_Disease 利/E_Disease
+斑/B_Disease 疹/M_Disease 不/M_Disease 透/E_Disease
+感/B_Disease 冒/M_Disease 发/M_Disease 热/M_Disease 无/M_Disease 汗/E_Disease
+福禄草/O
+全草/O 入药/O
+清热/O 润肺/O
+治/O 肺/B_Disease 结/M_Disease 核/E_Disease
+肺/B_Disease 炎/E_Disease
+侧金盏花/O
+根/O 和/O 全草/O 含/O 福寿草/O 甙/O
+加大/O 麻/O 甙/O
+福寿草/O 毒/O 甙/O 等/O 强心/O 贰/O 以及/O 其他/O 化合物/O
+有毒/O
+也/O 可供/O 药用/O
+可治/O 充/B_Disease 血/M_Disease 性/M_Disease 心/M_Disease 力/M_Disease 衰/M_Disease 竭/E_Disease
+心/B_Disease 脏/M_Disease 性/M_Disease 水/M_Disease 肿/E_Disease
+心/B_Disease 房/M_Disease 纤/M_Disease 维/M_Disease 性/M_Disease 颤/M_Disease 动/E_Disease 等/O 症/O
+豆腐柴/O
+根/O
+茎/O
+叶/O 入药/O
+清热解毒/O
+消肿/O 止血/O
+主治/O 毒/B_Disease 蛇/M_Disease 咬/M_Disease 伤/E_Disease
+无/B_Disease 名/M_Disease 肿/M_Disease 毒/E_Disease
+创/B_Disease 伤/M_Disease 出/M_Disease 血/E_Disease
+假鹰爪/O
+根/O
+叶可/O 药用/O
+主治/O 风/B_Disease 湿/M_Disease 骨/M_Disease 痛/E_Disease
+产/B_Disease 后/M_Disease 腹/M_Disease 痛/E_Disease
+跌/B_Disease 打/E_Disease
+皮/B_Disease 癣/E_Disease 等/O
+假鹰爪/O
+兽医/O 用作/O 治/O 牛/B_Disease 臌/M_Disease 胀/E_Disease
+肠/B_Disease 胃/M_Disease 积/M_Disease 气/E_Disease
+牛/B_Disease 伤/M_Disease 食/M_Disease 宿/M_Disease 草/M_Disease 不/M_Disease 转/E_Disease 等/O
+直梗高山唐松草/O
+全草/O 可治/O 小/B_Disease 儿/M_Disease 疳/M_Disease 积/E_Disease
+小/B_Disease 儿/M_Disease 惊/M_Disease 风/E_Disease （/O 云南/O 中草药/O ）/O
+直梗高山唐松草/O
+根/O 可治/O 胸闷/O 呕/B_Disease 吐/E_Disease 等/O 症/O （/O 昆明/O 民间/O 常用/O 草药/O ）/O
+复羽叶栾树/O
+根/O 入药/O
+有/O 消肿/O
+止痛/O
+活血/O
+驱/O 蛔之功/O
+亦/O 治/O 风/B_Disease 热/M_Disease 咳/M_Disease 嗽/E_Disease
+花能清/O 肝/O 明目/O
+清热/O 止咳/O
+又/O 为/O 黄色/O 染料/O
+葶菊/O
+全草/O 在/O 西藏/O 供/O 药用/O
+治/O 头/B_Disease 痛/E_Disease
+香豆蔻/O
+果实/O 可/O 药用/O
+治/O 喉/B_Disease 痛/E_Disease
+肺/B_Disease 结/M_Disease 核/E_Disease
+眼/B_Disease 睑/M_Disease 炎/E_Disease
+消/B_Disease 化/M_Disease 不/M_Disease 良/E_Disease
+匍茎点地梅/O
+西藏地区/O 民间/O 用/O 全草/O 治/O 水/B_Disease 肿/E_Disease
+打破碗花花/O
+根状茎/O 药用/O
+治/O 热/B_Disease 性/M_Disease 痢/M_Disease 疾/E_Disease
+胃/B_Disease 炎/E_Disease
+各/B_Disease 种/M_Disease 顽/M_Disease 癣/E_Disease
+疟/B_Disease 疾/E_Disease
+消/B_Disease 化/M_Disease 不/M_Disease 良/E_Disease
+跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease 等/O 症/O （/O 陕西/O 中草药/O ）/O
+打破碗花花/O
+全草/O 用作/O 土/O 农药/O
+水浸/O 液/O 可/O 防治/O 稻/B_Disease 苞/M_Disease 虫/E_Disease
+负/B_Disease 泥/M_Disease 虫/E_Disease
+稻/B_Disease 螟/E_Disease
+棉/B_Disease 蚜/E_Disease
+菜/B_Disease 青/M_Disease 虫/E_Disease
+蝇/B_Disease 蛆/E_Disease 等/O
+以及/O 小麦/O 叶锈病/O
+小/O 麦秆/O 锈病/O 等/O （/O 中国/O 土/O 农药/O 志/O ）/O
+水棉花/O
+根状茎/O 药用/O
+治/O 痢/B_Disease 疾/E_Disease
+淋/B_Disease 病/E_Disease
+难/B_Disease 产/E_Disease
+风/B_Disease 湿/M_Disease 关/M_Disease 节/M_Disease 痛/E_Disease 等/O 症/O （/O 云南/O 中草药/O ）/O
+秋牡丹/O
+可/O 供/O 药用/O
+治/O 重/B_Disease 感/M_Disease 冒/E_Disease
+股/B_Disease 癣/E_Disease
+体/B_Disease 癣/E_Disease 等/O 症/O
+又/O 能/O 杀/O 蛔虫/O （/O 浙江/O 天目山/O 药用植物/O 志/O ）/O
+扯根菜/O
+主治/O 黄/B_Disease 疸/E_Disease
+水/B_Disease 肿/E_Disease
+跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease 等/O
+黄花补血草/O
+主要/O 为/O 以/O 花萼/O 治/O 妇/B_Disease 女/M_Disease 月/M_Disease 经/M_Disease 不/M_Disease 调/E_Disease
+鼻/B_Disease 衄/E_Disease
+带/B_Disease 下/E_Disease
+散沫花/O
+花极/O 香/O
+除/O 栽于/O 庭园/O 供/O 观赏/O 外/O
+其叶/O 可作/O 红色/O 染料/O
+花可/O 提取/O 香油/O 和/O 浸取/O 香膏/O
+用于/O 化妆品/O
+阿拉伯人/O 有用/O 其/O 树皮/O 治/O 黄/B_Disease 疽/M_Disease 病/E_Disease 及/O 精/B_Disease 神/M_Disease 病/E_Disease
+无瓣蔊菜/O
+外用/O 治/O 痈/B_Disease 肿/M_Disease 疮/M_Disease 毒/E_Disease 及/O 烫/B_Disease 火/M_Disease 伤/E_Disease
+芭蕉/O
+叶/O 纤维/O 为布/O （/O 称/O 蕉/O 葛/O ）/O 的/O 原料/O
+亦/O 为/O 造纸/O 原料/O
+假茎/O 煎服/O 功能/O 解热/O
+假茎/O
+叶/O 利尿/O （/O 治/O 水/B_Disease 肿/E_Disease
+肛/B_Disease 胀/E_Disease ）/O
+花/O 干燥/O 后/O 煎/O 服治/O 脑/B_Disease 溢/M_Disease 血/E_Disease
+根/O 与/O 生姜/O
+甘草/O 一起/O 煎服/O
+可治/O 淋/B_Disease 症/E_Disease 及/O 消/B_Disease 渴/M_Disease 症/E_Disease
+根治/O 感/B_Disease 冒/E_Disease
+胃/B_Disease 痛/E_Disease 及/O 腹/B_Disease 痛/E_Disease
+甘蓝/O
+叶/O 的/O 浓汁/O 用于/O 治疗/O 胃/O 及/O 十/B_Disease 二/M_Disease 指/M_Disease 肠/M_Disease 溃/M_Disease 疡/E_Disease
+山橿/O
+治/O 胃/B_Disease 气/M_Disease 痛/E_Disease
+疥/B_Disease 癣/E_Disease
+风/B_Disease 疹/E_Disease
+刀/B_Disease 伤/M_Disease 出/M_Disease 血/E_Disease
+甘露子/O
+贵州/O 用/O 全草/O 入药/O
+治/O 肺/B_Disease 炎/E_Disease
+风/B_Disease 热/M_Disease 感/M_Disease 冒/E_Disease
+丝铁线莲/O
+据/O 广东/O 有关/O 单位/O 试验/O
+叶/O 供/O 药用/O
+对/O 治疗/O 高/B_Disease 血/M_Disease 压/M_Disease 病/E_Disease 及/O 冠/B_Disease 心/M_Disease 病/E_Disease 有/O 较好/O 的/O 疗效/O
+甘青老鹳草/O
+全草/O 入药/O （/O 四川/O ）/O
+能/O 清热解毒/O
+主治/O 咽/B_Disease 喉/M_Disease 肿/M_Disease 痛/E_Disease
+肺/B_Disease 热/M_Disease 咳/M_Disease 嗽/E_Disease 等/O 病/O
+唐古特虎耳草/O
+清热/O 退烧/O
+治/O 食/B_Disease 欲/M_Disease 不/M_Disease 振/E_Disease
+肝/B_Disease 病/E_Disease 及/O 胆/B_Disease 病/E_Disease 等/O
+甘青青兰/O
+全草/O 入药/O
+治/O 胃/B_Disease 炎/E_Disease
+肝/B_Disease 炎/E_Disease
+头/B_Disease 晕/E_Disease
+神/B_Disease 疲/E_Disease
+关/B_Disease 节/M_Disease 炎/E_Disease 及/O 疖/B_Disease 疮/E_Disease
+甘青乌头/O
+在/O 四川/O 若尔盖/O 的/O 藏医/O 用/O 的/O 全草/O 治疗/O 发/B_Disease 烧/E_Disease
+肺/B_Disease 炎/E_Disease 等/O 症/O
+甘青铁线莲/O
+全草/O 入药/O
+可/O 健胃/O
+消食/O
+治/O 消/B_Disease 化/M_Disease 不/M_Disease 良/E_Disease
+恶/B_Disease 心/E_Disease
+并有/O 排脓/O
+除/O 疮/S_Disease
+消/O 痞块/O 等/O 作用/O （/O 青藏高原/O 药物/O 图鉴/O ）/O
+甘遂/O
+主治/O 各种/O 水/B_Disease 肿/E_Disease 等/O
+钩吻/O
+亦可/O 作/O 农药/O
+防治/O 水/O 稻/B_Disease 螟/M_Disease 虫/E_Disease
+大叶紫珠/O
+叶/O 或/O 根/O 可作/O 内外/O 伤/O 止血药/O
+治/O 跌/B_Disease 打/M_Disease 肿/M_Disease 痛/E_Disease
+创/B_Disease 伤/M_Disease 出/M_Disease 血/E_Disease
+肠/B_Disease 道/M_Disease 出/M_Disease 血/E_Disease
+咳/B_Disease 血/E_Disease
+鼻/B_Disease 衄/E_Disease （/O 《/O 广东/O 中草药/O 》/O
+《/O 江西/O 草医/O 草药/O 》/O
+《/O 广西/O 中草药/O 》/O ）/O
+半枝莲/O
+民间/O 用/O 全草/O 煎/B_Disease 水/E_Disease 服/O
+治/O 妇/B_Disease 女/M_Disease 病/E_Disease
+以代/O 益母草/O （/O 江苏省/O 植物/O 药材/O 志/O ）/O
+热/O 天生/O 痱/B_Disease 子/E_Disease 可用/O 全草/O 泡/O 水洗/O
+半枝莲/O
+此外/O 亦/O 用于/O 治/O 各种/O 炎/B_Disease 症/E_Disease （/O 肝/B_Disease 炎/E_Disease
+阑/B_Disease 尾/M_Disease 炎/E_Disease
+咽/B_Disease 喉/M_Disease 炎/E_Disease
+尿/B_Disease 道/M_Disease 炎/E_Disease 等/O ）/O
+咯/B_Disease 血/E_Disease
+尿/B_Disease 血/E_Disease
+胃/B_Disease 痛/E_Disease
+疮/B_Disease 痈/M_Disease 肿/M_Disease 毒/E_Disease
+跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease
+蚊虫/O 咬伤/O
+并/O 试治/O 早期/O 癌症/O
+刚毛忍冬/O
+花蕾/O 供/O 药用/O
+功能/O 清热解毒/O
+新疆/O 民间/O 用以/O 治感冒/O
+肺/B_Disease 炎/E_Disease 等/O 症/O
+巴豆/O
+根/O
+叶/O 入药/O
+治/O 风/B_Disease 湿/M_Disease 骨/M_Disease 痛/E_Disease 等/O
+桃金娘/O
+根/O 含/O 酚类/O
+鞣质/O 等/O
+有/O 治/O 慢/B_Disease 性/M_Disease 痢/M_Disease 疾/E_Disease
+风/B_Disease 湿/E_Disease
+肝/B_Disease 炎/E_Disease 及/O 降/B_Disease 血/M_Disease 脂/E_Disease 等/O 功效/O
+紫玉盘/O
+根/O 可/O 药用/O
+治/O 风/B_Disease 湿/E_Disease
+跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease
+腰/B_Disease 腿/M_Disease 痛/E_Disease 等/O
+紫玉盘/O
+兽医/O 用作/O 治/O 牛/O 膨胀/O
+可/O 健胃/O
+促进/O 反刍/O 和/O 跌/B_Disease 打/M_Disease 肿/M_Disease 痛/E_Disease
+杠柳/O
+治/O 风/B_Disease 湿/M_Disease 关/M_Disease 节/M_Disease 炎/E_Disease
+筋/B_Disease 骨/M_Disease 痛/E_Disease 等/O
+我国/O 北方/O 都/O 以/O 的/O 根皮/O
+称/O
+北五加皮/O
+浸酒/O
+功用/O 与/O 五加皮/O 略似/O
+但/O 有毒/O
+不宜/O 过量/O 和/O 久/O 服/O
+以免/O 中毒/O
+百两金/O
+根/O
+叶有/O 清热/O 利咽/O
+舒筋活血/O 等/O 功效/O
+用于/O 治/O 咽/B_Disease 喉/M_Disease 痛/E_Disease
+扁/B_Disease 桃/M_Disease 腺/M_Disease 炎/E_Disease
+肾/B_Disease 炎/M_Disease 水/M_Disease 肿/E_Disease 及/O 跌/B_Disease 打/M_Disease 风/M_Disease 湿/E_Disease 等/O 症/O
+又/O 用于/O 治/O 白/B_Disease 浊/E_Disease
+骨/B_Disease 结/M_Disease 核/E_Disease
+痨/B_Disease 伤/M_Disease 咳/M_Disease 血/E_Disease
+痈/B_Disease 疔/E_Disease
+蛇/B_Disease 咬/M_Disease 伤/E_Disease 等/O
+大叶百两金/O
+根治/O 风/B_Disease 湿/M_Disease 跌/M_Disease 打/E_Disease
+喉/B_Disease 症/E_Disease 及/O 健/B_Disease 脑/E_Disease
+细柄百两金/O
+全株/O 有/O 止血/O 消炎/O 作用/O
+用于/O 治/O 刀/B_Disease 伤/E_Disease
+喉/B_Disease 痛/E_Disease 等/O 症/O
+尖槐藤/O
+其/O 根/O 可治/O 黄/B_Disease 疸/M_Disease 病/E_Disease 和/O 跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease
+马蹄香/O
+根状茎/O 和根/O 入药/O
+治/O 胃/B_Disease 寒/M_Disease 痛/E_Disease
+关/B_Disease 节/M_Disease 疼/M_Disease 痛/E_Disease
+马蹄香/O
+鲜叶/O 外用/O 治/O 疮/B_Disease 疡/E_Disease
+高原毛茛/O
+全草/O 作/O 药用/O
+有/O 清热解毒/O 之/O 效/O
+治/O 淋/B_Disease 巴/M_Disease 结/M_Disease 核/E_Disease 等/O 症/O
+轮叶木姜子/O
+根/O
+叶甘凉/O
+民间/O 用来/O 治/O 跌/B_Disease 打/M_Disease 积/M_Disease 淤/E_Disease
+胸/B_Disease 痛/E_Disease
+风/B_Disease 湿/M_Disease 痹/M_Disease 痛/E_Disease
+妇/B_Disease 女/M_Disease 经/M_Disease 痛/E_Disease
+轮叶木姜子/O
+叶/O 外敷/O 治/O 骨/B_Disease 折/E_Disease
+蛇/B_Disease 伤/E_Disease
+细叶藁本/O
+根及/O 根茎/O 供/O 药用/O
+称/O
+火/O 藁本/O
+散/O 风/B_Disease 寒/E_Disease 燥湿/O
+治/O 风/B_Disease 寒/M_Disease 头/M_Disease 痛/E_Disease
+寒/B_Disease 湿/M_Disease 腹/M_Disease 痛/E_Disease
+泄/B_Disease 泻/E_Disease
+外用/O 治/O 疥/B_Disease 癣/E_Disease
+神/B_Disease 经/M_Disease 性/M_Disease 皮/M_Disease 炎/E_Disease 等/O 皮/B_Disease 肤/M_Disease 病/E_Disease
+藁本/O
+根茎/O 供/O 药用/O
+为/O 我国/O 传统/O 药/O
+散/O 风/B_Disease 寒/E_Disease 燥湿/O
+治/O 风/B_Disease 寒/M_Disease 头/M_Disease 痛/E_Disease
+寒/B_Disease 湿/M_Disease 腹/M_Disease 痛/E_Disease
+泄/B_Disease 泻/E_Disease
+外用/O 治/O 疥/B_Disease 癣/E_Disease
+神/B_Disease 经/M_Disease 性/M_Disease 皮/M_Disease 炎/E_Disease 等/O 皮/B_Disease 肤/M_Disease 病/E_Disease
+翠雀/O
+全草/O 煎/B_Disease 水/E_Disease 含漱/O （/O 有毒/O 勿/O 咽/O ）/O
+可治/O 风/B_Disease 热/E_Disease 牙/B_Disease 痛/E_Disease
+土坛树/O
+本种/O 的/O 根和叶/O 可治/O 风/B_Disease 湿/E_Disease 和/O 跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease
+革叶粗筒苣苔/O
+全草/O 入药/O
+治/O 跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease
+柱果铁线莲/O
+根/O 入药/O
+能/O 祛风除湿/O
+舒筋活络/O
+镇痛/O
+治/O 风/B_Disease 湿/M_Disease 性/M_Disease 关/M_Disease 节/M_Disease 痛/E_Disease
+牙/B_Disease 痛/E_Disease
+骨/B_Disease 鲠/M_Disease 喉/E_Disease
+柱果铁线莲/O
+叶/O 外用/O 治/O 外/B_Disease 伤/M_Disease 出/M_Disease 血/E_Disease （/O 全国/O 中草药/O 汇编/O ）/O
+葛藟葡萄/O
+根/O
+茎/O 和/O 果实/O 供/O 药用/O
+可治/O 关节/O 酸痛/O
+种子/O 可炸/O 油/O
+筒鞘蛇菰/O
+全株/O 入药/O
+有/O 止血/O
+镇痛/O 和/O 消炎/O 等/O 功效/O
+民间/O 用以/O 治疗/O 痔/B_Disease 疮/E_Disease 和/O 胃/B_Disease 病/E_Disease 等/O 症/O
+葛枣猕猴桃/O
+果实/O 除/O 作/O 水果/O 利用/O 之外/O
+虫瘿/O 可/O 入药/O
+治/O 庙/B_Disease 气/E_Disease 及/O 腰/B_Disease 痛/E_Disease
+假蒟/O
+果序/O 治/O 牙/B_Disease 痛/E_Disease
+胃/B_Disease 痛/E_Disease
+腹/B_Disease 胀/E_Disease
+食/B_Disease 欲/M_Disease 不/M_Disease 振/E_Disease 等/O
+鸢尾/O
+根状茎/O 治/O 关/B_Disease 节/M_Disease 炎/E_Disease
+跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease
+食/B_Disease 积/E_Disease
+肝/B_Disease 炎/E_Disease 等/O 症/O
+海芋/O
+又/O 可治/O 肺/B_Disease 结/M_Disease 核/E_Disease
+风/B_Disease 湿/M_Disease 关/M_Disease 节/M_Disease 炎/E_Disease
+气/B_Disease 管/M_Disease 炎/E_Disease
+流/B_Disease 感/E_Disease
+伤/B_Disease 寒/E_Disease
+风/B_Disease 湿/M_Disease 心/M_Disease 藏/M_Disease 病/E_Disease
+海芋/O
+外用/O 治疗/O 疮/B_Disease 肿/M_Disease 毒/E_Disease
+蛇/B_Disease 虫/M_Disease 咬/M_Disease 伤/E_Disease
+烫/B_Disease 火/M_Disease 伤/E_Disease
+海芋/O
+调/O 煤油/O 外用/O 治/O 神/B_Disease 经/M_Disease 性/M_Disease 皮/M_Disease 炎/E_Disease
+海芋/O
+兽医/O 用以/O 治/O 牛/B_Disease 伤/M_Disease 风/E_Disease
+猪/B_Disease 丹/M_Disease 毒/E_Disease
+隔山消/O
+地下/O 块根/O 供/O 药用/O
+用以/O 健胃/O
+消/O 饱胀/O
+治噎/O 食/O
+隔山消/O
+外用/O 治鱼/O 口/B_Disease 疮/E_Disease 毒/O
+隔山香/O
+用于/O 治/O 风/B_Disease 热/M_Disease 咳/M_Disease 嗽/E_Disease
+心/B_Disease 绞/M_Disease 痛/E_Disease
+胃/B_Disease 痛/E_Disease
+疟/B_Disease 疾/E_Disease
+痢/B_Disease 疾/E_Disease
+经/B_Disease 闭/E_Disease
+白/B_Disease 带/E_Disease
+跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease 等/O
+毛杜仲藤/O
+全株/O 供/O 药用/O
+有/O 镇静/O
+镇痛/O
+降低/O 血压/O 作用/O
+广西/O 民间/O 用来/O 治/O 刀/B_Disease 伤/M_Disease 痛/E_Disease
+眼/B_Disease 痛/E_Disease
+脚/B_Disease 痛/E_Disease 和/O 驳/B_Disease 骨/E_Disease 等/O
+沙枣/O
+其次/O
+果实/O
+叶/O
+根/O 可/O 入药/O
+果汁/O 可/O 作/O 泻药/O
+果实/O 与/O 车前/O 一同/O 捣碎/O 可治/O 痔/B_Disease 疮/E_Disease
+根/O 煎/O 汁/O 可/O 洗恶/O 疥/B_Disease 疮/E_Disease 和马/O 的/O 瘤/O 疥/O
+叶/O 干燥/O 后/O 研碎/O 加水/O 服/O
+对/O 治/O 肺/B_Disease 炎/E_Disease
+气/B_Disease 短/M_Disease 有/M_Disease 效/E_Disease
+紫苏/O
+入药/O 部分/O 以/O 茎/O 叶/O 及/O 子实/O 为主/O
+叶为/O 发汗/O
+镇/B_Disease 咳/E_Disease
+芳香性/O 健胃/O 利尿剂/O
+有/O 镇痛/O
+镇静/O
+解毒/O 作用/O
+治感冒/O
+因/O 鱼/O 蟹/O 中毒/O 之/O 腹/B_Disease 痛/E_Disease 呕吐者/O 有/O 卓效/O
+工布乌头/O
+块根/O 泡/O 酒后/O 外/O 搽/O 可治/O 跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease
+毒/B_Disease 虫/M_Disease 咬/M_Disease 伤/E_Disease
+弓果藤/O
+药用/O 全株/O
+华南地区/O 民间/O 作兽/O 医药/O
+有化/O 气/O 祛风/O
+治/O 牛/O 食/B_Disease 欲/M_Disease 不/M_Disease 振/E_Disease
+宿草/O 不/O 转/O
+厚叶雀舌木/O
+叶/O 供/O 药用/O
+可治/O 皮肤/O 溃/B_Disease 疡/E_Disease
+用于/O 止血/O 等/O
+贡山三尖杉/O
+叶/O
+枝/O
+种子/O
+根/O 可/O 提取/O 多种/O 植物/O 碱/O
+对/O 治疗/O 淋/B_Disease 巴/M_Disease 肉/M_Disease 瘤/E_Disease 等/O 有/O 一定/O 的/O 疗效/O
+勾儿茶属/O
+本属/O 的/O 一些/O 种类/O 的/O 根/O
+茎/O 或/O 叶/O 可供/O 药用/O
+有/O 祛风/O 利湿/O
+活血/O 止痛/O
+止咳/O 祛痰/O 之/O 功效/O
+主治/O 风/B_Disease 湿/M_Disease 性/M_Disease 关/M_Disease 节/M_Disease 痛/E_Disease
+痛/B_Disease 经/E_Disease
+产/B_Disease 后/M_Disease 腹/M_Disease 痛/E_Disease
+肺/B_Disease 结/M_Disease 核/E_Disease
+急/B_Disease 慢/M_Disease 性/M_Disease 气/M_Disease 管/M_Disease 炎/E_Disease
+黄/B_Disease 疸/E_Disease
+红/B_Disease 白/M_Disease 痢/M_Disease 疾/E_Disease
+跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease
+骨/B_Disease 折/M_Disease 和/M_Disease 痈/M_Disease 肿/M_Disease 疮/M_Disease 毒/E_Disease 等/O 症/O 有/O 一定/O 的/O 疗效/O
+牯岭勾儿茶/O
+根/O 药用/O
+治/O 风/B_Disease 湿/M_Disease 痛/E_Disease
+牛眼马钱/O
+也/O 可作/O 兽药/O
+治/O 跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease
+赤苍藤/O
+茎/O 入药/O
+利尿/O
+治/O 黄/B_Disease 胆/E_Disease
+也/O 治/O 风/B_Disease 湿/M_Disease 骨/M_Disease 痛/E_Disease
+赤苍藤/O
+根/O 煮肉/O 或/O 浸酒/O 服/O
+同时/O 捣烂/O 叶敷/O 患处/O 可治/O 水/B_Disease 肿/E_Disease
+细叶景天/O
+全/O 草药/O 用/O
+清热解毒/O
+治/O 痢/B_Disease 疾/E_Disease
+帘子藤/O
+乳汁/O 浸酒/O 可治/O 风/B_Disease 湿/M_Disease 病/E_Disease
+帘子藤/O
+广西/O 民间/O 用根/O 和/O 茎/O 浸酒/O 服治/O 腰骨/O 酸痛/O
+帘子藤/O
+根/O 药用/O 可治/O 贫/B_Disease 血/E_Disease
+徐长卿/O
+全草/O 可/O 药用/O
+祛风/O 止痛/O
+解毒/O 消肿/O
+治/O 胃/B_Disease 气/M_Disease 痛/E_Disease
+肠/B_Disease 胃/M_Disease 炎/E_Disease
+毒/B_Disease 蛇/M_Disease 咬/M_Disease 伤/E_Disease
+腹/B_Disease 水/E_Disease 等/O
+狗骨柴/O
+据称/O 在/O 江西/O 井冈山/O 地区/O 居民/O 用/O 其/O 根治/O 黄/B_Disease 疸/M_Disease 病/E_Disease
+密花树/O
+用/O 根/O 煎/B_Disease 水/E_Disease 服/O
+可治/O 膀/B_Disease 胱/M_Disease 结/M_Disease 石/E_Disease
+金丝桃/O
+果实/O 及/O 根供/O 药用/O
+果作/O 连翘/O 代用品/O
+根能/O 祛风/O
+止咳/O
+下乳/O
+调经/O 补血/O
+并/O 可治/O 跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease
+黑面神/O
+根/O
+叶/O 供/O 药用/O
+可治/O 肠/B_Disease 胃/M_Disease 炎/E_Disease
+咽/B_Disease 喉/M_Disease 肿/M_Disease 痛/E_Disease
+风/B_Disease 湿/M_Disease 骨/M_Disease 痛/E_Disease
+湿/B_Disease 疹/E_Disease
+高/B_Disease 血/M_Disease 脂/M_Disease 病/E_Disease 等/O
+黑面神/O
+全株/O 煲/O 水外/O 洗/O 可治/O 疮/B_Disease 疖/E_Disease
+皮/B_Disease 炎/E_Disease 等/O
+金叶子/O
+根/O 含/O 狗脚/O 草素/O C21H29O6/O
+有/O 抗炎/O
+镇痛/O 之/O 效/O
+用于/O 治/O 风/B_Disease 湿/M_Disease 性/M_Disease 关/M_Disease 节/M_Disease 疼/M_Disease 痛/E_Disease
+常春藤/O
+全株/O 供/O 药用/O
+有/O 舒/O 筋散风之效/O
+茎/O 叶/O 捣碎/O 治/O 衄/B_Disease 血/E_Disease
+也/O 可治/O 痛/B_Disease 疽/E_Disease 或/O 其他/O 初/B_Disease 起/M_Disease 肿/M_Disease 毒/E_Disease
+长蕊斑种草/O
+根/O 和/O 叶治/O 跌/B_Disease 打/E_Disease
+红/B_Disease 肿/E_Disease
+捣烂/O 敷/O 患处/O
+尖尾芋/O
+全株/O 药用/O
+为/O 治/O 毒/B_Disease 蛇/M_Disease 咬/M_Disease 伤/E_Disease 要/O 药/O
+尖尾芋/O
+可治/O 流/B_Disease 感/E_Disease
+高/B_Disease 烧/E_Disease
+肺/B_Disease 结/M_Disease 核/E_Disease
+急/B_Disease 性/M_Disease 胃/M_Disease 炎/E_Disease
+胃/B_Disease 溃/M_Disease 疡/E_Disease
+慢/B_Disease 性/M_Disease 胃/M_Disease 病/E_Disease
+肠/B_Disease 伤/M_Disease 寒/E_Disease
+外用/O 治/O 毒/B_Disease 蛇/M_Disease 咬/M_Disease 伤/E_Disease
+蜂/B_Disease 窝/M_Disease 组/M_Disease 织/M_Disease 炎/E_Disease
+疮/B_Disease 疖/E_Disease
+风/B_Disease 湿/E_Disease 等/O
+尖尾芋/O
+福建/O 用/O 全草/O 治/O 秃/O 发病/O
+蕺菜/O
+全株/O 入药/O
+有/O 清热/O
+解毒/O
+利水/O 之/O 效/O
+治/O 肠/B_Disease 炎/E_Disease
+痢/B_Disease 疾/E_Disease
+肾/B_Disease 炎/M_Disease 水/M_Disease 肿/E_Disease 及/O 乳/B_Disease 腺/M_Disease 炎/E_Disease
+中/B_Disease 耳/M_Disease 炎/E_Disease 等/O
+狗尾草/O
+秆/O
+叶/O 可作/O 饲料/O
+也/O 可/O 入药/O
+治/O 痈/B_Disease 瘀/E_Disease
+面/B_Disease 癣/E_Disease
+龙船草/O
+广西/O 用/O 花/O 入药/O
+可清/O 肝火/O
+散/O 郁结/O
+治/O 痈/B_Disease 肿/M_Disease 疤/M_Disease 毒/E_Disease
+目/B_Disease 赤/M_Disease 肿/M_Disease 痛/E_Disease
+瘰/B_Disease 疬/E_Disease
+石莲/O
+治/O 跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease 及/O 外/B_Disease 伤/M_Disease 肿/M_Disease 痛/E_Disease （/O 湖北/O 西部/O ）/O
+长蕊珍珠菜/O
+云南/O
+广西/O 民间/O 用/O 全草/O 捣烂/O 敷治/O 乳/B_Disease 房/M_Disease 红/M_Disease 肿/E_Disease
+无/B_Disease 名/M_Disease 肿/M_Disease 毒/E_Disease
+风/B_Disease 湿/M_Disease 痛/E_Disease
+狗/B_Disease 咬/M_Disease 伤/E_Disease
+痈/B_Disease 疽/E_Disease 等/O
+花南星/O
+草医/O 常用/O 于/O 治/O 吹风/O 蛇/O （/O 眼睛/O 蛇/O ）/O 咬伤/O
+也/O 可/O 外/O 包治/O 疟/B_Disease 疾/E_Disease
+象头花/O
+内服/O 可治/O 跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease （/O 云南/O 保山/O ）/O
+象头花/O
+兽医/O 用于/O 治/O 疮/B_Disease 黄/M_Disease 肿/M_Disease 毒/E_Disease
+锁/B_Disease 喉/M_Disease 黄/E_Disease （/O 云南/O 富民/O ）/O
+枳椇/O
+果序/O 轴/O 肥厚/O
+含/O 丰富/O 的/O 糖/O
+可/O 生食/O
+酿酒/O
+熬/O 糖/O
+民间/O 常用/O 以/O 浸制/O
+拐枣/O 酒/O
+能治/O 风/B_Disease 湿/E_Disease
+滇瑞香/O
+全株/O 入药/O
+可治/O 跌/B_Disease 打/M_Disease 风/M_Disease 湿/E_Disease 痛/O
+须药藤/O
+全株/O 可/O 药用/O
+治感冒/O
+头/B_Disease 痛/E_Disease
+咳/B_Disease 嗽/E_Disease
+支/B_Disease 气/M_Disease 管/M_Disease 炎/E_Disease
+胃/B_Disease 痛/E_Disease
+食/B_Disease 积/M_Disease 气/M_Disease 胀/E_Disease 等/O
+夏枯草/O
+治/O 口/B_Disease 眼/M_Disease 歪/M_Disease 斜/E_Disease
+止/O 筋骨/O 疼/O
+舒/O 肝气/O
+开/O 肝郁/O
+夏枯草/O
+治目/O 珠夜/O （/O 胀/O ）/O 痛/O
+消散/O 瘰/B_Disease 疬/E_Disease （/O 周身/O 结核/O ）/O
+手足/O 周身/O 节骨/O 酸疼/O
+马莲鞍/O
+根供/O 药用/O
+可治/O 痢/B_Disease 疾/E_Disease
+湿/B_Disease 热/M_Disease 腹/M_Disease 泻/E_Disease
+心/B_Disease 胃/M_Disease 气/M_Disease 痛/E_Disease
+感/B_Disease 冒/M_Disease 发/M_Disease 烧/E_Disease
+慢/B_Disease 性/M_Disease 肾/M_Disease 炎/E_Disease
+跌/B_Disease 打/E_Disease
+马莲鞍/O
+叶/O 有毒/O
+误食/O 会/O 引起/O 头/B_Disease 晕/E_Disease
+腹/B_Disease 泻/E_Disease
+但/O 可/O 外用/O 治/O 毒/B_Disease 蛇/M_Disease 咬/M_Disease 伤/E_Disease 和/O 烂/B_Disease 疮/E_Disease 等/O
+金花树/O
+全株/O 供/O 药用/O
+治/O 风/B_Disease 湿/E_Disease 及/O 止血/O
+叶可敷/O 疮/B_Disease 疖/E_Disease
+牯岭野豌豆/O
+国外/O 报道/O 其/O 种子/O 内含/O 物可/O 用于/O 治疗/O 帕金森/O 式/O 麻/B_Disease 痹/E_Disease 震颤/O 症/O
+天星藤/O
+全株/O 可/O 药用/O
+华南地区/O 民间/O 用作/O 驳/B_Disease 骨/E_Disease
+催乳/O
+治/O 喉/B_Disease 痛/E_Disease
+跌/B_Disease 打/E_Disease
+瓜木/O
+本种/O 的/O 树皮/O 含/O 鞣质/O
+纤维/O 可/O 作/O 人造棉/O
+根叶/O 药用/O
+治/O 风/B_Disease 湿/E_Disease 和/O 跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease 等/O 病/O
+又/O 可以/O 作/O 农药/O
+瓜叶栝楼/O
+根治/O 头/B_Disease 痛/E_Disease
+气/B_Disease 管/M_Disease 炎/E_Disease
+瓜叶栝楼/O
+果治/O 胃/B_Disease 病/E_Disease
+气/B_Disease 喘/E_Disease 以及/O 消/B_Disease 渴/E_Disease
+眼树莲/O
+民间/O 有/O 用作/O 治/O 肺/B_Disease 燥/M_Disease 咳/M_Disease 血/E_Disease
+疮/B_Disease 疖/M_Disease 肿/M_Disease 毒/E_Disease
+小/B_Disease 儿/M_Disease 疳/M_Disease 积/E_Disease
+痢/B_Disease 疾/E_Disease
+跌/B_Disease 打/M_Disease 肿/M_Disease 痛/E_Disease
+毒/B_Disease 蛇/M_Disease 咬/M_Disease 伤/E_Disease
+荷青花/O
+根茎/O 药用/O
+具/O 祛风/O 湿/O
+止血/O
+止痛/O
+舒筋活络/O
+散/O 瘀/O 消肿/O 等/O 功效/O
+治/O 劳/B_Disease 伤/M_Disease 过/M_Disease 度/E_Disease
+风/B_Disease 湿/M_Disease 性/M_Disease 关/M_Disease 节/M_Disease 炎/E_Disease
+跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease 及/O 经/B_Disease 血/M_Disease 不/M_Disease 调/E_Disease
+黄花乌头/O
+块根/O 有毒/O
+经/O 炮制/O 后/O 可/O 内服/O
+治/O 偏/B_Disease 正/M_Disease 头/M_Disease 痛/E_Disease
+寒/B_Disease 湿/M_Disease 痹/M_Disease 痛/E_Disease
+口/B_Disease 眼/M_Disease 歪/M_Disease 斜/E_Disease 等/O 症/O
+外用/O 可治/O 疥/B_Disease 癣/E_Disease
+黄花乌头/O
+块根/O 水浸/O 液/O 可作/O 农药/O
+防治/O 小/B_Disease 麦/M_Disease 杆/M_Disease 锈/M_Disease 病/E_Disease
+黄檗/O
+主治/O 急/B_Disease 性/M_Disease 细/M_Disease 菌/M_Disease 性/M_Disease 痢/M_Disease 疾/E_Disease
+急/B_Disease 性/M_Disease 肠/M_Disease 炎/E_Disease
+急/B_Disease 性/M_Disease 黄/M_Disease 疸/M_Disease 型/M_Disease 肝/M_Disease 炎/E_Disease
+泌/B_Disease 尿/M_Disease 系/M_Disease 统/M_Disease 感/M_Disease 染/E_Disease 等/O 炎/B_Disease 症/E_Disease
+黄檗/O
+外用/O 治/O 火/B_Disease 烫/M_Disease 伤/E_Disease
+中/B_Disease 耳/M_Disease 炎/E_Disease
+急/B_Disease 性/M_Disease 结/M_Disease 膜/M_Disease 炎/E_Disease 等/O
+中华老鹳草/O
+根/O 入药/O
+治/O 痢/B_Disease 疾/E_Disease （/O 云南/O ）/O
+雄黄兰/O
+本/O 种/O 植物/O 除了/O 供/O 观赏/O 外/O
+它/O 的/O 球茎/O 有/O 小毒/O
+可/O 入药/O
+治/O 全/B_Disease 身/M_Disease 筋/M_Disease 骨/M_Disease 疼/M_Disease 痛/E_Disease
+各/B_Disease 种/M_Disease 疮/M_Disease 肿/E_Disease
+跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease
+外/B_Disease 伤/M_Disease 出/M_Disease 血/E_Disease 及/O 腮/B_Disease 腺/M_Disease 炎/E_Disease 等/O 症/O
+五叶老鹳草/O
+全草/O 供/O 药用/O
+有/O 治疗/O 痢/B_Disease 疾/E_Disease
+肠/B_Disease 炎/M_Disease 之/M_Disease 功/M_Disease 效/E_Disease
+寄生藤/O
+全株/O 供/O 药用/O
+外敷/O 治/O 跌/B_Disease 打/M_Disease 刀/M_Disease 伤/E_Disease
+川桂/O
+树皮/O 入药/O
+功效/O 补肾/O 和/O 散寒/O 祛风/O
+治/O 风/B_Disease 湿/M_Disease 筋/M_Disease 骨/M_Disease 痛/E_Disease
+跌/B_Disease 打/E_Disease 及/O 腹/B_Disease 痛/M_Disease 吐/M_Disease 泻/E_Disease 等/O 症/O
+前胡/O
+能/O 解热/O
+祛痰/O
+治/O 感/B_Disease 冒/M_Disease 咳/M_Disease 嗽/E_Disease
+支/B_Disease 气/M_Disease 管/M_Disease 炎/E_Disease 及/O 疖/B_Disease 肿/E_Disease
+管萼山豆根/O
+根/O 药用/O
+利/O 咽喉/O
+治/O 腹/B_Disease 痛/E_Disease
+腹/B_Disease 胀/E_Disease
+展毛野牡丹/O
+全株/O 有/O 收敛/O 作用/O
+可治/O 消/B_Disease 化/M_Disease 不/M_Disease 良/E_Disease
+腹/B_Disease 泻/E_Disease
+肠/B_Disease 炎/E_Disease
+痢/B_Disease 疾/E_Disease 等/O 症/O
+也/O 用于/O 利尿/O
+展毛野牡丹/O
+又/O 用于/O 治疗/O 慢/B_Disease 性/M_Disease 支/M_Disease 气/M_Disease 管/M_Disease 炎/E_Disease 有/O 一定/O 的/O 疗效/O
+光萼猪屎豆/O
+可/O 供/O 药用/O
+有/O 清热解毒/O
+散结/O 祛瘀/O 等/O 效用/O
+外用/O 治/O 疮/B_Disease 痛/E_Disease
+跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease 等/O 症/O
+榉树/O
+又/O 云/O ：/O
+叶冷/O 无毒/O
+治肿烂/O 恶/B_Disease 疮/E_Disease
+光叶闭鞘姜/O
+治/O 肝/B_Disease 硬/M_Disease 化/E_Disease 腹/B_Disease 水/E_Disease
+尿/B_Disease 路/M_Disease 感/M_Disease 染/E_Disease
+肌肉/O 肿痛/O
+阴囊/O 肿痛/O
+肾/B_Disease 炎/M_Disease 水/M_Disease 肿/E_Disease
+无/B_Disease 名/M_Disease 肿/M_Disease 毒/E_Disease （/O 云南省/O 药物/O 研究所/O 编/O
+云南/O 药用植物/O 名录/O ）/O
+光叶山矾/O
+根/O 药用/O
+治/O 跌/B_Disease 打/E_Disease
+黑毛四照花/O
+花/O 有/O 消肿/O 的/O 功效/O
+可治/O 牙/B_Disease 痛/E_Disease
+乳/B_Disease 痛/E_Disease 和/O 喉/B_Disease 蛾/M_Disease 风/E_Disease 等/O 病/O
+光叶子花/O
+花/O 入药/O
+调和/O 气血/O
+治/O 白/B_Disease 带/E_Disease
+调经/O
+广东大青/O
+广西/O 民间/O 还/O 用/O 其/O 根治/O 脚/B_Disease 软/E_Disease
+风/B_Disease 湿/E_Disease
+虎刺楤木/O
+根皮/O 为/O 民间/O 草药/O
+有/O 消肿/O 散/O 瘀/O
+除/B_Disease 风/E_Disease 祛湿/O 之/O 效/O
+治/O 肝/B_Disease 炎/E_Disease
+肾/B_Disease 炎/E_Disease
+前/B_Disease 列/M_Disease 腺/M_Disease 炎/E_Disease 等/O 症/O
+广东蝶豆/O
+治/O 老年/O 慢/B_Disease 性/M_Disease 气/M_Disease 管/M_Disease 炎/E_Disease
+疮/B_Disease 肿/E_Disease
+广东万年青/O
+全株/O 入药/O
+据/O 《/O 岭南/O 采药/O 录/O 》/O 载/O ：/O 取/O 其/O 叶/O 和/O 精肉/O 同煲/O
+可治/O 热/B_Disease 血/E_Disease
+咳/B_Disease 血/E_Disease
+大/B_Disease 肠/M_Disease 结/M_Disease 热/E_Disease
+小/B_Disease 儿/M_Disease 脱/M_Disease 肛/E_Disease 等/O 症/O
+广东万年青/O
+又/O 茎/O 叶/O 和/O 片糖/O 捣烂/O
+可/O 敷治/O 狂/B_Disease 犬/M_Disease 咬/M_Disease 伤/E_Disease
+广东万年青/O
+此外/O
+还/O 可用/O 全草/O 敷治/O 蛇/B_Disease 咬/M_Disease 伤/E_Disease
+咽/B_Disease 喉/M_Disease 肿/M_Disease 痛/E_Disease
+疔/B_Disease 疮/M_Disease 肿/M_Disease 毒/E_Disease
+煎/B_Disease 水/E_Disease 可洗/O 痔/B_Disease 疮/E_Disease
+广花耳草/O
+据/O 《/O 广东/O 药用植物/O 手册/O 》/O 记载/O
+全草/O 入药/O
+有/O 滋补/O
+祛风/O 湿/O
+强筋骨/O
+治/O 跌/B_Disease 打/E_Disease 等/O 疗效/O
+广藿香/O
+梗/O
+叶/O 或/O 叶/O 供/O 药用/O
+主/O 用于/O 妊娠/O 呕/B_Disease 吐/E_Disease
+胃/B_Disease 气/M_Disease 痛/E_Disease 及/O 预治/O 流/B_Disease 感/E_Disease
+为/O 芳香/O 健胃/O
+解热/O
+镇吐/O 剂/O
+广寄生/O
+全株/O 入药/O
+药材/O 称/O
+系/O 中药材/O 桑寄生/O 主要/O 品种/O
+可治/O 风/B_Disease 湿/M_Disease 痹/M_Disease 痛/E_Disease
+腰/B_Disease 膝/M_Disease 痠/M_Disease 软/E_Disease
+胎/B_Disease 动/E_Disease
+胎/B_Disease 漏/E_Disease
+高/B_Disease 血/M_Disease 压/E_Disease 等/O
+广西斑鸠菊/O
+此种/O 的/O 根/O
+叶治/O 小/B_Disease 儿/M_Disease 惊/M_Disease 风/E_Disease
+烂/B_Disease 疮/E_Disease
+毛柄短肠蕨/O
+四川省/O 峨眉山/O 一带/O 草医/O 称该/O 蕨种/O 为/O 鸡爪黄连/O
+以/O 叶治/O 头/B_Disease 晕/E_Disease 症/O
+根状茎/O 治/O 跌/B_Disease 打/E_Disease
+广西莪术/O
+供/O 药用/O
+主治/O
+气/B_Disease 血/M_Disease 凝/M_Disease 滞/E_Disease
+心/B_Disease 腹/M_Disease 胀/M_Disease 痛/E_Disease
+症瘕/O
+积聚/O
+宿/B_Disease 食/M_Disease 不/M_Disease 消/E_Disease
+妇女/O 血/B_Disease 瘀/M_Disease 经/M_Disease 闭/E_Disease
+跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease 作痛/O
+广西鹅掌柴/O
+本/O 种/O 广西/O 民间/O 称为/O 七叶莲/O
+供/O 药用/O
+治/O 三/B_Disease 叉/M_Disease 神/M_Disease 经/M_Disease 痛/E_Disease
+坐/B_Disease 骨/M_Disease 神/M_Disease 经/M_Disease 痛/E_Disease 及/O 神/B_Disease 经/M_Disease 性/M_Disease 头/M_Disease 痛/E_Disease 等/O 症/O
+广西马兜铃/O
+有/O 清热/O
+解毒/O
+止血/O
+止痛/O 之/O 效/O
+治/O 喉/B_Disease 痛/E_Disease
+腹/B_Disease 痛/E_Disease
+跌/B_Disease 打/E_Disease
+疟/B_Disease 疾/E_Disease
+蛇/B_Disease 伤/E_Disease 等/O
+广西石楠/O
+叶/O 供/O 药用/O
+可治/O 风/B_Disease 湿/M_Disease 痛/E_Disease
+广西香花藤/O
+全株/O 可作/O 药用/O
+有/O 治/O 水/B_Disease 肿/E_Disease 之/O 效/O
+荷花玉兰/O
+叶/O 入药/O 治/O 高/B_Disease 血/M_Disease 压/E_Disease
+狼杷草/O
+主治/O 感/B_Disease 冒/E_Disease
+扁/B_Disease 桃/M_Disease 体/M_Disease 炎/E_Disease
+咽/B_Disease 喉/M_Disease 炎/E_Disease
+肠/B_Disease 炎/E_Disease
+痢/B_Disease 疾/E_Disease
+肝/B_Disease 炎/E_Disease
+泌/B_Disease 尿/M_Disease 系/M_Disease 感/M_Disease 染/E_Disease
+肺/B_Disease 结/M_Disease 核/M_Disease 盗/M_Disease 汗/E_Disease
+闭/B_Disease 经/E_Disease
+外用/O 治/O 疖/B_Disease 肿/E_Disease
+湿/B_Disease 疹/E_Disease
+皮/B_Disease 癣/E_Disease
+鬼吹箫/O
+全株/O 可/O 药用/O
+有破/O 血/O
+祛风/O
+平喘/O 之/O 效/O
+主治/O 风/B_Disease 湿/M_Disease 性/M_Disease 关/M_Disease 节/M_Disease 炎/E_Disease
+月/B_Disease 经/M_Disease 不/M_Disease 调/E_Disease 及/O 尿/B_Disease 道/M_Disease 炎/E_Disease
+鬼吹箫/O
+西藏/O 波密/O 民间/O 还/O 用以/O 治/O 眼/B_Disease 病/E_Disease
+尖齿臭茉莉/O
+药用/O 根/O
+叶/O 或/O 全株/O
+治/O 妇/B_Disease 女/M_Disease 月/M_Disease 经/M_Disease 不/M_Disease 调/E_Disease
+风/B_Disease 湿/M_Disease 骨/M_Disease 痛/E_Disease
+骨/B_Disease 折/E_Disease
+中/B_Disease 耳/M_Disease 炎/E_Disease
+毒/B_Disease 疮/E_Disease
+湿/B_Disease 疹/E_Disease
+猫头刺/O
+其/O 茎/O 叶/O 捣碎/O 煮汁/O 可治/O 脓疮/O
+磨芋/O
+治/O 流/B_Disease 火/E_Disease
+疔/B_Disease 疮/E_Disease
+无/B_Disease 名/M_Disease 肿/M_Disease 毒/E_Disease
+瘰/B_Disease 疬/E_Disease
+眼/B_Disease 睛/M_Disease 蛇/M_Disease 咬/M_Disease 伤/E_Disease
+烫/B_Disease 火/M_Disease 伤/E_Disease
+间/B_Disease 日/M_Disease 疟/E_Disease
+乳/B_Disease 痈/E_Disease
+腹/B_Disease 中/M_Disease 痞/M_Disease 块/E_Disease
+疔/B_Disease 癀/M_Disease 高/M_Disease 烧/E_Disease
+疝/B_Disease 气/E_Disease 等/O
+鬼针草/O
+为/O 我国/O 民间/O 常用/O 草药/O
+有/O 清热解毒/O
+散/O 瘀/O 活血/O 的/O 功效/O
+主治/O 上/B_Disease 呼/M_Disease 吸/M_Disease 道/M_Disease 感/M_Disease 染/E_Disease
+咽/B_Disease 喉/M_Disease 肿/M_Disease 痛/E_Disease
+急/B_Disease 性/M_Disease 阑/M_Disease 尾/M_Disease 炎/E_Disease
+急/B_Disease 性/M_Disease 黄/M_Disease 疸/M_Disease 型/M_Disease 肝/M_Disease 炎/E_Disease
+胃/B_Disease 肠/M_Disease 炎/E_Disease
+风/B_Disease 湿/M_Disease 关/M_Disease 节/M_Disease 疼/M_Disease 痛/E_Disease
+疟/B_Disease 疾/E_Disease
+外用/O 治/O 疮/B_Disease 疖/E_Disease
+毒/B_Disease 蛇/M_Disease 咬/M_Disease 伤/E_Disease
+跌/B_Disease 打/M_Disease 肿/M_Disease 痛/E_Disease
+贵州八角莲/O
+根状茎/O 及/O 根供/O 药用/O
+有/O 解毒/O
+止痛/O 之/O 功效/O
+主治/O 跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease 及/O 劳/B_Disease 伤/M_Disease 疼/M_Disease 痛/E_Disease
+又/O 治/O 蛇/O 伤及/O 痈/B_Disease 疽/M_Disease 疱/M_Disease 毒/E_Disease
+贵州半蒴苣苔/O
+全草/O 入药/O 治疗/O 痈和/O 烫/B_Disease 伤/E_Disease
+可/O 作/O 猪饲料/O
+短柄忍冬/O
+花/O 入药/O
+贵州/O 民间/O 用来/O 治/O 鼻/B_Disease 出/M_Disease 血/E_Disease
+吐/B_Disease 血/E_Disease 及/O 肠/B_Disease 热/E_Disease 等/O 症/O
+血盆草/O
+全草/O 入药/O
+主治/O 吐/B_Disease 血/E_Disease
+血/B_Disease 崩/E_Disease
+衂/B_Disease 血/E_Disease
+刀/B_Disease 伤/M_Disease 出/M_Disease 血/E_Disease
+血/B_Disease 痢/E_Disease
+产后/O 寒/O 等/O 症/O
+贵州叶下珠/O
+根/O
+叶/O 供/O 药用/O
+糙/O 烂/O 外敷/O 可治/O 跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease
+肉桂/O
+有温/O 中/O 补肾/O
+散寒/O 止痛/O 功能/O
+治/O 腰/B_Disease 膝/M_Disease 冷/M_Disease 痛/E_Disease
+虚寒/O 胃/B_Disease 痛/E_Disease
+慢性/O 消/B_Disease 化/M_Disease 不/M_Disease 良/E_Disease
+腹/B_Disease 痛/M_Disease 吐/M_Disease 泻/E_Disease
+受寒/O 经/B_Disease 闭/E_Disease
+肉桂/O
+桂枝/O 有/O 发汗/O 解肌/O
+温通/O 经脉/O 功能/O
+治/O 外/B_Disease 感/E_Disease
+风/B_Disease 寒/E_Disease
+肩/B_Disease 臂/M_Disease 肢/M_Disease 节/M_Disease 酸/M_Disease 痛/E_Disease
+桂枝/O 煎剂/O 对/O 金黄色/O 葡萄球菌/O
+伤寒杆菌/O 和/O 人型/O 结核杆菌/O 有/O 显著/O 抗菌/O 作用/O
+肉桂/O
+桂子/O 可治/O 虚寒/O 胃/B_Disease 痛/E_Disease
+桂林唇柱苣苔/O
+根状茎/O 在/O 民间/O 供/O 药用/O
+治咳嗽/O
+跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease
+桂黔吊石苣苔/O
+根皮/O 供/O 药用/O
+治/O 风/B_Disease 湿/M_Disease 骨/M_Disease 痛/E_Disease
+桂叶素馨/O
+植株/O 药用/O 可治/O 刀/B_Disease 伤/E_Disease
+蛇/B_Disease 伤/E_Disease
+痈/B_Disease 疮/M_Disease 肿/M_Disease 毒/E_Disease 等/O
+姜味草/O
+全草/O 又/O 可/O 入药/O
+治/O 胃/B_Disease 痛/E_Disease
+腹/B_Disease 胀/E_Disease
+呕/B_Disease 吐/E_Disease
+腹/B_Disease 泻/E_Disease
+急/B_Disease 性/M_Disease 胃/M_Disease 炎/E_Disease
+急/B_Disease 慢/M_Disease 性/M_Disease 胃/M_Disease 肠/M_Disease 痛/E_Disease
+庙/B_Disease 气/M_Disease 痛/E_Disease
+感/B_Disease 冒/M_Disease 咳/M_Disease 嗽/E_Disease 等/O 症/O
+并/O 可/O 预防/O 痢/B_Disease 疾/E_Disease
+小花鬼针草/O
+全草/O 入药/O
+有/O 清热解毒/O
+活血/O 散/O 瘀/O 之/O 效/O
+主治/O 感/B_Disease 冒/M_Disease 发/M_Disease 热/E_Disease
+咽/B_Disease 喉/M_Disease 肿/M_Disease 痛/E_Disease
+肠/B_Disease 炎/E_Disease
+阑/B_Disease 尾/M_Disease 炎/E_Disease
+痔/B_Disease 疮/E_Disease
+跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease
+冻/B_Disease 疮/E_Disease
+毒/B_Disease 蛇/M_Disease 咬/M_Disease 伤/E_Disease
+爬树龙/O
+主治/O 跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease
+骨/B_Disease 折/E_Disease
+蛇/B_Disease 咬/M_Disease 伤/E_Disease
+痈/B_Disease 疮/M_Disease 节/M_Disease 肿/E_Disease
+小/B_Disease 儿/M_Disease 百/M_Disease 日/M_Disease 咳/E_Disease
+咽/B_Disease 喉/M_Disease 肿/M_Disease 痛/E_Disease
+感/B_Disease 冒/E_Disease
+风/B_Disease 湿/M_Disease 性/M_Disease 腰/M_Disease 腿/M_Disease 痛/E_Disease （/O 云南/O ）/O
+土丁桂/O
+可治/O 小儿/O 结肠炎/O
+消/B_Disease 化/M_Disease 不/M_Disease 良/E_Disease
+白/B_Disease 带/E_Disease
+支/B_Disease 气/M_Disease 管/M_Disease 哮/M_Disease 喘/E_Disease
+咳/B_Disease 嗽/E_Disease
+跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease
+腰/B_Disease 腿/M_Disease 痛/E_Disease
+痢/B_Disease 疾/E_Disease
+头/B_Disease 晕/M_Disease 目/M_Disease 眩/E_Disease
+泌/B_Disease 尿/M_Disease 系/M_Disease 感/M_Disease 染/E_Disease
+血/B_Disease 尿/E_Disease
+蛇/B_Disease 伤/E_Disease
+眼/O 膜炎/O 等/O
+香皮树/O
+树皮/O 及/O 叶/O 药用/O
+有/O 滑肠/O 功效/O
+治/O 便/B_Disease 秘/E_Disease
+大叶南苏/O
+治/O 骨/B_Disease 折/E_Disease
+跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease
+风/B_Disease 湿/M_Disease 麻/M_Disease 木/E_Disease
+咽/B_Disease 肿/E_Disease
+心/B_Disease 绞/M_Disease 痛/E_Disease
+支/B_Disease 气/M_Disease 管/M_Disease 炎/E_Disease
+哮/B_Disease 喘/E_Disease
+百/B_Disease 日/M_Disease 咳/E_Disease （/O 云南/O 玉溪/O ）/O
+水龙/O
+全草/O 入药/O
+清热解毒/O
+利尿/O 消肿/O
+也/O 可治/O 蛇/B_Disease 咬/M_Disease 伤/E_Disease
+过路黄/O
+治/O 胆/B_Disease 囊/M_Disease 炎/E_Disease
+黄/B_Disease 疸/M_Disease 性/M_Disease 肝/M_Disease 炎/E_Disease
+泌/B_Disease 尿/M_Disease 系/M_Disease 统/M_Disease 结/M_Disease 石/E_Disease
+肝/O
+胆/B_Disease 结/M_Disease 石/E_Disease
+跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease
+毒/B_Disease 蛇/M_Disease 咬/M_Disease 伤/E_Disease
+毒/B_Disease 蕈/E_Disease 及/O 药/B_Disease 物/M_Disease 中/M_Disease 毒/E_Disease
+过路黄/O
+外用/O 治/O 化/B_Disease 脓/M_Disease 性/M_Disease 炎/M_Disease 症/E_Disease
+烧/B_Disease 烫/M_Disease 伤/E_Disease
+铁冬青/O
+本种/O 叶/O 和/O 树皮/O 入药/O
+凉血/O 散血/O
+有/O 清热/O 利湿/O
+消炎/O 解毒/O
+消肿/O 镇痛/O 之/O 功效/O
+治暑/O 季/O 外/B_Disease 感/E_Disease 高/B_Disease 热/E_Disease
+烫/B_Disease 火/M_Disease 伤/E_Disease
+咽/B_Disease 喉/M_Disease 炎/E_Disease
+肝/B_Disease 炎/E_Disease
+急/B_Disease 性/M_Disease 肠/M_Disease 胃/M_Disease 炎/E_Disease
+胃/B_Disease 痛/E_Disease
+关/B_Disease 节/M_Disease 痛/E_Disease 等/O
+铁冬青/O
+兽医/O 用治/O 胃/B_Disease 溃/M_Disease 疡/E_Disease
+感/B_Disease 冒/M_Disease 发/M_Disease 热/E_Disease 和/O 各种/O 痛/O 症/O
+热毒/O
+阴疮/O
+过路惊/O
+全株/O 药用/O
+治/O 小儿/O 夜间/O 惊哭/O
+络石/O
+根/O
+茎/O
+叶/O
+果实/O 供/O 药用/O
+有/O 祛风/O 活络/O
+利/O 关节/O
+止血/O
+止痛/O 消肿/O
+清热解毒/O 之/O 效能/O
+我国/O 民间/O 有/O 用来/O 治/O 关/B_Disease 节/M_Disease 炎/E_Disease
+肌/B_Disease 肉/M_Disease 痹/M_Disease 痛/E_Disease
+跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease
+产/B_Disease 后/M_Disease 腹/M_Disease 痛/E_Disease 等/O
+络石/O
+安徽/O 地区/O 有/O 用作/O 治/O 血吸虫/O 腹/B_Disease 水/E_Disease 病/O
+狮子尾/O
+全株/O 供/O 药用/O
+可治/O 脾/B_Disease 肿/M_Disease 大/E_Disease
+高/B_Disease 烧/E_Disease
+风/B_Disease 湿/M_Disease 腰/M_Disease 痛/E_Disease
+狮子尾/O
+外用/O 治/O 跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease
+骨/B_Disease 折/E_Disease
+烫/B_Disease 火/M_Disease 伤/E_Disease
+黑老虎/O
+根/O 药用/O
+能/O 行气活血/O
+消肿止痛/O
+治/O 胃/B_Disease 病/E_Disease
+风/B_Disease 湿/M_Disease 骨/M_Disease 痛/E_Disease
+跌/B_Disease 打/M_Disease 瘀/M_Disease 痛/E_Disease
+并/O 为/O 妇科/O 常用药/O
+千里香/O
+治感冒/O
+头/B_Disease 痛/E_Disease
+胃/B_Disease 痛/E_Disease
+牙/B_Disease 痛/E_Disease
+风/B_Disease 湿/M_Disease 骨/M_Disease 痛/E_Disease
+跌/B_Disease 打/M_Disease 肿/M_Disease 痛/E_Disease
+山木通/O
+全株/O 清热解毒/O
+止痛/O
+活血/O
+利尿/O
+治感冒/O
+膀/B_Disease 胱/M_Disease 炎/E_Disease
+尿/B_Disease 道/M_Disease 炎/E_Disease
+跌/B_Disease 打/M_Disease 劳/M_Disease 伤/E_Disease
+山木通/O
+花/O 可治/O 扁/B_Disease 桃/M_Disease 体/M_Disease 炎/E_Disease
+咽/B_Disease 喉/M_Disease 炎/E_Disease （/O 云南/O 药用植物/O 名录/O ）/O
+山木通/O
+又/O 能/O 祛风/O 利湿/O
+活血/O 解毒/O
+治/O 风/B_Disease 湿/M_Disease 关/M_Disease 节/M_Disease 肿/M_Disease 痛/E_Disease
+肠/B_Disease 胃/M_Disease 炎/E_Disease
+疟/B_Disease 疾/E_Disease
+乳/B_Disease 痈/E_Disease
+牙/B_Disease 疳/E_Disease
+目/B_Disease 生/M_Disease 星/M_Disease 翳/E_Disease （/O 江苏/O 新/O 医学院/O
+中药/O 大辞典/O ）/O
+扇叶铁线蕨/O
+本/O 种/O 全草/O 入药/O
+清热解毒/O
+舒筋活络/O
+利尿/O
+化痰/O
+消肿/O
+止血/O
+止痛/O
+治/O 跌/B_Disease 打/M_Disease 内/M_Disease 伤/E_Disease
+外敷/O 治/O 烫/B_Disease 火/M_Disease 伤/E_Disease
+毒蛇/O
+娱/B_Disease 蚣/E_Disease 咬伤/O 及/O 疮/B_Disease 痛/E_Disease 初/O 起/O
+扇叶铁线蕨/O
+还/O 治/O 乳/B_Disease 猪/M_Disease 下/M_Disease 痢/E_Disease
+猪/B_Disease 丹/M_Disease 毒/E_Disease 及/O 牛/B_Disease 瘟/E_Disease
+八宝/O
+治/O 喉/B_Disease 炎/E_Disease
+热/B_Disease 疖/E_Disease 及/O 跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease
+黄海棠/O
+全/O 草药/O 用/O
+主治/O 吐/B_Disease 血/E_Disease
+子/B_Disease 宫/M_Disease 出/M_Disease 血/E_Disease
+外/B_Disease 伤/M_Disease 出/M_Disease 血/E_Disease
+疮/B_Disease 疖/M_Disease 痈/M_Disease 肿/E_Disease
+风/B_Disease 湿/E_Disease
+痢/B_Disease 疾/E_Disease 以及/O 月/B_Disease 经/M_Disease 不/M_Disease 调/E_Disease 等/O 症/O
+黄海棠/O
+种子/O 泡酒/O 服/O
+可治/O 胃/B_Disease 病/E_Disease
+并/O 可/O 解毒/O 和/O 排脓/O
+越南安息香/O
+种子/O 油称/O
+白花油/O
+可/O 供/O 药用/O
+治/O 疥/B_Disease 疮/E_Disease
+藿香/O
+全草/O 入药/O
+有止/O 呕/B_Disease 吐/E_Disease
+治/O 霍/B_Disease 乱/E_Disease 腹/B_Disease 痛/E_Disease
+驱逐/O 肠胃/O 充气/O
+清暑/O 等效/O
+披针叶铁线莲/O
+根/O 有/O 清热解毒/O
+杀菌作用/O
+四川/O 民间/O 用来/O 治/O 口/B_Disease 嗅/E_Disease
+口/B_Disease 烂/E_Disease 等/O
+八角枫/O
+本/O 种/O 药用/O
+根名/O 白龙须/O
+茎/O 名/O 白龙条/O
+治/O 风/B_Disease 湿/E_Disease
+跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease
+外/B_Disease 伤/E_Disease 止血/O 等/O
+八角莲/O
+根状茎/O 供/O 药用/O
+治/O 跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease
+半/B_Disease 身/M_Disease 不/M_Disease 遂/E_Disease
+关节/O 酸痛/O
+毒/B_Disease 蛇/M_Disease 咬/M_Disease 伤/E_Disease 等/O
+地耳草/O
+全草/O 入药/O
+能/O 清热解毒/O
+止血/O 消肿/O
+治/O 肝/B_Disease 炎/E_Disease
+跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease 以及/O 疮/B_Disease 毒/E_Disease
+羊耳菊/O
+此种/O 全草/O 或/O 根供/O 药用/O
+有/O 除/O 痰/O 定/O 喘/O
+活血/O 调经/O 及/O 治/O 跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease 等/O 作用/O
+羊耳菊/O
+在/O 广西/O 中兽医/O 用治牛/O 的/O 痢/B_Disease 疾/E_Disease
+八仙过海/O
+全草/O 入药/O
+治/O 跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease
+风/B_Disease 湿/M_Disease 关/M_Disease 节/M_Disease 炎/E_Disease
+痧/B_Disease 症/E_Disease
+急/B_Disease 性/M_Disease 肠/M_Disease 胃/M_Disease 炎/E_Disease （/O 云南/O 思茅/O ）/O
+八月瓜/O
+根/O 药用/O
+治/O 跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease
+风/B_Disease 湿/M_Disease 骨/M_Disease 痛/E_Disease
+八月瓜/O
+果治/O 疝/B_Disease 气/E_Disease
+子/B_Disease 宫/M_Disease 脱/M_Disease 垂/E_Disease
+三叶木通/O
+根/O
+茎/O 和/O 果均/O 入药/O
+利尿/O
+通乳/O
+有/O 舒筋活络/O 之/O 效/O
+治/O 风/B_Disease 湿/M_Disease 关/M_Disease 节/M_Disease 痛/E_Disease
+八月瓜属/O
+有些/O 种类/O 的/O 根/O 药用/O
+治/O 肾/B_Disease 炎/E_Disease
+肾/B_Disease 虚/M_Disease 腰/M_Disease 痛/E_Disease
+胃/B_Disease 痛/E_Disease
+跌/B_Disease 打/E_Disease
+风/B_Disease 湿/M_Disease 骨/M_Disease 痛/E_Disease 和/O 劳/B_Disease 伤/M_Disease 咳/M_Disease 嗽/E_Disease
+八月瓜属/O
+果/O 和/O 种子/O 治/O 疝/B_Disease 气/E_Disease
+鹰爪枫/O
+根/O 和/O 茎/O 皮/O 药用/O
+治/O 关/B_Disease 节/M_Disease 炎/E_Disease 及/O 风/B_Disease 湿/M_Disease 痹/M_Disease 痛/E_Disease
+五月瓜藤/O
+根/O 药用/O
+治/O 劳/B_Disease 伤/M_Disease 咳/M_Disease 嗽/E_Disease
+果治/O 肾/B_Disease 虚/M_Disease 腰/M_Disease 痛/E_Disease
+疝/B_Disease 气/E_Disease
+细果角茴香/O
+全草/O 入药/O
+治感冒/O
+咽/B_Disease 喉/M_Disease 炎/E_Disease
+急/B_Disease 性/M_Disease 结/M_Disease 膜/M_Disease 炎/E_Disease
+还/O 治/O 头/B_Disease 痛/E_Disease
+四/B_Disease 肢/M_Disease 关/M_Disease 节/M_Disease 痛/E_Disease
+胆/B_Disease 囊/M_Disease 炎/E_Disease
+并/O 能解/O 食/B_Disease 物/M_Disease 中/M_Disease 毒/E_Disease
+扒地蜈蚣/O
+根/O 可/O 药用/O
+治/O 跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease
+骨/B_Disease 折/E_Disease
+扒地蜈蚣/O
+鲜叶/O 可/O 外用/O 治/O 毒/B_Disease 蛇/M_Disease 咬/M_Disease 伤/E_Disease
+紫花醉鱼草/O
+嫩茎/O 和/O 花/O 可供/O 药用/O
+有/O 祛风/O 明目/O
+退/O 翳/O
+止咳/O 之/O 功效/O
+可/O 治咳嗽/O
+眼/B_Disease 疾/E_Disease 等/O
+缬草/O
+根茎/O 及/O 根供/O 药用/O
+可/O 驱风/O
+镇/O 痉/O
+治/O 跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease 等/O
+狼毒/O
+根/O 入药/O
+主治/O 结/B_Disease 核/M_Disease 类/E_Disease
+疮/B_Disease 瘘/M_Disease 癣/M_Disease 类/E_Disease 等/O
+有毒/O
+拔毒散/O
+全草/O 可/O 作/O 药用/O
+有/O 消炎/O 拔毒/O 生肌/O 之/O 功/O
+治/O 急/B_Disease 性/M_Disease 扁/M_Disease 桃/M_Disease 体/M_Disease 炎/E_Disease
+急/B_Disease 性/M_Disease 乳/M_Disease 腺/M_Disease 炎/E_Disease
+肠/B_Disease 炎/E_Disease
+菌/B_Disease 痢/E_Disease 和/O 跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease 等/O 症/O
+白苞蒿/O
+全草/O 入药/O
+广东/O
+广西/O 民间/O 作/O
+刘寄奴/O
+（/O 奇蒿/O ）/O 的/O 代用品/O
+有/O 清热/O
+解毒/O
+止咳/O
+消炎/O
+活血/O
+散/O 瘀/O
+通/B_Disease 经/E_Disease 等/O 作用/O
+用于/O 治/O 肝/O
+肾/B_Disease 疾/M_Disease 病/E_Disease
+近年/O 也/O 用于/O 治血/O 丝虫病/O
+白饭树/O
+全株/O 供/O 药用/O
+可治/O 风/B_Disease 湿/M_Disease 关/M_Disease 节/M_Disease 炎/E_Disease
+湿/B_Disease 疹/E_Disease
+脓/B_Disease 泡/M_Disease 疮/E_Disease 等/O
+姜花/O
+根茎/O 能/O
+解表/O
+散/O 风/B_Disease 寒/E_Disease
+治/O 头/B_Disease 痛/E_Disease
+身/B_Disease 痛/E_Disease
+风/B_Disease 湿/M_Disease 痛/E_Disease 及/O 跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease 等/O 症/O
+青羊参/O
+枝/O
+叶/O 有毒/O 质/O
+制成/O 粉剂/O 可/O 防治/O 农/B_Disease 业/M_Disease 害/M_Disease 虫/E_Disease
+降龙草/O
+全/O 草药/O 用/O
+治疗/O 疮/B_Disease 肿/M_Disease 毒/E_Disease
+蛇/B_Disease 咬/M_Disease 伤/E_Disease 和/O 烧/B_Disease 烫/M_Disease 伤/E_Disease
+海通/O
+四川/O
+广西/O 民间/O 用/O 其/O 枝叶/O 治/O 半边/O 疯/O
+延叶珍珠菜/O
+广西/O 民间/O 用以/O 治/O 跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease
+疔/B_Disease 毒/E_Disease 等/O
+杜仲藤/O
+全株/O 供/O 药用/O
+广西/O 民间/O 有/O 用来/O 治/O 小/B_Disease 儿/M_Disease 麻/M_Disease 痹/E_Disease
+跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease 等/O 症/O
+杜仲藤/O
+乳液/O 可治/O 风/B_Disease 湿/E_Disease 腰骨/O 痛/O 并/O 可/O 提取/O 橡胶/O
+小花黄堇/O
+有/O 杀虫/O 解毒/O
+外敷/O 治/O 疮/B_Disease 疥/E_Disease 和/O 蛇/B_Disease 伤/E_Disease 的/O 作用/O
+白萼素馨/O
+植株/O 药用/O 治/O 跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease
+水东哥/O
+广西/O 玉林/O 地区/O 民间/O 用/O 根/O
+叶/O 入药/O
+有/O 清热解毒/O
+凉血/O 作用/O
+治/O 无/B_Disease 名/M_Disease 肿/M_Disease 毒/E_Disease
+眼/B_Disease 翳/E_Disease
+水东哥/O
+根皮/O 煲/O 瘦猪肉/O 内服/O 治/O 遗/B_Disease 精/E_Disease
+独角莲/O
+块茎/O 供/O 药用/O
+能/O 祛风/O 痰/O
+逐/O 寒/B_Disease 湿/E_Disease
+镇/O 痉/O
+治/O 头/B_Disease 痛/E_Disease
+口/B_Disease 眼/M_Disease 歪/M_Disease 斜/E_Disease
+半/B_Disease 身/M_Disease 不/M_Disease 遂/E_Disease
+破/B_Disease 伤/M_Disease 风/E_Disease
+跌/B_Disease 打/M_Disease 劳/M_Disease 伤/E_Disease
+肢/B_Disease 体/M_Disease 麻/M_Disease 木/E_Disease
+中/B_Disease 风/M_Disease 不/M_Disease 语/E_Disease
+淋/B_Disease 巴/M_Disease 结/M_Disease 核/E_Disease 等/O
+西南水苏/O
+云南/O 用/O 全草/O 入药/O
+治/O 疮/B_Disease 疖/E_Disease
+赤/B_Disease 白/M_Disease 痢/E_Disease 及/O 湿/B_Disease 疹/E_Disease
+又/O 配方/O 用于/O 治/O 骨/B_Disease 髓/M_Disease 炎/E_Disease
+半蒴苣苔/O
+全草/O 入药/O 治/O 喉/B_Disease 痛/E_Disease
+麻/B_Disease 疹/E_Disease 和/O 烧/B_Disease 烫/M_Disease 伤/E_Disease
+作/O 猪饲料/O
+灵枝草/O
+据/O 有关/O 的/O 文献/O 记载/O
+它/O 的/O 肉质/O 的/O 根和/O 叶/O 捣烂/O 与/O 柠檬汁/O 混/O 和/O 可治/O 轮/B_Disease 癣/E_Disease 和/O 其他/O 的/O 皮/B_Disease 肤/M_Disease 病/E_Disease
+灵枝草/O
+近/O 用枝/O
+叶/O 煎/B_Disease 水/E_Disease 服/O
+治/O 肺/B_Disease 结/M_Disease 核/E_Disease
+咳/B_Disease 嗽/E_Disease
+高/B_Disease 血/M_Disease 压/E_Disease
+鸡骨常山/O
+根供/O 药用/O
+可治/O 发/B_Disease 热/E_Disease
+头/B_Disease 痛/E_Disease
+外用/O 消肿/O
+白花菜/O
+全草/O 入药/O
+味/O 苦辛/O 微毒/O
+主治/O 下/O 气/O
+煎/O 水洗/O 痔/O
+杜茎山/O
+全株/O 供/O 药用/O
+有/O 祛风/O 寒/O
+消肿/O 之/O 功/O
+用于/O 治/O 腰/B_Disease 痛/E_Disease
+头/B_Disease 痛/E_Disease
+心/B_Disease 燥/M_Disease 烦/M_Disease 渴/E_Disease
+眼/B_Disease 目/M_Disease 晕/M_Disease 眩/E_Disease 等/O 症/O
+杜茎山/O
+根/O 与/O 白糖/O 煎/O 服治/O 皮肤/O 风毒/O
+亦/O 治/O 妇女/O 崩带/O
+杜茎山/O
+茎/O
+叶/O 外敷/O 治/O 跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease
+止血/O
+重瓣臭茉莉/O
+药用/O 根/O
+主治/O 风/B_Disease 湿/E_Disease
+白花地丁/O
+全草/O 供/O 药用/O
+能/O 清热解毒/O
+消肿/O 去/O 瘀/O
+外敷/O 能治/O 节/B_Disease 疮/E_Disease 痛/B_Disease 肿/E_Disease
+白花苦灯笼/O
+治/O 肺/B_Disease 结/M_Disease 核/M_Disease 咯/M_Disease 血/E_Disease
+感/B_Disease 冒/M_Disease 发/M_Disease 热/E_Disease
+咳/B_Disease 嗽/E_Disease
+热/B_Disease 性/M_Disease 胃/M_Disease 痛/E_Disease
+急/B_Disease 性/M_Disease 扁/M_Disease 挑/M_Disease 体/M_Disease 炎/E_Disease 等/O
+变色白前/O
+根/O 和/O 根茎/O 可/O 药用/O
+能/O 解热/O 利尿/O
+可治/O 肺/B_Disease 结/M_Disease 核/E_Disease 的/O 虚痨/O 热/O
+浮/B_Disease 肿/E_Disease
+淋痛/O 等/O
+草玉梅/O
+根状茎/O 和叶/O 供/O 药用/O
+治/O 喉/B_Disease 炎/E_Disease
+扁/B_Disease 桃/M_Disease 腺/M_Disease 炎/E_Disease
+肝/B_Disease 炎/E_Disease
+痢/B_Disease 疾/E_Disease
+跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease 等/O 症/O （/O 云南/O 中草药/O ）/O
+小花草玉梅/O
+根状茎/O 药用/O
+治/O 肝/B_Disease 炎/E_Disease
+筋/B_Disease 骨/M_Disease 疼/M_Disease 痛/E_Disease 等/O 症/O （/O 宁夏/O 中草药/O 手册/O ）/O
+白花蛇舌草/O
+据/O 《/O 广西/O 中药/O 志/O 》/O 记载/O 全草/O 入药/O
+内服/O 治肿瘤/O
+蛇/B_Disease 咬/M_Disease 伤/E_Disease
+小/B_Disease 儿/M_Disease 疳/M_Disease 积/E_Disease
+白花蛇舌草/O
+外用/O 主治/O 泡/B_Disease 疮/E_Disease
+刀/B_Disease 伤/E_Disease
+跌/B_Disease 打/E_Disease 等/O 症/O
+白花碎米荠/O
+根状茎/O 可治/O 气/B_Disease 管/M_Disease 炎/E_Disease
+白花酸藤果/O
+根/O 可/O 药用/O
+治/O 急/B_Disease 性/M_Disease 肠/M_Disease 胃/M_Disease 炎/E_Disease
+赤/B_Disease 白/M_Disease 痢/E_Disease
+腹/B_Disease 泻/E_Disease
+刀/B_Disease 枪/M_Disease 伤/E_Disease
+外/B_Disease 伤/M_Disease 出/M_Disease 血/E_Disease 等/O
+亦/O 有/O 用于/O 蛇/B_Disease 咬/M_Disease 伤/E_Disease
+马甲子/O
+根/O
+枝/O
+叶/O
+花/O
+果均/O 供/O 药用/O
+有/O 解毒/O 消肿/O
+止痛/O 活血/O 之/O 效/O
+治/O 痈/B_Disease 肿/E_Disease 溃脓/O 等/O 症/O
+根/O 可治/O 喉/B_Disease 痛/E_Disease
+白英/O
+全草/O 入药/O
+可治/O 小/B_Disease 儿/M_Disease 惊/M_Disease 风/E_Disease
+白英/O
+果实/O 能治/O 风/B_Disease 火/M_Disease 牙/M_Disease 痛/E_Disease
+扭肚藤/O
+叶/O 在/O 民间/O 用来/O 治疗/O 外/B_Disease 伤/M_Disease 出/M_Disease 血/E_Disease
+骨/B_Disease 折/E_Disease
+白兰/O
+花可/O 提取/O 香精/O 或/O 薰/O 茶/O
+也/O 可/O 提制/O 浸膏/O 供/O 药用/O
+有行/O 气化/O 浊/O
+治咳嗽/O 等效/O
+白兰/O
+根皮/O 入药/O ：/O 治/O 便/B_Disease 秘/E_Disease
+朱砂藤/O
+药用/O 根/O
+民间/O 有/O 用作/O 补虚/O 镇痛/O
+治/O 癫/B_Disease 癎/E_Disease
+狂/B_Disease 犬/M_Disease 病/E_Disease 和/O 毒/B_Disease 蛇/M_Disease 咬/M_Disease 伤/E_Disease
+石蜘蛛/O
+全株/O 入药/O
+有/O 小毒/O
+能/O 解毒/O 散结/O
+止痛/O 通窍/O
+主治/O 跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease
+淋/B_Disease 浊/E_Disease
+脓疮草/O
+全草/O 入药/O
+用以/O 治/O 疮/B_Disease 疥/E_Disease
+痢止蒿/O
+云南/O 大理/O
+丽江/O 一带/O 用/O 全草/O 入药/O
+治/O 痢/B_Disease 疾/E_Disease 及/O 蛔/B_Disease 虫/M_Disease 症/E_Disease
+外敷/O 乳/B_Disease 腺/M_Disease 炎/E_Disease
+白薇/O
+根及/O 部分/O 根茎/O 供/O 药用/O
+有/O 除/O 虚烦/O
+清热/O 散肿/O
+生肌/O 止痛/O 之/O 效/O
+可/O 治产/O 后/O 虚烦/O 呕/B_Disease 逆/E_Disease
+小便/O 淋沥/O
+肾/B_Disease 炎/E_Disease
+尿/B_Disease 路/M_Disease 感/M_Disease 染/E_Disease
+水/B_Disease 肿/E_Disease
+支/B_Disease 气/M_Disease 管/M_Disease 炎/E_Disease 和/O 风/B_Disease 湿/M_Disease 性/M_Disease 腰/M_Disease 腿/M_Disease 痛/E_Disease 等/O
+大叶锣/O
+全/O 草药/O 用/O
+治/O 神/B_Disease 经/M_Disease 衰/M_Disease 弱/E_Disease 等/O 症/O
+银线草/O
+主治/O 风/B_Disease 寒/M_Disease 咳/M_Disease 嗽/E_Disease
+风/B_Disease 湿/M_Disease 痛/E_Disease
+闭/B_Disease 经/E_Disease
+银线草/O
+外用/O 治/O 跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease 160/O 
+寻骨风/O
+全株/O 药用/O
+性平/O
+味苦/O
+有/O 祛风/O 湿/O
+通/B_Disease 经/M_Disease 络/E_Disease 和/O 止痛/O 的/O 功能/O
+治疗/O 胃/B_Disease 痛/E_Disease
+筋/B_Disease 骨/M_Disease 痛/E_Disease 等/O
+紫背金盘/O
+全草/O 入药/O
+煎/B_Disease 水/E_Disease 内服/O 治/O 肺/B_Disease 脓/M_Disease 疡/E_Disease
+肺/B_Disease 炎/E_Disease
+扁/B_Disease 桃/M_Disease 腺/M_Disease 炎/E_Disease
+咽/B_Disease 喉/M_Disease 炎/E_Disease
+气/B_Disease 管/M_Disease 炎/E_Disease
+腮/B_Disease 腺/M_Disease 炎/E_Disease
+急/B_Disease 性/M_Disease 胆/M_Disease 囊/M_Disease 炎/E_Disease
+肝/B_Disease 炎/E_Disease
+痔/B_Disease 疮/M_Disease 肿/M_Disease 痛/E_Disease
+鼻/B_Disease 衄/E_Disease
+牙/B_Disease 痛/E_Disease
+目/B_Disease 赤/M_Disease 肿/M_Disease 痛/E_Disease
+黄/B_Disease 疽/M_Disease 病/E_Disease
+便/B_Disease 血/E_Disease
+白/B_Disease 尿/E_Disease
+血/B_Disease 瘀/M_Disease 肿/M_Disease 痛/E_Disease
+产/B_Disease 后/M_Disease 瘀/M_Disease 血/E_Disease
+妇/B_Disease 女/M_Disease 血/M_Disease 气/M_Disease 痛/E_Disease 等/O 症/O
+有/O 镇痛/O 散血/O 之/O 功效/O
+紫背金盘/O
+外用/O 治/O 金/B_Disease 疮/E_Disease
+刀/B_Disease 伤/E_Disease
+外/B_Disease 伤/M_Disease 出/M_Disease 血/E_Disease
+跌/B_Disease 打/M_Disease 扭/M_Disease 伤/E_Disease
+骨/B_Disease 折/E_Disease
+痈/B_Disease 肿/M_Disease 疮/M_Disease 疖/E_Disease
+狂/B_Disease 犬/M_Disease 咬/M_Disease 伤/E_Disease 等/O 症/O
+紫背金盘/O
+兽用/O 治/O 牛马/O 肚/B_Disease 痛/E_Disease 发/O 水/O
+白毛紫珠/O
+据/O 文献/O 记载/O
+印度/O 和/O 东南亚地区/O 用/O 本种/O 的/O 根/O
+叶/O 和/O 树皮/O 的/O 水/O 煎/O 液治/O 皮/B_Disease 肤/M_Disease 病/E_Disease 或/O 用作/O 箭/B_Disease 毒/E_Disease 及/O 毒鱼/O
+商陆/O
+通二便/O
+逐/O 水/O
+散结/O
+治/O 水/B_Disease 肿/E_Disease
+胀/B_Disease 满/E_Disease
+脚/B_Disease 气/E_Disease
+喉/B_Disease 痹/E_Disease
+外敷/O 治/O 痈/B_Disease 肿/M_Disease 疮/M_Disease 毒/E_Disease
+序叶苎麻/O
+在/O 四川/O 民间/O 全草/O 或/O 根供/O 药用/O
+治/O 风/B_Disease 湿/E_Disease
+筋/B_Disease 骨/M_Disease 痛/E_Disease 等/O 症/O
+大管/O
+治/O 跌/B_Disease 打/M_Disease 扭/M_Disease 伤/E_Disease （/O 用/O 根/O 浸酒/O 外/O 擦/O ）/O
+胸/B_Disease 痹/E_Disease （/O 用/O 根/O 〕/O
+感/B_Disease 冒/E_Disease （/O 用/O 叶/O ）/O
+土沉香/O
+老茎/O 受伤/O 后/O 所/O 积得/O 的/O 树脂/O
+俗称/O 沉香/O
+可/O 作/O 香料/O 原料/O
+并为/O 治/O 胃/B_Disease 病/E_Disease 特效药/O
+网脉酸藤子/O
+根/O
+茎/O 可供/O 药用/O
+有/O 清凉/O 解毒/O
+滋阴/O 补肾/O 的/O 作用/O
+治/O 经/B_Disease 闭/E_Disease
+月/B_Disease 经/M_Disease 不/M_Disease 调/E_Disease
+风/B_Disease 湿/E_Disease 等/O 症/O
+威灵仙/O
+根/O 入药/O
+能/O 祛风/O 湿/O
+利尿/O
+通/B_Disease 经/E_Disease
+镇痛/O
+治/O 风/B_Disease 寒/M_Disease 湿/M_Disease 热/E_Disease
+偏/B_Disease 头/M_Disease 疼/E_Disease
+黄/B_Disease 胆/M_Disease 浮/M_Disease 肿/E_Disease
+鱼/B_Disease 骨/M_Disease 硬/M_Disease 喉/E_Disease
+腰/B_Disease 膝/M_Disease 腿/M_Disease 脚/M_Disease 冷/M_Disease 痛/E_Disease
+威灵仙/O
+鲜株/O 能治/O 急/B_Disease 性/M_Disease 扁/M_Disease 桃/M_Disease 体/M_Disease 炎/E_Disease
+咽/B_Disease 喉/M_Disease 炎/E_Disease
+威灵仙/O
+根治/O 丝虫病/O
+外用/O 治/O 牙/B_Disease 痛/E_Disease （/O 中草药/O 学/O ）/O
+威灵仙/O
+全株/O 可作/O 农药/O
+防治/O 造/B_Disease 桥/M_Disease 虫/E_Disease
+菜/B_Disease 青/M_Disease 虫/E_Disease
+地/B_Disease 老/M_Disease 虎/E_Disease
+灭孑孓/O 等/O （/O 河南/O 经济/O 植物/O 志/O ）/O
+白绒草/O
+全草/O 入药/O
+在/O 云南/O 有些/O 地方/O 用于/O 治/O 肾/B_Disease 虚/E_Disease
+遗/B_Disease 精/E_Disease 及/O 阳/B_Disease 萎/E_Disease
+并/O 作为/O 配伍/O 用以/O 治/O 骨/B_Disease 折/E_Disease
+须花翠雀花/O
+根供/O 药用/O
+治/O 风/B_Disease 热/M_Disease 头/M_Disease 痛/E_Disease
+水泻/O 等/O 症/O （/O 贵州/O 草药/O ）/O
+白薯莨/O
+又/O 块茎/O 药用/O
+有/O 去/O 瘀/O 生/O 新/O
+消肿止痛/O 之/O 效/O
+捣烂/O 外敷/O 患处/O 可治/O 痈/B_Disease 疽/E_Disease
+恶/B_Disease 疮/E_Disease
+跌/B_Disease 打/M_Disease 扭/M_Disease 伤/E_Disease 等/O 症/O
+泽珍珠菜/O
+广西/O 民间/O 用/O 全草/O 捣烂/O
+敷治/O 痈/B_Disease 疮/E_Disease 和/O 无/B_Disease 名/M_Disease 肿/M_Disease 毒/E_Disease
+黄檀/O
+根/O 药用/O
+可/O 治疗/O 疮/S_Disease
+白棠子树/O
+全株/O 供/O 药用/O
+治感冒/O
+跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease
+气/B_Disease 血/M_Disease 瘀/M_Disease 滞/E_Disease
+妇/B_Disease 女/M_Disease 闭/M_Disease 经/E_Disease
+外/B_Disease 伤/M_Disease 肿/M_Disease 痛/E_Disease （/O 《/O 江西/O 草医/O 草药/O 》/O ）/O ：/O 叶可/O 提取/O 芳香油/O
+白桐树/O
+根部/O 供/O 药用/O
+治/O 风/B_Disease 湿/M_Disease 痛/E_Disease
+粗齿铁线莲/O
+根/O 药用/O
+能/O 行气活血/O
+祛风/O 湿/O
+止痛/O
+主治/O 风/B_Disease 湿/M_Disease 筋/M_Disease 骨/M_Disease 痛/E_Disease
+跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease
+血/B_Disease 疼/M_Disease 痛/E_Disease
+肢/B_Disease 体/M_Disease 麻/M_Disease 木/E_Disease 等/O 症/O
+粗齿铁线莲/O
+茎/O 藤/O 药用/O
+能/O 杀虫/O 解毒/O
+主治/O 失/B_Disease 音/M_Disease 声/M_Disease 嘶/E_Disease
+杨/B_Disease 梅/M_Disease 疮/M_Disease 毒/E_Disease
+虫/B_Disease 疮/M_Disease 久/M_Disease 烂/E_Disease 等/O 症/O （/O 秦岭/O 植物/O 志/O ）/O
+白头翁属/O
+本/O 属/O 植物/O 多/O 含/O
+白头翁/O 素/O 等/O 化合物/O
+可/O 供/O 药用/O
+治/O 痢/B_Disease 疾/E_Disease 等/O 症/O
+也/O 可作/O 土/O 农药/O
+白头翁/O
+根状茎/O 药用/O
+治/O 热/B_Disease 毒/M_Disease 血/M_Disease 痢/E_Disease
+温/B_Disease 疟/E_Disease
+鼻/B_Disease 衄/E_Disease
+痔/B_Disease 疮/M_Disease 出/M_Disease 血/E_Disease 等/O 症/O （/O 中药/O 志/O ）/O
+白头翁/O
+根状茎/O 水浸/O 液/O 可作/O 土/O 农药/O
+能/O 防治/O 地/B_Disease 老/M_Disease 虎/E_Disease
+蚜/B_Disease 虫/E_Disease
+蝇/B_Disease 蛆/E_Disease
+孑/B_Disease 孓/E_Disease
+以及/O 小麦/O 锈病/O
+马铃薯/O 晚疫病/O 等/O 病虫害/O （/O 中国/O 土/O 农药/O 志/O ）/O
+白透骨消/O
+陕西/O 民间/O 用/O 全草/O 治/O 筋/B_Disease 骨/M_Disease 痛/E_Disease
+消肿/O
+白颜树/O
+叶/O 药用/O 治/O 寒/B_Disease 湿/E_Disease
+白叶瓜馥木/O
+根/O 可供/O 药用/O
+活血/O 除湿/O
+可治/O 风/B_Disease 湿/E_Disease 和/O 痨/B_Disease 伤/E_Disease
+白叶莓/O
+根/O 入药/O
+治/O 风/B_Disease 寒/E_Disease 咳/B_Disease 喘/E_Disease
+木紫珠/O
+叶/O 研粉/O 可作/O 外/B_Disease 伤/E_Disease 止血药/O
+亦/O 治/O 鼻/B_Disease 衄/E_Disease
+消/B_Disease 化/M_Disease 道/M_Disease 出/M_Disease 血/E_Disease 或/O 妇/B_Disease 女/M_Disease 崩/M_Disease 漏/E_Disease
+根同/O 效/O
+白芷/O
+根/O 在/O 东北/O 各省/O 有些/O 地区/O 称/O
+大活/O
+或/O
+独活/O
+入药/O
+能/O 发表/O
+祛风除湿/O
+用于/O 治疗/O 伤/B_Disease 风/E_Disease 头/B_Disease 痛/E_Disease
+风/B_Disease 湿/M_Disease 性/M_Disease 关/M_Disease 节/M_Disease 疼/M_Disease 痛/E_Disease 及/O 腰脚/O 酸痛/O 等/O 症/O
+白芷/O
+根/O 的/O 水煎剂/O 有/O 杀虫/O
+灭菌/O 作用/O
+对/O 防治/O 菜/B_Disease 青/M_Disease 虫/E_Disease
+大/B_Disease 豆/M_Disease 蚜/M_Disease 虫/E_Disease
+小/B_Disease 麦/M_Disease 杆/M_Disease 锈/M_Disease 病/E_Disease 等/O 有/O 一定/O 效果/O
+杭白芷/O
+主治/O 风/B_Disease 寒/M_Disease 感/M_Disease 冒/E_Disease
+前额/O 头/B_Disease 痛/E_Disease
+鼻窦炎/O
+牙/B_Disease 痛/E_Disease
+痔漏/O
+便/B_Disease 血/E_Disease
+白/B_Disease 带/E_Disease
+痈/B_Disease 疖/M_Disease 肿/M_Disease 毒/E_Disease
+烧/B_Disease 伤/E_Disease 等/O 症/O
+青海当归/O
+青海省/O 互助县/O 民间/O 用/O 花治/O 头/B_Disease 痛/E_Disease
+根/O 代替/O 当归/O 治/O 血/B_Disease 虚/E_Disease
+月/B_Disease 经/M_Disease 不/M_Disease 调/E_Disease
+各种/O 血瘀/O 头/B_Disease 痛/E_Disease 及/O 关/B_Disease 节/M_Disease 炎/E_Disease
+百灵草/O
+根/O 或/O 全株/O 可/O 药用/O
+云南/O 民间/O 有/O 用作/O 治/O 骨/B_Disease 折/E_Disease
+外/B_Disease 伤/M_Disease 出/M_Disease 血/E_Disease
+风/B_Disease 湿/E_Disease
+跌/B_Disease 打/M_Disease 痨/M_Disease 伤/E_Disease
+支/B_Disease 气/M_Disease 管/M_Disease 炎/E_Disease
+哮/B_Disease 喘/E_Disease
+贫/B_Disease 血/E_Disease 等/O
+赪桐/O
+云南/O 作/O 跌/B_Disease 打/E_Disease
+催生药/O
+又/O 治/O 心/B_Disease 慌/E_Disease 心跳/O
+用/O 根/O
+叶作/O 皮肤/O 止痒/O 药/O
+赪桐/O
+湖南/O 用/O 花治/O 外/B_Disease 伤/E_Disease 止血/O
+百蕊草/O
+本种/O 含/O 黄酮/O 苷/O
+甘露醇/O 等/O 成分/O
+有/O 清热解暑/O 等/O 功效/O
+可治/O 中/B_Disease 暑/E_Disease
+扁/B_Disease 桃/M_Disease 腺/M_Disease 炎/E_Disease
+腰/B_Disease 痛/E_Disease 等/O 症/O
+并作/O 利尿剂/O
+芸香/O
+治/O 感/B_Disease 冒/M_Disease 发/M_Disease 热/E_Disease
+风/B_Disease 火/M_Disease 牙/M_Disease 痛/E_Disease
+头/B_Disease 痛/E_Disease
+跌/B_Disease 打/M_Disease 扭/M_Disease 伤/E_Disease
+芸香/O
+又/O 治/O 小/B_Disease 儿/M_Disease 急/M_Disease 性/M_Disease 支/M_Disease 气/M_Disease 管/M_Disease 炎/E_Disease 和/O 支/B_Disease 气/M_Disease 管/M_Disease 粘/M_Disease 膜/M_Disease 炎/E_Disease
+百足藤/O
+茎/O 叶/O 供/O 药用/O
+能/O 祛/O 湿凉/O 血/O
+止痛/O 接骨/O
+治/O 劳/B_Disease 伤/E_Disease
+跌/B_Disease 打/E_Disease
+骨/B_Disease 折/E_Disease
+疮/B_Disease 毒/E_Disease
+红花寄生/O
+全株/O 入药/O
+治/O 风/B_Disease 湿/M_Disease 性/M_Disease 关/M_Disease 节/M_Disease 炎/E_Disease
+胃/B_Disease 痛/E_Disease 等/O
+民间/O 以/O 寄生/O 于柚树/O
+黄皮/O 或/O 桃树/O 上/O 的/O 疗效/O 较佳/O
+柏拉木/O
+全株/O 有/O 拔毒/O 生肌/O 的/O 功效/O
+用于/O 治/O 疮/B_Disease 疖/E_Disease
+墓头回/O
+主治/O 崩/B_Disease 漏/E_Disease
+赤/B_Disease 白/M_Disease 带/E_Disease
+民间/O 并/O 用以/O 治疗/O 子/B_Disease 宫/M_Disease 癌/E_Disease 和/O 子/B_Disease 宫/M_Disease 颈/M_Disease 癌/E_Disease
+酸叶胶藤/O
+全株/O 供/O 药用/O
+民间/O 有/O 用作/O 治/O 跌/B_Disease 打/M_Disease 瘀/M_Disease 肿/E_Disease
+风/B_Disease 湿/M_Disease 骨/M_Disease 痛/E_Disease
+疔/B_Disease 疮/E_Disease
+喉/B_Disease 痛/E_Disease 和/O 眼/B_Disease 肿/E_Disease 等/O
+斑花败酱/O
+本种/O 可/O 药用/O
+性能/O 与/O 攀倒甑/O 相同/O
+浙江/O 昌化/O 民间/O 用/O 它/O 消炎/O 解凝/O
+排脓/O 利尿/O
+广西/O 桂林/O 民间/O 用/O 根/O 浸酒/O 内服/O 治/O 跌/B_Disease 打/E_Disease
+叶/O 外敷/O 洗/O 疮/B_Disease 毒/E_Disease
+江西/O 新建/O 民间/O 也/O 用/O 嫩叶/O 作/O 蔬菜/O 食用/O
+大斑花败酱/O
+浙江/O 天台山/O 民间/O 用/O 全草/O 治/O 阑/B_Disease 尾/M_Disease 炎/E_Disease
+臭黄荆/O
+根/O
+叶/O
+种子/O 入药/O
+能/O 除风湿/O
+清/O 邪/O 热/O
+治/O 痢/B_Disease 疾/E_Disease
+痔/B_Disease 疮/E_Disease
+脱/B_Disease 肛/E_Disease
+牙/B_Disease 痛/E_Disease 等/O 症/O （/O 《/O 四川/O 中药/O 志/O 》/O ）/O
+滴水珠/O
+主治/O 毒/B_Disease 蛇/M_Disease 咬/M_Disease 伤/E_Disease
+胃/B_Disease 痛/E_Disease
+腰/B_Disease 痛/E_Disease
+漆/B_Disease 疮/E_Disease
+过/B_Disease 敏/M_Disease 性/M_Disease 皮/M_Disease 炎/E_Disease
+滴水珠/O
+外用/O 治/O 痈/B_Disease 疮/M_Disease 肿/M_Disease 毒/E_Disease
+跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease
+颈/B_Disease 淋/M_Disease 巴/M_Disease 结/M_Disease 结/M_Disease 核/E_Disease
+乳/B_Disease 腺/M_Disease 炎/E_Disease
+深/B_Disease 部/M_Disease 浓/M_Disease 肿/E_Disease
+木棉/O
+花/O 可供/O 蔬食/O
+入药/O 清热/O 除湿/O
+能治/O 菌/B_Disease 痢/E_Disease
+肠/B_Disease 炎/E_Disease
+胃/B_Disease 痛/E_Disease
+木棉/O
+树皮/O 为/O 滋补药/O
+亦/O 用于/O 治/O 痢/B_Disease 疾/E_Disease 和/O 月/B_Disease 经/M_Disease 过/M_Disease 多/E_Disease
+板蓝/O
+根/O
+叶/O 入药/O
+有/O 清热解毒/O
+凉血/O 消肿/O 之/O 效/O
+可/O 预防/O 流/B_Disease 脑/E_Disease
+流/B_Disease 感/E_Disease
+治/O 中/B_Disease 暑/E_Disease
+腮/B_Disease 腺/M_Disease 炎/E_Disease
+肿/B_Disease 毒/E_Disease
+毒/B_Disease 蛇/M_Disease 咬/M_Disease 伤/E_Disease
+菌/B_Disease 痢/E_Disease
+急/B_Disease 性/M_Disease 肠/M_Disease 炎/E_Disease
+咽/B_Disease 喉/M_Disease 炎/E_Disease
+口/B_Disease 腔/M_Disease 炎/E_Disease
+扁/B_Disease 桃/M_Disease 体/M_Disease 炎/E_Disease
+肝/B_Disease 炎/E_Disease
+丹/B_Disease 毒/E_Disease
+蓝树/O
+根和叶/O 供/O 药用/O
+广西/O 民间/O 有来/O 作治/O 跌/B_Disease 打/E_Disease
+刀/B_Disease 伤/E_Disease 止血/O
+绵穗苏/O
+贵州/O 用/O 全草/O 入药/O
+治/O 瘫/B_Disease 痪/E_Disease
+感/B_Disease 冒/E_Disease
+畏/B_Disease 寒/E_Disease
+头/B_Disease 痛/E_Disease
+疮/B_Disease 毒/E_Disease
+产/B_Disease 后/M_Disease 诸/M_Disease 病/E_Disease
+劳/B_Disease 伤/E_Disease
+吐/B_Disease 血/E_Disease
+地桃花/O
+根作/O 药用/O
+煎/B_Disease 水/E_Disease 点/O 酒服/O 可/O 治疗/O 白痢/O
+胡颓子/O
+种子/O 可/O 止泻/O
+叶治/O 肺/O 虚/O 短气/O
+根治/O 吐/B_Disease 血/E_Disease 及/O 煎/O 汤/O 洗/O 疮/B_Disease 疥/E_Disease 有/O 一定/O 疗效/O
+半枫荷/O
+根供/O 药用/O
+治/O 风/B_Disease 湿/M_Disease 跌/M_Disease 打/E_Disease
+瘀/B_Disease 积/E_Disease 肿痛/O
+产后/O 风瘫/O 等/O
+华鼠尾草/O
+全草/O 入药/O
+江苏/O 一带/O 用于/O 治/O 肝/B_Disease 炎/E_Disease
+面/B_Disease 神/M_Disease 经/M_Disease 麻/M_Disease 痹/E_Disease
+乳/B_Disease 腺/M_Disease 炎/E_Disease
+痈/B_Disease 疖/E_Disease
+痛/B_Disease 经/E_Disease 及/O 骨痛/O 等/O 症/O
+四川/O 江津/O 用/O 根/O 泡酒/O 内服/O
+可调/O 经/O 活血/O
+广西/O 用于/O 去/O 风/B_Disease 湿/E_Disease 及/O 疮/B_Disease 疥/E_Disease
+长叶马兜铃/O
+用以/O 治疗/O 喉/B_Disease 痛/E_Disease
+痢/B_Disease 疾/E_Disease
+胃/B_Disease 肠/M_Disease 炎/E_Disease 等/O
+瓣蕊唐松草/O
+根/O 可治/O 黄/B_Disease 疸/M_Disease 型/M_Disease 肝/M_Disease 炎/E_Disease
+腹/B_Disease 泻/E_Disease （/O 内蒙古/O 中草药/O ）/O
+痢/B_Disease 疾/E_Disease
+渗/B_Disease 出/M_Disease 性/M_Disease 皮/M_Disease 炎/E_Disease 等/O 症/O （/O 宁夏/O 中草药/O 手册/O ）/O
+棒凤仙花/O
+全草/O 入药/O
+有/O 清凉/O
+消肿/O 之/O 功效/O
+用于/O 治/O 痈/B_Disease 疮/M_Disease 肿/M_Disease 毒/E_Disease
+包疮叶/O
+全株/O 可/O 入药/O
+性/O 凉/O
+味苦/O
+清热解毒/O
+用于/O 治疗/O 急性/O 黄/B_Disease 胆/M_Disease 型/M_Disease 肝/M_Disease 炎/E_Disease （/O 配伍/O ）/O
+宝盖草/O
+全草/O 入药/O
+据/O 《/O 滇南/O 本草/O 》/O 记载/O
+治/O 外/B_Disease 伤/M_Disease 骨/M_Disease 折/E_Disease
+跌/B_Disease 打/M_Disease 损/M_Disease 伤/M_Disease 红/M_Disease 肿/E_Disease
+毒/B_Disease 疮/E_Disease
+瘫/B_Disease 痪/E_Disease
+半/B_Disease 身/M_Disease 不/M_Disease 遂/E_Disease
+高/B_Disease 血/M_Disease 压/E_Disease
+小/B_Disease 儿/M_Disease 肝/M_Disease 热/E_Disease 及/O 脑/B_Disease 漏/E_Disease 等/O 症/O
+小白撑/O
+块根/O 有/O 剧毒/O
+可/O 药用/O
+治/O 腰/B_Disease 肌/M_Disease 劳/M_Disease 损/E_Disease
+风/B_Disease 湿/M_Disease 关/M_Disease 节/M_Disease 痛/E_Disease 等/O 症/O （/O 云南/O 中草药/O ）/O
+蔓胡颓子/O
+叶有/O 收敛/O 止泻/O
+平喘/O 止咳/O 之/O 效/O
+根/O 行气/O 止痛/O
+治/O 风/B_Disease 湿/M_Disease 骨/M_Disease 痛/E_Disease
+跌/B_Disease 打/M_Disease 肿/M_Disease 痛/E_Disease
+肝/B_Disease 炎/E_Disease
+胃/B_Disease 病/E_Disease
+抱石莲/O
+全草/O 入药/O
+凉血/O 解毒/O
+治/O 瘰/B_Disease 疬/E_Disease 等/O 症/O
+杯苋/O
+全草/O 治/O 跌/B_Disease 打/E_Disease
+驳/B_Disease 骨/E_Disease
+槲寄生/O
+全株/O 入药/O
+即/O 中药材/O 正品/O
+具治/O 风/B_Disease 湿/M_Disease 痹/M_Disease 痛/E_Disease
+腰/B_Disease 膝/M_Disease 酸/M_Disease 软/E_Disease
+胎/B_Disease 动/E_Disease
+胎/B_Disease 漏/E_Disease 及/O 降低/O 血压/O 等/O 功效/O
+北马兜铃/O
+本/O 种/O 药用/O
+茎/O 叶/O 称/O 天仙藤/O
+有/O 行气/O 治血/O
+止痛/O
+利尿/O 之/O 效/O
+北鱼黄草/O
+贵州/O 用/O 全草/O 治/O 劳/B_Disease 伤/M_Disease 疼/M_Disease 痛/E_Disease
+下肢/O 肿痛/O 及/O 疔/B_Disease 疮/E_Disease
+北水苦荬/O
+果常/O 因/O 昆虫/O 寄生/O 而/O 异常/O 肿胀/O
+这种/O 具/O 虫瘿/O 的/O 植株/O 名为/O
+仙桃草/O
+可/O 药用/O
+治/O 跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease
+北乌头/O
+块根/O 有/O 巨毒/O
+经/O 炮制/O 后/O 可/O 入药/O
+治/O 风/B_Disease 湿/M_Disease 性/M_Disease 关/M_Disease 节/M_Disease 炎/E_Disease
+神/B_Disease 经/M_Disease 痛/E_Disease
+牙/B_Disease 痛/E_Disease
+中/B_Disease 风/E_Disease 等/O 症/O
+北乌头/O
+块根/O 可/O 作/O 农药/O
+防治/O 稻/B_Disease 螟/M_Disease 虫/E_Disease
+棉/B_Disease 蚜/E_Disease 等/O 虫害/O
+以及/O 棉花/O 立枯病/O
+小/B_Disease 麦/M_Disease 杆/M_Disease 锈/M_Disease 病/E_Disease 等/O 病害/O
+也/O 可/O 消灭/O 蝇/B_Disease 蛆/E_Disease
+孑/B_Disease 孓/E_Disease 等/O （/O 中国/O 土/O 农药/O 志/O ）/O
+贝叶棕/O
+根/O 的/O 汁液/O 治/O 腹/B_Disease 泻/E_Disease
+贝叶棕/O
+幼株/O 的/O 水煎剂/O 可治/O 热/O 感/B_Disease 冒/E_Disease 等/O
+背扁黄耆/O
+种子/O 入药/O 称/O 沙苑子/O 和/O 潼蒺藜/O
+有/O 补肾/O 固/O 精/O
+清/O 肝/O 明目/O 之/O 效/O
+主治/O 腰/B_Disease 膝/M_Disease 酸/M_Disease 痛/E_Disease
+遗/B_Disease 精/M_Disease 早/M_Disease 泄/E_Disease
+遗/B_Disease 尿/E_Disease
+尿/B_Disease 频/E_Disease
+白/B_Disease 带/E_Disease
+神/B_Disease 经/M_Disease 衰/M_Disease 弱/E_Disease 及/O 视/B_Disease 力/M_Disease 减/M_Disease 退/E_Disease
+糖/B_Disease 尿/M_Disease 病/E_Disease 等/O 症/O
+落地梅/O
+全草/O 入药/O
+主治/O 风/B_Disease 热/M_Disease 咳/M_Disease 嗽/E_Disease
+胃/B_Disease 痛/E_Disease
+风/B_Disease 湿/M_Disease 痛/E_Disease
+落地梅/O
+外用/O 治/O 跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease
+毒/B_Disease 蛇/M_Disease 咬/M_Disease 伤/E_Disease
+疖/B_Disease 肿/E_Disease 等/O
+背蛇生/O
+有/O 消炎/O 消肿/O
+清热解毒/O
+散血/O 止痛/O 之/O 效/O
+民间/O 用于/O 治疗/O 胃/B_Disease 炎/E_Disease
+胃/B_Disease 溃/M_Disease 疡/E_Disease 有/O 较佳/O 的/O 疗效/O
+丹参/O
+根/O 入药/O
+含酮/O
+为/O 强壮/O 性/O 通/B_Disease 经/E_Disease 剂/O
+有/O 祛瘀/O
+生新/O
+活血/O
+调经/O 等/O 效用/O
+为/O 妇科/O 要/O 药/O
+主治/O 子/B_Disease 宫/M_Disease 出/M_Disease 血/E_Disease
+月/B_Disease 经/M_Disease 不/M_Disease 调/E_Disease
+血瘀/O
+腹/B_Disease 痛/E_Disease
+经/B_Disease 痛/E_Disease
+经/B_Disease 闭/E_Disease
+庙痛/O
+丹参/O
+对/O 治疗/O 冠/B_Disease 心/M_Disease 病/E_Disease 有/O 良好效果/O
+丹参/O
+此外/O 亦/O 治/O 神经性/O 衰弱/O 失/B_Disease 眠/E_Disease
+关/B_Disease 节/M_Disease 痛/E_Disease
+贫/B_Disease 血/E_Disease
+乳/B_Disease 腺/M_Disease 炎/E_Disease
+淋/B_Disease 巴/M_Disease 腺/M_Disease 炎/E_Disease
+关/B_Disease 节/M_Disease 炎/E_Disease
+疮/B_Disease 疖/M_Disease 痛/M_Disease 肿/E_Disease
+丹/B_Disease 毒/E_Disease
+急/O 慢/B_Disease 性/M_Disease 肝/M_Disease 炎/E_Disease
+肾/O 孟/O 肾/B_Disease 炎/E_Disease
+跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease
+晚期/O 血吸虫病/O 肝/O 脾/B_Disease 肿/M_Disease 大/E_Disease
+癫/B_Disease 癎/E_Disease
+河北木蓝/O
+全/O 草药/O 用/O
+能/O 清热/O 止血/O
+消肿/O 生肌/O
+外敷/O 治/O 创/B_Disease 伤/E_Disease
+土蜜树/O
+叶治/O 外/B_Disease 伤/M_Disease 出/M_Disease 血/E_Disease
+跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease
+土蜜树/O
+根治/O 感/B_Disease 冒/E_Disease
+神/B_Disease 经/M_Disease 衰/M_Disease 弱/E_Disease
+月/B_Disease 经/M_Disease 不/M_Disease 调/E_Disease 等/O
+石楠/O
+又/O 可作/O 土/O 农药/O 防治/O 蚜/B_Disease 虫/E_Disease
+并/O 对/O 马铃薯/O 病菌/O 孢子/O 发芽/O 有/O 抑制作用/O
+金丝草/O
+民间/O 用/O 其/O 可治/O 吐/B_Disease 血/E_Disease
+咳/B_Disease 血/E_Disease
+衄/B_Disease 血/E_Disease
+血/B_Disease 崩/E_Disease 等/O 症/O
+还/O 可避/O 瘴气/O
+解/O 瘴气/O
+解/O 诸药/O 毒/O
+对/O 尿/B_Disease 路/M_Disease 感/M_Disease 染/E_Disease
+肾/B_Disease 炎/E_Disease
+水/B_Disease 肿/E_Disease
+糖/B_Disease 尿/M_Disease 病/E_Disease
+黄/B_Disease 胆/M_Disease 型/M_Disease 肝/M_Disease 炎/E_Disease
+感/B_Disease 冒/E_Disease 高/B_Disease 热/E_Disease 也/O 有/O 疗效/O
+叶下珠/O
+药用/O
+全草/O 有/O 解毒/O
+消炎/O
+清热/O 止泻/O
+利尿/O 之/O 效/O
+可治/O 赤/B_Disease 目/M_Disease 肿/M_Disease 痛/E_Disease
+肠/B_Disease 炎/M_Disease 腹/M_Disease 泻/E_Disease
+痢/B_Disease 疾/E_Disease
+肝/B_Disease 炎/E_Disease
+小/B_Disease 儿/M_Disease 疳/M_Disease 积/E_Disease
+肾/B_Disease 炎/M_Disease 水/M_Disease 肿/E_Disease
+尿/B_Disease 路/M_Disease 感/M_Disease 染/E_Disease 等/O
+蔽果金腰/O
+清热解毒/O
+治/O 传/B_Disease 染/M_Disease 病/E_Disease 引起/O 之/O 高/B_Disease 烧/E_Disease 症/O
+篦齿眼子菜/O
+治/O 肺/B_Disease 炎/E_Disease
+疮/B_Disease 疖/E_Disease
+单苞鸢尾/O
+民间/O 用/O 其/O 根状茎/O 治疗/O 毒/B_Disease 蛇/M_Disease 咬/M_Disease 伤/E_Disease
+疗效显著/O
+又/O 内服/O 能/O 润肠/O
+通便/O
+致泻/O
+香薷/O
+全草/O 入药/O
+治/O 急/B_Disease 性/M_Disease 肠/M_Disease 胃/M_Disease 炎/E_Disease
+腹/B_Disease 痛/M_Disease 吐/M_Disease 泻/E_Disease
+夏/B_Disease 秋/M_Disease 阳/M_Disease 暑/E_Disease
+头/B_Disease 痛/M_Disease 发/M_Disease 热/E_Disease
+恶/B_Disease 寒/M_Disease 无/M_Disease 汗/E_Disease
+霍/B_Disease 乱/E_Disease
+水/B_Disease 肿/E_Disease
+鼻/B_Disease 衄/E_Disease
+口/B_Disease 臭/E_Disease 等/O 症/O
+火索麻/O
+根/O 可/O 药用/O
+可治/O 慢/B_Disease 性/M_Disease 胃/M_Disease 炎/E_Disease 和/O 胃/B_Disease 溃/M_Disease 疡/E_Disease
+鞭柱唐松草/O
+全草/O 可治/O 头/B_Disease 晕/E_Disease
+腹/B_Disease 痛/E_Disease
+下/B_Disease 痢/E_Disease 等/O 症/O
+小二仙草/O
+全草/O 入药/O
+能/O 清热解毒/O
+利水/O 除湿/O
+散/O 瘀/O 消肿/O
+治/O 毒/B_Disease 蛇/M_Disease 咬/M_Disease 伤/E_Disease
+西伯利亚乌头/O
+根供/O 药用/O
+有/O 镇痛/O 之/O 效/O
+治/O 风/B_Disease 湿/E_Disease 等/O 症/O
+牛扁/O
+根供/O 药用/O
+治/O 腰/B_Disease 腿/M_Disease 痛/E_Disease
+关/B_Disease 节/M_Disease 肿/M_Disease 痛/E_Disease 等/O 症/O （/O 内蒙古/O 中草药/O ）/O
+遍地金/O
+治/O 日/B_Disease 久/M_Disease 水/M_Disease 泻/E_Disease
+久/B_Disease 痢/M_Disease 赤/M_Disease 白/E_Disease
+遍地金/O
+此外/O 民间/O 亦/O 用/O 全草/O 治/O 毒/B_Disease 蛇/M_Disease 咬/M_Disease 伤/E_Disease
+黄/B_Disease 水/M_Disease 疮/E_Disease
+小/B_Disease 儿/M_Disease 白/M_Disease 口/M_Disease 疮/E_Disease
+鼻尖/O 以及/O 乳/B_Disease 腺/M_Disease 炎/E_Disease 等/O 症/O
+外用/O 或/O 煎/B_Disease 水/E_Disease 内服/O
+藨草/O
+本种/O 为/O 广布/O 种/O
+我国/O 除/O 广东/O
+海南岛/O 外/O
+各省/O
+各/O 自治区/O 都/O 广泛/O 分布/O
+黑风藤/O
+根/O 和/O 茎/O 可/O 药用/O
+通/B_Disease 经/M_Disease 络/E_Disease
+强筋骨/O
+健脾/O
+主治/O 跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease
+风/B_Disease 湿/M_Disease 性/M_Disease 关/M_Disease 节/M_Disease 炎/E_Disease
+小/B_Disease 儿/M_Disease 麻/M_Disease 痹/M_Disease 后/M_Disease 遗/M_Disease 症/E_Disease 等/O
+黑风藤/O
+叶可治/O 哮/B_Disease 喘/E_Disease
+疮/B_Disease 疥/E_Disease 等/O
+碎米桠/O
+河南/O 报道/O
+全草/O 对/O 急慢性/O 咽/B_Disease 炎/E_Disease
+急性/O 扁/B_Disease 桃/M_Disease 腺/M_Disease 炎/E_Disease
+慢/B_Disease 性/M_Disease 肝/M_Disease 炎/E_Disease
+气/B_Disease 管/M_Disease 炎/E_Disease 均/O 有/O 治疗/O 作用/O
+对/O 食道癌/O
+贲门癌/O
+肝/B_Disease 癌/E_Disease
+乳腺癌/O
+直/B_Disease 肠/M_Disease 癌/E_Disease 等/O 有/O 缓解/O 症状/O
+延长/O 生命/O 作用/O
+碎米桠/O
+此外/O
+贵州/O 凤岗/O 用/O 全草/O 入药/O
+治/O 感/B_Disease 冒/M_Disease 头/M_Disease 痛/E_Disease
+风/B_Disease 湿/M_Disease 筋/M_Disease 骨/M_Disease 痛/E_Disease
+关/B_Disease 节/M_Disease 痛/E_Disease
+红波罗花/O
+根/O 入药/O
+治/O 产/B_Disease 后/M_Disease 少/M_Disease 乳/E_Disease
+体/B_Disease 虚/E_Disease
+久/B_Disease 病/M_Disease 虚/M_Disease 弱/E_Disease
+头/B_Disease 晕/E_Disease
+贫/B_Disease 血/E_Disease
+有/O 滋补/O 强壮/O 作用/O
+土人参/O
+叶/O 消肿/O 解毒/O
+治疔/O 疮/B_Disease 疖/M_Disease 肿/E_Disease
+细罗伞/O
+根供/O 药用/O
+可散/O 瘀/O 活血/O
+用于/O 跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease
+亦/O 有/O 用于/O 治/O 双/O
+单/B_Disease 蛾/M_Disease 喉/E_Disease
+驳骨九节/O
+治/O 菌/B_Disease 痢/E_Disease
+肠/B_Disease 炎/E_Disease
+风/B_Disease 湿/M_Disease 骨/M_Disease 痛/E_Disease
+跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease
+蛇/B_Disease 伤/E_Disease
+山香/O
+全草/O 入药/O
+内服/O 或/O 外用/O
+治/O 赤/B_Disease 白/M_Disease 痢/E_Disease
+乳/B_Disease 腺/M_Disease 炎/E_Disease
+痈/B_Disease 疽/E_Disease
+感/B_Disease 冒/M_Disease 发/M_Disease 烧/E_Disease
+头/B_Disease 痛/E_Disease
+胃/B_Disease 肠/M_Disease 涨/M_Disease 气/E_Disease
+风/B_Disease 湿/M_Disease 骨/M_Disease 痛/E_Disease
+娱/B_Disease 蚣/E_Disease 及/O 蛇/B_Disease 咬/M_Disease 伤/E_Disease
+刀/B_Disease 伤/M_Disease 出/M_Disease 血/E_Disease
+跌/B_Disease 打/M_Disease 肿/M_Disease 痛/E_Disease
+烂/B_Disease 疮/E_Disease
+皮/B_Disease 肤/M_Disease 搔/M_Disease 痒/E_Disease
+皮/B_Disease 炎/E_Disease 及/O 湿/B_Disease 疹/E_Disease 等/O 症/O
+薄荷/O
+幼嫩/O 茎/O 尖/O 可/O 作菜/O 食/O
+全草/O 又/O 可/O 入药/O
+治/O 感/B_Disease 冒/M_Disease 发/M_Disease 热/E_Disease 喉/B_Disease 痛/E_Disease
+头/B_Disease 痛/E_Disease
+目/B_Disease 赤/E_Disease 痛/O
+皮肤/O 风/B_Disease 疹/E_Disease 搔痒/O
+麻/B_Disease 疹/M_Disease 不/M_Disease 透/E_Disease 等/O 症/O
+此外/O 对/O 痈/S_Disease
+疽/S_Disease
+疥/O
+癣/O
+漆/B_Disease 疮/E_Disease 亦/O 有效/O
+海南粗榧/O
+枝/O
+叶/O
+种子/O 可/O 提取/O 多种/O 植物/O 碱/O
+对/O 治疗/O 白/B_Disease 血/M_Disease 病/E_Disease 及/O 淋/B_Disease 巴/M_Disease 肉/M_Disease 瘤/E_Disease 等/O 有/O 一定/O 的/O 疗效/O
+薄叶红厚壳/O
+本种/O 根/O 在/O 民间/O 作/O 药用/O
+治/O 跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease
+风/B_Disease 湿/M_Disease 骨/M_Disease 痛/E_Disease
+肾/B_Disease 虚/M_Disease 腰/M_Disease 痛/E_Disease
+能/O 祛瘀/O 止痛/O
+补肾/O 强/O 腰/O
+薄叶红厚壳/O
+叶治/O 外/B_Disease 伤/M_Disease 出/M_Disease 血/E_Disease （/O 中药/O 大辞典/O ）/O
+擘蓝/O
+叶/O 及/O 种子/O 药用/O
+能/O 消食/O 积/O
+治疗/O 十/B_Disease 二/M_Disease 指/M_Disease 肠/M_Disease 溃/M_Disease 疡/E_Disease
+茅膏菜/O
+据载/O 药用/O 可治/O 跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease
+不育红/O
+根茎/O 入药/O
+可/O 舒筋/O 止血/O
+止痢/O 及/O 治/O 妇女/O 不育症/O
+山弄岗唇柱苣苔/O
+根状茎/O 在/O 民间/O 供/O 药用/O
+治/O 跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease
+假柿木姜子/O
+叶/O 民间/O 用来/O 外敷/O 治/O 关节/O 脱/B_Disease 臼/E_Disease
+华萝藦/O
+全株/O 供/O 药用/O
+有/O 补肾/O 强壮/O 作用/O
+可治/O 肾/B_Disease 亏/M_Disease 遗/M_Disease 精/E_Disease
+乳/B_Disease 汁/M_Disease 不/M_Disease 足/E_Disease
+脱/B_Disease 力/M_Disease 劳/M_Disease 伤/E_Disease 等/O
+翅果藤/O
+全草/O 可治/O 肺/B_Disease 结/M_Disease 核/E_Disease
+南方山荷叶/O
+主治/O 腰/B_Disease 腿/M_Disease 疼/M_Disease 痛/E_Disease
+风/B_Disease 湿/M_Disease 性/M_Disease 关/M_Disease 节/M_Disease 炎/E_Disease
+跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease
+月/B_Disease 经/M_Disease 不/M_Disease 调/E_Disease 等/O 症/O
+尖叶眼树莲/O
+全株/O 供/O 药用/O
+广西/O 民间/O 有/O 用作/O 治/O 哮/B_Disease 喘/E_Disease
+咳/B_Disease 嗽/E_Disease
+湿/B_Disease 疹/E_Disease
+疮/B_Disease 痒/E_Disease
+关/B_Disease 节/M_Disease 炎/E_Disease 等/O
+南黄堇/O
+药用/O
+有/O 接骨/O 镇痛/O 的/O 功效/O
+主治/O 骨/B_Disease 折/E_Disease
+跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease ．/O 也/O 有用/O 全草/O 抗/O 痉/O 镇痛/O
+南昆杜鹃/O
+本/O 种/O 含有/O 黄酮/O 素/O
+无/O 梫木/O 毒素/O
+可/O 治疗/O 慢/B_Disease 性/M_Disease 气/M_Disease 管/M_Disease 炎/E_Disease
+南欧大戟/O
+全草/O 外涂/O 可治/O 癣/O
+故又称/O 癣/O 草/O （/O 福建/O ）/O
+喙荚云实/O
+种子/O 入药/O
+名石/O 莲子/O
+性寒/O 无毒/O
+开胃/O 进食/O
+清心/O 介烦/O
+除湿/O 去/O 热/O
+治/O 哕/O 逆/O 不止/O
+淋/B_Disease 浊/E_Disease
+红花酢浆草/O
+全草/O 入药/O
+治/O 跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease
+赤/B_Disease 白/M_Disease 痢/E_Disease
+止血/O
+日本南五味子/O
+根及/O 茎/O 称/O 红骨蛇/O
+主治/O 蛇/B_Disease 咬/M_Disease 伤/E_Disease
+有/O 止渴/O
+解热/O
+镇痛/O 之/O 效/O
+南五味子/O
+种子/O 为/O 滋补/O 强壮剂/O 和/O 镇咳药/O
+治/O 神/B_Disease 经/M_Disease 衰/M_Disease 弱/E_Disease
+支/B_Disease 气/M_Disease 管/M_Disease 炎/E_Disease 等/O 症/O
+南粤马兜铃/O
+治/O 高/B_Disease 热/E_Disease
+肺/B_Disease 炎/E_Disease 和/O 喉/B_Disease 痛/E_Disease 等/O
+楠藤/O
+茎/O
+叶/O 和/O 果均/O 入药/O
+有/O 清热/O 消炎/O 功效/O
+可治/O 疥/B_Disease 疮/E_Disease 积热/O
+楠藤/O
+海南/O 民间/O 常用/O 于/O 治猪/O 的/O 各种/O 炎/B_Disease 症/E_Disease
+囊距翠雀花/O
+全/O 草药/O 用/O
+治/O 流/B_Disease 感/E_Disease
+皮/B_Disease 肤/M_Disease 痒/M_Disease 疹/E_Disease 及/O 蛇/B_Disease 咬/M_Disease 伤/E_Disease 等/O 症/O （/O 西藏/O 常用/O 中草药/O ）/O
+羊角棉/O
+根/O
+叶/O 捣碎/O 民间/O 用来/O 治/O 刀/B_Disease 伤/M_Disease 出/M_Disease 血/E_Disease 和/O 治/O 疮/B_Disease 毒/E_Disease
+圆叶西番莲/O
+全株/O 药用/O
+可/O 防治/O 痢/B_Disease 疾/E_Disease
+肺/B_Disease 结/M_Disease 核/E_Disease
+红马蹄草/O
+全草/O 入药/O
+治/O 跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease
+感/B_Disease 冒/E_Disease
+咳/B_Disease 嗽/M_Disease 痰/M_Disease 血/E_Disease
+戟叶堇菜/O
+外敷/O 可治/O 节/B_Disease 疮/E_Disease 痛/B_Disease 肿/E_Disease
+尼泊尔鸢尾/O
+据/O 《/O 尼泊尔/O 药用植物/O 》/O 一/O 书/O 记载/O
+根部/O 入药/O
+内服/O 有轻/O 泻/O
+利尿/O 作用/O
+外用/O 治疗/O 疔/B_Disease 疮/E_Disease 及/O 伤/B_Disease 肿/E_Disease
+穗状狐尾藻/O
+全草/O 入药/O
+清凉/O
+解毒/O
+止/O 痢/O
+治/O 慢/B_Disease 性/M_Disease 下/M_Disease 痢/E_Disease
+拟耧斗菜/O
+枝/O
+叶/O 药用/O
+治/O 子/B_Disease 宫/M_Disease 出/M_Disease 血/E_Disease 等/O 症/O （/O 西藏/O 常用/O 中草药/O ）/O
+拟耧斗菜/O
+在/O 四川/O 西北部/O 民间/O 用根/O 和/O 种子/O 治/O 乳/B_Disease 腺/M_Disease 炎/E_Disease
+恶/B_Disease 疮/M_Disease 痈/M_Disease 疽/E_Disease 等/O 症/O
+拟砚壳花椒/O
+治/O 牙/B_Disease 痛/E_Disease 等/O 痛/O 症/O
+少年红/O
+全株/O 用于/O 平喘/O 止咳/O
+亦/O 用于/O 治/O 跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease
+黄毛楤木/O
+本种/O 根皮/O 为/O 民间/O 草药/O
+有/O 祛风除湿/O
+散/O 瘀/O 消肿/O 之/O 效/O
+可治/O 风/B_Disease 湿/M_Disease 腰/M_Disease 痛/E_Disease
+肝/B_Disease 炎/E_Disease 及/O 肾/B_Disease 炎/M_Disease 水/M_Disease 肿/E_Disease
+通光散/O
+藤茎/O 可/O 药用/O
+民间/O 有/O 用作/O 治/O 支/B_Disease 气/M_Disease 管/M_Disease 炎/E_Disease
+哮/B_Disease 喘/E_Disease
+肺/B_Disease 炎/E_Disease
+扁/B_Disease 桃/M_Disease 腺/M_Disease 炎/E_Disease
+膀/B_Disease 胱/M_Disease 炎/E_Disease 等/O
+牛白藤/O
+据/O 《/O 广东/O 药用植物/O 手册/O 》/O 记载/O
+本/O 种/O 治疗/O 风/B_Disease 湿/E_Disease
+感/B_Disease 冒/M_Disease 咳/M_Disease 嗽/E_Disease 和/O 皮/B_Disease 肤/M_Disease 湿/M_Disease 疹/E_Disease 等/O 疾病/O 有/O 一定/O 疗效/O
+罗浮柿/O
+鲜叶/O 1/O 至/O 2/O 两/O
+水/O 煎服/O
+治/O 食/B_Disease 物/M_Disease 中/M_Disease 毒/E_Disease
+罗浮柿/O
+绿果/O 煞成膏/O
+晒干/O
+研粉/O
+敷/O 治水/O 火/B_Disease 烫/M_Disease 伤/E_Disease
+罗浮柿/O
+树皮/O 3/O 至/O 5/O 钱/O
+水/O 煎服/O
+治/O 腹/B_Disease 泻/E_Disease
+赤/B_Disease 白/M_Disease 痢/E_Disease
+牛角瓜/O
+茎/O 叶/O 的/O 乳汁/O 有毒/O
+含/O 多种/O 强心甙/O
+供/O 药用/O
+治/O 皮/B_Disease 肤/M_Disease 病/E_Disease
+痢/B_Disease 疾/E_Disease
+风/B_Disease 湿/E_Disease
+支/B_Disease 气/M_Disease 管/M_Disease 炎/E_Disease
+牛角瓜/O
+树皮/O 可治/O 癫/B_Disease 癣/E_Disease
+牛筋草/O
+全草/O 煎/B_Disease 水/E_Disease 服/O
+可/O 防治/O 乙/B_Disease 型/M_Disease 脑/M_Disease 炎/E_Disease
+牛筋果/O
+根/O 味苦/O
+性/O 凉/O
+有/O 清热解毒/O 作用/O
+对/O 防治/O 疟/B_Disease 疾/E_Disease 有/O 一定/O 效果/O
+山胡椒/O
+根治/O 劳/B_Disease 伤/M_Disease 脱/M_Disease 力/E_Disease
+水/B_Disease 湿/M_Disease 浮/M_Disease 肿/E_Disease
+四/B_Disease 肢/M_Disease 酸/M_Disease 麻/E_Disease
+风/B_Disease 湿/M_Disease 性/M_Disease 关/M_Disease 节/M_Disease 炎/E_Disease
+跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease
+山胡椒/O
+果治/O 胃/B_Disease 痛/E_Disease
+流苏子/O
+根/O 辛辣/O
+可治/O 皮/B_Disease 炎/E_Disease
+鼠李/O
+果肉/O 药用/O
+解热/O
+泻下/O 及/O 治/O 瘰/B_Disease 疬/E_Disease 等/O
+牛奶菜/O
+全株/O 供/O 药用/O
+民间/O 用作/O 壮/O 筋骨/O
+治/O 跌/B_Disease 打/E_Disease
+利肠/O 健胃/O
+一点红/O
+全/O 草药/O 用/O
+消炎/O
+止/O 痢/O
+主治/O 腮/B_Disease 腺/M_Disease 炎/E_Disease
+乳/B_Disease 腺/M_Disease 炎/E_Disease
+小/B_Disease 儿/M_Disease 疳/M_Disease 积/E_Disease
+皮/B_Disease 肤/M_Disease 湿/M_Disease 疹/E_Disease 等/O 症/O
+纤冠藤/O
+全株/O 供/O 药用/O
+有/O 补/O 精/O
+通奶/O
+祛风/O
+消肿/O
+祛/O 湿/B_Disease 毒/E_Disease 作用/O
+广西/O 民间/O 有/O 用作/O 治/O 腿/B_Disease 痛/E_Disease
+跌/B_Disease 打/E_Disease
+子/B_Disease 官/M_Disease 下/M_Disease 垂/E_Disease
+长叶胡颓子/O
+根/O 可治/O 哮/B_Disease 喘/E_Disease 及/O 牙/B_Disease 痛/E_Disease
+枝叶/O 可/O 顺气/O
+化痰/O
+治/O 痔/B_Disease 疮/E_Disease
+山石榴/O
+根/O 利尿/O
+驳/B_Disease 骨/E_Disease
+祛风/O 湿/O
+治/O 跌/B_Disease 打/E_Disease 腹/B_Disease 痛/E_Disease
+山石榴/O
+果/O 亦/O 作/O 药用/O
+在/O 印度/O 用作/O 治疗/O 脓/B_Disease 肿/E_Disease
+溃/B_Disease 疡/E_Disease
+肿/B_Disease 瘤/E_Disease
+皮/B_Disease 肤/M_Disease 病/E_Disease
+痔/B_Disease 疮/E_Disease
+发/B_Disease 疹/E_Disease
+风/B_Disease 湿/E_Disease
+支/B_Disease 气/M_Disease 管/M_Disease 炎/E_Disease 等/O 症/O
+木半夏/O
+果实/O
+根/O
+叶可治/O 跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease
+痢/B_Disease 疾/E_Disease
+哮/B_Disease 喘/E_Disease
+牛尾草/O
+全草/O 入药/O
+治/O 痢/B_Disease 疾/M_Disease 肠/M_Disease 炎/E_Disease
+黄/B_Disease 疽/M_Disease 性/M_Disease 肝/M_Disease 炎/E_Disease
+咽/B_Disease 喉/M_Disease 炎/E_Disease
+扁/B_Disease 桃/M_Disease 腺/M_Disease 炎/E_Disease
+尿/B_Disease 道/M_Disease 感/M_Disease 染/E_Disease
+膀/B_Disease 胱/M_Disease 炎/E_Disease
+急/B_Disease 性/M_Disease 肾/M_Disease 炎/E_Disease
+肿/B_Disease 胀/M_Disease 疼/M_Disease 痛/E_Disease
+流/B_Disease 感/E_Disease
+疟/B_Disease 疾/E_Disease
+毒/B_Disease 蛇/M_Disease 咬/M_Disease 伤/E_Disease
+牙/B_Disease 痛/E_Disease 等/O 症/O
+亦可/O 外用/O 洗/O 各种/O 毒/B_Disease 疮/E_Disease 及/O 红/B_Disease 肿/E_Disease 部分/O
+牛尾草/O
+叶研末/O 敷/O 黄/B_Disease 水/M_Disease 疮/E_Disease 尤为/O 有效/O
+内服/O 可治/O 小/B_Disease 儿/M_Disease 疳/M_Disease 积/E_Disease
+独活/O
+可治/O 风/B_Disease 寒/M_Disease 湿/M_Disease 痹/E_Disease
+腰/B_Disease 膝/M_Disease 酸/M_Disease 痛/M_Disease 症/E_Disease
+牛膝/O
+治/O 腰/B_Disease 膝/M_Disease 酸/M_Disease 痛/E_Disease
+肝肾/O 亏虚/O
+跌/B_Disease 打/M_Disease 瘀/M_Disease 痛/E_Disease
+牛膝/O
+兽医/O 用作/O 治/O 牛/O 软脚/O 症/O
+跌伤/O 断骨/O 等/O
+扭果紫金龙/O
+全株/O 药用/O
+治咳嗽/O
+短蒟/O
+治/O 风/B_Disease 湿/M_Disease 性/M_Disease 关/M_Disease 节/M_Disease 炎/E_Disease
+四/B_Disease 肢/M_Disease 麻/M_Disease 木/E_Disease
+对/O 骨/B_Disease 折/E_Disease
+跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease 也/O 有/O 一定/O 疗效/O
+脓疮草属/O
+植物/O 的/O 用途/O 类似/O 益/O 每/O 草属/O
+主要/O 用/O 在/O 医药/O 上/O
+对/O 神经系统/O 及/O 肠胃/O 均/O 有/O 作用/O
+亦可/O 用以/O 治疗/O 疮/B_Disease 疥/E_Disease
+四川清风藤/O
+茎/O 皮/O 可/O 提取/O 单宁/O
+茎/O 供/O 药用/O
+可治/O 腰/B_Disease 痛/E_Disease
+女娄菜/O
+全草/O 入药/O
+治/O 乳/B_Disease 汁/M_Disease 少/E_Disease
+体/B_Disease 虚/M_Disease 浮/M_Disease 肿/E_Disease 等/O
+水蔗草/O
+据/O 报道/O 可/O 入药/O 治/O 蛇/B_Disease 伤/E_Disease
+欧白英/O
+果实/O 含/O 龙葵/O 碱达/O 0.15/O %/O
+在/O 印度/O 用作/O 利尿剂/O 及/O 医治/O 遗传性/O 梅毒/O
+季节性/O 风/B_Disease 湿/M_Disease 病/E_Disease 及其/O 他/O 难治/O 的/O 癫/B_Disease 病/E_Disease
+皮/B_Disease 肤/M_Disease 病/E_Disease 等/O
+欧白英/O
+我国/O 用作/O 农药/O 和/O 兽药/O
+治/O 牛/O
+猪/B_Disease 黄/M_Disease 胆/E_Disease
+水/B_Disease 肿/E_Disease
+五脉绿绒蒿/O
+全草/O 入药/O
+清热解毒/O
+消炎/O
+定喘/O
+治/O 小/B_Disease 儿/M_Disease 惊/M_Disease 风/E_Disease
+肺/B_Disease 炎/E_Disease
+咳/B_Disease 喘/E_Disease
+欧当归/O
+欧洲/O 一些/O 国家/O 将/O 本品/O 载/O 于/O 药典/O
+用/O 其/O 根/O 作/O 利尿/O
+健胃/O
+祛痰/O
+芳香/O 兴奋/O
+驱风/O 发汗/O
+治疗/O 妇/B_Disease 科/M_Disease 病/E_Disease
+神经/O 疾病/O
+水/B_Disease 肿/E_Disease 和/O 慢性/O 心/B_Disease 脏/M_Disease 病/E_Disease 等/O
+欧活血丹/O
+全草/O 入药/O
+据/O 报道/O 有/O 治/O 肺/B_Disease 病/E_Disease 及/O 肾/B_Disease 脏/M_Disease 炎/E_Disease 等/O 疾病/O 的/O 功效/O
+欧李/O
+种仁/O 入药/O
+作/O 郁李仁/O
+有/O 利尿/O
+缓下/O 作用/O
+主治/O 大/B_Disease 便/M_Disease 燥/M_Disease 结/E_Disease
+小/B_Disease 便/M_Disease 不/M_Disease 利/E_Disease
+密生波罗花/O
+在/O 青海/O
+西藏/O 等/O 地/O
+花/O
+种子/O
+根均/O 入药/O
+治/O 胃/B_Disease 病/E_Disease
+黄/B_Disease 疽/E_Disease
+消/B_Disease 化/M_Disease 不/M_Disease 良/E_Disease
+耳/B_Disease 炎/E_Disease
+耳/B_Disease 聋/E_Disease
+月/B_Disease 经/M_Disease 不/M_Disease 调/E_Disease
+高/B_Disease 血/M_Disease 压/E_Disease
+肺/B_Disease 出/M_Disease 血/E_Disease
+欧夏至草/O
+为/O 一/O 药用植物/O
+西欧各国/O 多/O 栽培/O
+变异/O 甚/O 大/O
+在/O 医药/O 上用/O 在/O 治疗/O 呼吸器官/O 的/O 慢性病/O
+又/O 可/O 作为/O 金鸡纳霜/O 皮/O 的/O 代用品/O
+欧鼠李/O
+树皮/O 药用/O
+治/O 腹/B_Disease 痛/E_Disease
+有/O 催吐/O 和/O 助泻/O 作用/O ．/O 可治/O 便/B_Disease 秘/E_Disease
+为/O 大黄/O 代用品/O
+圆叶鼠李/O
+果实/O 烘干/O
+捣碎/O 和/O 红糖/O 水/O 煎/B_Disease 水/E_Disease 服/O
+可治/O 肿/B_Disease 毒/E_Disease
+四方蒿/O
+但/O 全草/O 入药/O
+治/O 夜/B_Disease 盲/M_Disease 症/E_Disease
+痢/B_Disease 疾/E_Disease
+感/B_Disease 冒/E_Disease
+咽/B_Disease 喉/M_Disease 炎/E_Disease
+扁/B_Disease 桃/M_Disease 腺/M_Disease 炎/E_Disease
+风/B_Disease 火/M_Disease 牙/M_Disease 痛/E_Disease
+龋/B_Disease 齿/M_Disease 痛/E_Disease
+急/B_Disease 性/M_Disease 胃/M_Disease 肠/M_Disease 炎/E_Disease
+腹/B_Disease 痛/E_Disease
+创/B_Disease 伤/M_Disease 出/M_Disease 血/E_Disease
+火/B_Disease 烧/M_Disease 伤/E_Disease
+腋/B_Disease 臭/E_Disease
+小/B_Disease 儿/M_Disease 疳/M_Disease 积/E_Disease
+急/B_Disease 慢/M_Disease 性/M_Disease 肾/M_Disease 盂/M_Disease 肾/M_Disease 炎/E_Disease 等/O 症/O
+膜叶刺蕊草/O
+云南/O 红河/O 用枝/O
+叶/O 入药/O
+治/O 子/B_Disease 宫/M_Disease 脱/M_Disease 垂/E_Disease
+蛛丝毛蓝耳草/O
+根/O 入药/O
+通经活络/O
+除湿/O 止痛/O
+主治/O 风/B_Disease 湿/M_Disease 关/M_Disease 节/M_Disease 疼/M_Disease 痛/E_Disease
+总状绿绒蒿/O
+西藏/O 用/O 全草/O 消炎/O
+止/O 骨痛/O
+治头/O 伤/O
+骨/B_Disease 折/E_Disease
+总状绿绒蒿/O
+云南/O 用/O 根/O 入药/O
+治/O 气/B_Disease 虚/M_Disease 下/M_Disease 陷/E_Disease
+浮/B_Disease 肿/E_Disease
+脱/B_Disease 肛/E_Disease
+久/B_Disease 痢/E_Disease
+哮/B_Disease 喘/E_Disease
+总状绿绒蒿/O
+青海/O 以/O 花/O
+茎/O 入药/O
+治/O 腰/B_Disease 痛/E_Disease
+腿/B_Disease 痛/E_Disease
+鸡脚参/O
+根/O 入药/O
+治/O 消/B_Disease 化/M_Disease 不/M_Disease 良/E_Disease
+食/B_Disease 积/E_Disease
+蛔/B_Disease 虫/M_Disease 病/E_Disease
+风/B_Disease 湿/M_Disease 痛/E_Disease
+虚/B_Disease 弱/M_Disease 头/M_Disease 晕/E_Disease
+虚/B_Disease 汗/E_Disease
+咳/B_Disease 嗽/E_Disease
+并/O 配方/O 治/O 骨/B_Disease 折/E_Disease 及/O 脉/B_Disease 管/M_Disease 炎/E_Disease
+云南翠雀花/O
+根供/O 药用/O
+治/O 跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease 等/O 症/O （/O 昆明/O 民间/O 常用/O 草药/O ）/O
+山蜡梅/O
+根/O 可/O 药用/O
+治/O 跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease
+风/B_Disease 湿/E_Disease
+劳/B_Disease 伤/M_Disease 咳/M_Disease 嗽/E_Disease
+寒/B_Disease 性/M_Disease 胃/M_Disease 痛/E_Disease
+感/B_Disease 冒/M_Disease 头/M_Disease 痛/E_Disease
+疔/B_Disease 疮/M_Disease 毒/M_Disease 疮/E_Disease 等/O
+鸡麻/O
+根和果/O 入药/O
+治/O 血/B_Disease 虚/E_Disease 肾/B_Disease 亏/E_Disease
+相思子/O
+种子/O 质/O 坚/O
+色泽/O 华美/O
+可/O 做/O 装饰品/O
+但/O 有/O 剧毒/O
+外用/O 治/O 皮/B_Disease 肤/M_Disease 病/E_Disease
+鸡纳树/O
+用于/O 治疗/O 疟/B_Disease 疾/E_Disease
+并/O 有/O 镇痛/O 解热/O 及/O 局部/O 麻醉/O 的/O 功用/O
+鸡纳树/O
+对于/O 治疗/O 疮/B_Disease 疽/E_Disease
+皮/B_Disease 炎/E_Disease
+皮/B_Disease 癣/E_Disease 都/O 具有/O 较好/O 的/O 疗效/O
+鸡矢藤/O
+根据/O 中草药/O 汇编/O
+本/O 种/O 主治/O 风/B_Disease 湿/M_Disease 筋/M_Disease 骨/M_Disease 痛/E_Disease
+跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease
+外/B_Disease 伤/M_Disease 性/M_Disease 疼/M_Disease 痛/E_Disease
+肝/B_Disease 胆/E_Disease 及/O 胃/B_Disease 肠/M_Disease 绞/M_Disease 痛/E_Disease
+黄/B_Disease 疽/M_Disease 型/M_Disease 肝/M_Disease 炎/E_Disease
+肠/B_Disease 炎/E_Disease
+痢/B_Disease 疾/E_Disease
+消/B_Disease 化/M_Disease 不/M_Disease 良/E_Disease
+小/B_Disease 儿/M_Disease 疳/M_Disease 积/E_Disease
+肺/B_Disease 结/M_Disease 核/M_Disease 咯/M_Disease 血/E_Disease
+支/B_Disease 气/M_Disease 管/M_Disease 炎/E_Disease
+放射/O 反应/O 引起/O 的/O 白/B_Disease 细/M_Disease 胞/M_Disease 减/M_Disease 少/M_Disease 症/E_Disease
+农/B_Disease 药/M_Disease 中/M_Disease 毒/E_Disease
+鸡矢藤/O
+外用/O 治/O 皮/B_Disease 炎/E_Disease
+湿/B_Disease 疹/E_Disease
+疮/B_Disease 疡/M_Disease 肿/M_Disease 毒/E_Disease
+尖山橙/O
+全株/O 供/O 药用/O
+民间/O 称/O 可/O 活血/O
+祛风/O
+补/O 肺/O
+通乳/O 和/O 治/O 风湿性/O 心/B_Disease 脏/M_Disease 病/E_Disease 等/O
+鸡尾木/O
+鲜叶/O 捣烂/O 外敷/O
+可治/O 牛/B_Disease 皮/M_Disease 癣/E_Disease
+并/O 有/O 良好/O 的/O 疗效/O
+鸡眼草/O
+全草/O 煎/B_Disease 水/E_Disease
+可治/O 风/B_Disease 疹/E_Disease
+鸡爪草/O
+全草/O 供/O 药用/O
+治/O 风/B_Disease 湿/M_Disease 麻/M_Disease 木/E_Disease
+鸡/B_Disease 爪/M_Disease 风/E_Disease
+瘰/B_Disease 疬/E_Disease 等/O 症/O （/O 四川/O 中药/O 志/O ）/O
+黄连/O
+根状茎/O 为/O 著名/O 中药/O
+含/O 小檗/O 碱/O
+碱/O
+甲基/O 碱/O
+掌/O 叶防己/O 碱/O 等/O 生物碱/O
+可治/O 急/B_Disease 性/M_Disease 结/M_Disease 膜/M_Disease 炎/E_Disease
+急/B_Disease 性/M_Disease 细/M_Disease 菌/M_Disease 性/M_Disease 痢/M_Disease 疾/E_Disease
+急/B_Disease 性/M_Disease 肠/M_Disease 胃/M_Disease 炎/E_Disease
+吐/B_Disease 血/E_Disease
+痈/B_Disease 疖/M_Disease 疮/M_Disease 疡/E_Disease 等/O 症/O
+山姜/O
+果实/O 供/O 药用/O
+为/O 芳香性/O 健胃/O 药/O
+治/O 消/B_Disease 化/M_Disease 不/M_Disease 良/E_Disease
+腹/B_Disease 痛/E_Disease
+呕/B_Disease 吐/E_Disease
+噫/O 气/O
+慢/B_Disease 性/M_Disease 下/M_Disease 痢/E_Disease
+山姜/O
+根茎/O 性温/O
+味/O 辛/O
+能/O 理气止痛/O
+祛湿/O
+消肿/O
+活血/O 通络/O
+治/O 风/B_Disease 湿/M_Disease 性/M_Disease 关/M_Disease 节/M_Disease 炎/E_Disease
+胃/B_Disease 气/M_Disease 痛/E_Disease
+跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease
+多花野牡丹/O
+全草/O 消积/O 滞/O
+收敛/O 止血/O
+散/O 瘀/O 消肿/O
+治/O 消/B_Disease 化/M_Disease 不/M_Disease 良/E_Disease
+肠/B_Disease 炎/M_Disease 腹/M_Disease 泻/E_Disease
+痢/B_Disease 疾/E_Disease
+多花野牡丹/O
+捣烂/O 外敷/O 或/O 研粉/O 撒布/O
+治/O 外/B_Disease 伤/M_Disease 出/M_Disease 血/E_Disease
+刀/B_Disease 枪/M_Disease 伤/E_Disease
+基叶人字果/O
+全/O 植物/O 在/O 宜宾/O 民间/O 供/O 药用/O
+治/O 风/B_Disease 湿/E_Disease 等/O 症/O
+及已/O
+主治/O 跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease
+骨/B_Disease 折/M_Disease 肿/M_Disease 痛/E_Disease
+腰/B_Disease 扭/M_Disease 伤/E_Disease
+风/B_Disease 湿/M_Disease 痛/E_Disease
+疗/B_Disease 疮/M_Disease 肿/M_Disease 毒/E_Disease
+毒/B_Disease 蛇/M_Disease 咬/M_Disease 伤/E_Disease
+但/O 有毒/O
+内服/O 宜慎/O
+吉龙草/O
+温汤/O 服/O 之/O
+有/O 治感冒/O
+头/B_Disease 痛/E_Disease
+发/B_Disease 热/E_Disease
+消/B_Disease 化/M_Disease 不/M_Disease 良/E_Disease 之/O 效/O
+酸枣/O
+的/O 种子/O 仁/O 入药/O
+有/O 镇定/O 安神/O 之/O 功效/O
+主治/O 神/B_Disease 经/M_Disease 衰/M_Disease 弱/E_Disease
+失/B_Disease 眠/E_Disease 等/O 症/O
+远志/O
+主治/O 神/B_Disease 经/M_Disease 衰/M_Disease 弱/E_Disease
+心/B_Disease 悸/E_Disease
+健/B_Disease 忘/E_Disease
+失/B_Disease 眠/E_Disease
+梦/B_Disease 遗/E_Disease
+咳/B_Disease 嗽/M_Disease 多/M_Disease 痰/E_Disease
+支/B_Disease 气/M_Disease 管/M_Disease 炎/E_Disease
+腹/B_Disease 泻/E_Disease
+膀/B_Disease 胱/M_Disease 炎/E_Disease
+痈/B_Disease 疽/M_Disease 疮/M_Disease 肿/E_Disease
+戟叶鹅绒藤/O
+根/O
+茎/O
+叶/O 供/O 药用/O
+可治/O 痈/B_Disease 肿/E_Disease
+檀梨/O
+种子/O 含油量/O 为/O 56/O 至/O 65/O %/O
+油/O 呈/O 深棕色/O
+浓稠/O
+经/O 加工/O 处理/O 后/O 可供/O 食用/O
+亦可/O 用于/O 制皂/O 和/O 入药/O （/O 治/O 烧/B_Disease 伤/E_Disease
+烫/B_Disease 伤/E_Disease 等/O 症/O ）/O
+茎/O 皮/O 入药/O 治/O 跌/B_Disease 打/E_Disease
+桑寄生/O
+全株/O 入药/O
+有/O 治/O 风/B_Disease 湿/M_Disease 痹/M_Disease 痛/E_Disease
+腰/B_Disease 痛/E_Disease
+胎/B_Disease 动/E_Disease
+胎/B_Disease 漏/E_Disease 等/O 功效/O
+鲫鱼藤/O
+广东/O 海南/O 民间/O 常用/O 叶/O
+花/O 煎/B_Disease 水/E_Disease 擦/O 皮肤/O 治/O 瘰/B_Disease 疬/E_Disease
+加杨/O
+透翅蛾/O 危害/O 严重/O
+造林/O 时应/O 注意/O 防治/O 虫害/O
+丛林素馨/O
+植株/O 的/O 根皮/O 外用/O 民间/O 治/O 疥/B_Disease 疮/E_Disease
+家独行菜/O
+为/O 新疆/O 民族/O 药/O
+和/O 蚯蚓/O 配合/O 治/O 肠/B_Disease 胃/M_Disease 病/E_Disease
+老鸦烟筒花/O
+树皮/O 入药/O
+煎/O 服治/O 皮/B_Disease 炎/E_Disease
+亦可/O 驱虫/O 解毒/O
+假马鞭/O
+全/O 草药/O 用/O
+有/O 清热解毒/O
+利水通/O 淋之效/O
+可治/O 尿/B_Disease 路/M_Disease 结/M_Disease 石/E_Disease
+尿/B_Disease 路/M_Disease 感/M_Disease 染/E_Disease
+风/B_Disease 湿/M_Disease 筋/M_Disease 骨/M_Disease 痛/E_Disease
+喉/B_Disease 炎/E_Disease
+急/B_Disease 性/M_Disease 结/M_Disease 膜/M_Disease 炎/E_Disease
+痈/B_Disease 疖/M_Disease 肿/M_Disease 痛/E_Disease 等/O 症/O （/O 《/O 海南/O 植物/O 志/O 》/O ）/O
+假马鞭/O
+兽药/O 治/O 牛/B_Disease 猪/M_Disease 疮/M_Disease 疖/M_Disease 肿/M_Disease 毒/E_Disease
+喘/B_Disease 咳/M_Disease 下/M_Disease 痢/E_Disease （/O 《/O 云南/O 植物/O 志/O 》/O ）/O
+假地豆/O
+全株/O 供/O 药用/O
+能/O 清热/O
+治/O 跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease
+假地蓝/O
+本种/O 可供/O 药用/O
+民间/O 用/O 其/O 全草/O 入药/O
+可/O 补肾/O
+消炎/O
+平喘/O
+止咳/O
+临床/O 用于/O 治疗/O 目/B_Disease 弦/M_Disease 耳/M_Disease 鸣/E_Disease
+遗/B_Disease 精/E_Disease
+慢/B_Disease 性/M_Disease 肾/M_Disease 炎/E_Disease
+膀/B_Disease 胱/M_Disease 炎/E_Disease
+慢/B_Disease 性/M_Disease 支/M_Disease 气/M_Disease 管/M_Disease 炎/E_Disease 等/O 症/O
+其/O 鲜叶/O 捣烂/O 可/O 外敷/O 治/O 疔/B_Disease 疮/E_Disease
+痛/B_Disease 肿/E_Disease
+其/O 根茎/O 可以/O 灭/O 蛆/O
+又/O 为/O 绿肥/O
+牧草/O 及/O 水土保持/O 植物/O
+马兰藤/O
+全株/O 可/O 药用/O
+治/O 风/B_Disease 湿/M_Disease 腰/M_Disease 痛/E_Disease
+新木姜子/O
+根供/O 药用/O
+可治/O 气/B_Disease 痛/E_Disease
+水/B_Disease 肿/E_Disease
+胃/B_Disease 脘/M_Disease 胀/M_Disease 痛/E_Disease
+浙江新木姜子/O
+树皮/O 民间/O 用来/O 治/O 胃/B_Disease 脘/M_Disease 胀/M_Disease 痛/E_Disease
+假桂乌口树/O
+治/O 跌/B_Disease 打/M_Disease 扭/M_Disease 伤/E_Disease
+风/B_Disease 湿/M_Disease 痛/E_Disease
+蜂/B_Disease 窝/M_Disease 组/M_Disease 织/M_Disease 炎/E_Disease
+脓/B_Disease 肿/E_Disease
+胃/B_Disease 肠/M_Disease 绞/M_Disease 痛/E_Disease
+少羽凤尾蕨/O
+在/O 广西/O 藤县/O
+用/O 其/O 根状茎/O 治/O 痢/B_Disease 疾/E_Disease
+龙珠果/O
+广东/O 兽医/O 用/O 果治猪/O
+牛/B_Disease 肺/M_Disease 部/M_Disease 疾/M_Disease 病/E_Disease
+野青树/O
+全/O 草药/O 用/O
+治/O 喉/B_Disease 炎/E_Disease
+假柳叶菜/O
+嫩/O 枝叶/O 可/O 作/O 饲料/O
+全草/O 入药/O
+有/O 清热/O 利水/O 之/O 效/O
+治/O 痢/B_Disease 疾/E_Disease 效果显著/O
+四棱草/O
+广西/O 贵县/O 用/O 全草/O 入药/O
+有/O 活血/O 通/B_Disease 经/E_Disease 之/O 效/O
+单/O 用水/O 煎/O 或同/O 猪肉/O 蒸/O 内服/O
+治/O 妇/B_Disease 女/M_Disease 闭/M_Disease 经/E_Disease
+水团花/O
+全株/O 可治/O 家畜/O 瘢痧/O 热症/O
+长穗花/O
+根/O 可/O 入药/O
+配伍/O 治/O 子/B_Disease 宫/M_Disease 脱/M_Disease 垂/E_Disease
+脱/B_Disease 肛/E_Disease
+海南马兜铃/O
+民间/O 用叶/O 煎/O 水洗/O 眼/O 治疗/O 眼/B_Disease 病/E_Disease
+根/O 有/O 祛风/O 解/O 湿热/O
+消炎/O 之/O 效/O
+溪畔落新妇/O
+治/O 跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease
+风/B_Disease 湿/M_Disease 痛/E_Disease 及/O 慢/B_Disease 性/M_Disease 胃/M_Disease 炎/E_Disease 等/O
+千年健/O
+根茎/O 入药/O
+为/O 瑶族/O 群众/O 所/O 习用/O
+可治/O 跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease
+骨/B_Disease 折/E_Disease
+外/B_Disease 伤/M_Disease 出/M_Disease 血/E_Disease
+四/B_Disease 枝/M_Disease 麻/M_Disease 木/E_Disease
+筋/B_Disease 脉/M_Disease 拘/M_Disease 挛/E_Disease
+风/B_Disease 湿/M_Disease 腰/M_Disease 腿/M_Disease 痛/E_Disease
+类/B_Disease 风/M_Disease 湿/M_Disease 关/M_Disease 节/M_Disease 炎/E_Disease
+胃/B_Disease 痛/E_Disease
+肠/B_Disease 胃/M_Disease 炎/E_Disease
+痧/B_Disease 症/E_Disease 等/O
+穗序鹅掌柴/O
+本种/O 为/O 民间/O 常用/O 草药/O
+根皮/O 治/O 跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease
+叶有/O 发表/O 功效/O
+五爪金龙/O
+广西/O 用/O 叶治/O 痈/B_Disease 疮/E_Disease
+果治/O 跌/B_Disease 打/E_Disease
+黄杞/O
+叶/O 有毒/O
+制成/O 溶剂/O 能/O 防治/O 农作物/O 病虫害/O
+亦可/O 毒鱼/O
+叶底红/O
+煎/B_Disease 水/E_Disease 服治/O 月/B_Disease 经/M_Disease 不/M_Disease 调/E_Disease
+叶底红/O
+叶/O 捣碎/O 加/O 米汤/O 及/O 冬/O 蜂蜜/O 内服/O
+治/O 小/B_Disease 儿/M_Disease 疳/M_Disease 积/E_Disease
+叶底红/O
+全株/O 捣碎/O 外敷/O 治/O 烫/B_Disease 火/M_Disease 伤/E_Disease
+煎/O 水洗/O 治/O 疥/B_Disease 疮/E_Disease
+尖萼耧斗菜/O
+全/O 草药/O 用/O
+治/O 妇/B_Disease 女/M_Disease 病/E_Disease
+加水/O 煎煮/O 成流膏/O
+称/O
+血见愁/O 膏/O
+（/O 东北/O 草本植物/O 志/O ）/O
+尖尾枫/O
+全株/O 供/O 药用/O
+有/O 止血/O 镇痛/O
+散/O 瘀/O 消肿/O
+祛风/O 湿/O 的/O 效用/O
+治/O 外/B_Disease 伤/M_Disease 出/M_Disease 血/E_Disease
+咯/B_Disease 血/E_Disease
+吐/B_Disease 血/E_Disease
+产/B_Disease 后/M_Disease 风/M_Disease 痛/E_Disease
+四/B_Disease 肢/M_Disease 瘫/M_Disease 痪/E_Disease
+风/B_Disease 湿/M_Disease 痹/M_Disease 痛/E_Disease 等/O
+小驳骨/O
+据/O 《/O 广州/O 植物/O 志/O 》/O 载/O ：/O
+味/O 辛/O
+性温/O
+治/O 风/B_Disease 邪/E_Disease
+理/O 跌/B_Disease 打/E_Disease
+调酒/O 服/O
+尖叶唐松草/O
+湖北/O 草/O 医用/O 全草/O 治/O 全/B_Disease 身/M_Disease 黄/M_Disease 肿/E_Disease
+眼/B_Disease 睛/M_Disease 发/M_Disease 黄/E_Disease 等/O 症/O
+尖子木/O
+全株/O 清热/O 止/O 痢/O
+治/O 痢/B_Disease 疾/E_Disease
+腹/B_Disease 泻/E_Disease
+疮/B_Disease 疖/E_Disease 等/O
+剪春罗/O
+根/O 或/O 全草/O 入药/O
+治感冒/O
+风/B_Disease 湿/M_Disease 关/M_Disease 节/M_Disease 炎/E_Disease 或/O 腹/B_Disease 泻/E_Disease
+剪春罗/O
+外用/O 治/O 带/B_Disease 状/M_Disease 疱/M_Disease 疹/E_Disease
+碱黄鹤菜/O
+全草/O 入药/O
+清热解毒/O
+消肿止痛/O
+主治/O 疮/B_Disease 肿/E_Disease 疗毒/O
+铁筷子/O
+地下/O 部分/O 可/O 供/O 药用/O
+治/O 膀/B_Disease 胱/M_Disease 炎/E_Disease
+尿/B_Disease 道/M_Disease 炎/E_Disease
+疮/B_Disease 疖/M_Disease 肿/M_Disease 毒/E_Disease 和/O 跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease 等/O 症/O （/O 陕西/O 中草药/O ）/O
+箭秆风/O
+民间/O 常用/O 于/O 治/O 风/B_Disease 湿/M_Disease 痹/M_Disease 痛/E_Disease
+箭根薯/O
+根状茎/O 味苦/O
+性/O 凉/O
+药用/O 有/O 清热解毒/O
+消炎/O 止痛/O 的/O 功效/O
+治/O 刀/B_Disease 伤/E_Disease
+胃/O 及/O 十/B_Disease 二/M_Disease 指/M_Disease 肠/M_Disease 溃/M_Disease 疡/E_Disease
+肝/B_Disease 炎/E_Disease
+高/B_Disease 血/M_Disease 压/E_Disease
+胃/B_Disease 痛/E_Disease
+烧/B_Disease 烫/M_Disease 伤/E_Disease
+疮/B_Disease 疡/E_Disease
+短梗箭头唐松草/O
+全草/O 可治/O 黄/B_Disease 疸/E_Disease
+泻/B_Disease 痢/E_Disease 等/O 症/O （/O 四川/O 中药/O 志/O ）/O
+短梗箭头唐松草/O
+花和果/O 可治/O 肝/B_Disease 炎/E_Disease
+肝/B_Disease 肿/M_Disease 大/E_Disease 等/O 症/O （/O 青海高原/O 药物/O 图鉴/O 第一册/O ）/O
+箭叶秋葵/O
+根/O 入药/O
+治/O 胃/B_Disease 痛/E_Disease
+神/B_Disease 经/M_Disease 衰/M_Disease 弱/E_Disease
+外/O 用作/O 祛瘀/O 消肿/O
+跌/B_Disease 打/M_Disease 扭/M_Disease 伤/E_Disease 和/O 接骨/O 药/O
+江南牡丹草/O
+可治/O 跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease
+姜/O
+根茎/O 供/O 药用/O
+干/O 主治/O
+心/B_Disease 腹/M_Disease 冷/M_Disease 痛/E_Disease
+吐/B_Disease 泻/E_Disease
+肢/O 冷脉/O 微/O
+寒/O 饮喘/O 咳/O
+风/B_Disease 寒/M_Disease 湿/M_Disease 痹/E_Disease
+郁金/O
+主治/O 胸/B_Disease 腹/M_Disease 胀/M_Disease 痛/E_Disease
+肩臂/O 痹/O 痛/O
+月/B_Disease 经/M_Disease 不/M_Disease 调/E_Disease
+闭/B_Disease 经/E_Disease
+跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease
+温郁金/O
+近来/O 还/O 报道/O 用于/O 治疗/O 子/B_Disease 宫/M_Disease 颈/M_Disease 癌/E_Disease
+子/B_Disease 宫/M_Disease 颈/M_Disease 糜/M_Disease 烂/E_Disease 及/O 多种/O 皮/B_Disease 肤/M_Disease 病/E_Disease 有/O 一定/O 疗效/O
+姜黄/O
+主治/O 胸/B_Disease 腹/M_Disease 胀/M_Disease 痛/E_Disease
+肩臂/O 痹/O 痛/O
+月/B_Disease 经/M_Disease 不/M_Disease 调/E_Disease
+闭/B_Disease 经/E_Disease
+跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease
+土田七/O
+块茎/O 能/O 活血/O 散/O 瘀/O
+消肿止痛/O
+主治/O 跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease
+风/B_Disease 湿/M_Disease 骨/M_Disease 痛/E_Disease
+浆果醉鱼草/O
+药用/O
+全株/O 可治/O 哮/B_Disease 喘/E_Disease
+咳/B_Disease 嗽/E_Disease
+支/B_Disease 气/M_Disease 管/M_Disease 炎/E_Disease 等/O
+浆果醉鱼草/O
+根/O 可治/O 黄/B_Disease 疸/E_Disease 肝/B_Disease 炎/E_Disease
+滇菜豆树/O
+根/O
+树皮/O 均/O 可/O 入药/O
+治/O 头/B_Disease 痛/E_Disease
+胃/B_Disease 痛/E_Disease
+滇菜豆树/O
+叶/O 捣烂/O 可/O 外敷/O 治/O 毒/B_Disease 蛇/M_Disease 咬/M_Disease 伤/E_Disease
+骨/B_Disease 折/E_Disease
+藤黄檀/O
+根/O
+茎/O 入药/O
+能/O 舒筋活络/O
+用治/O 风/B_Disease 湿/M_Disease 痛/E_Disease
+有/O 理气止痛/O
+破积/O 之/O 效/O
+降香/O
+为/O 良好/O 的/O 镇痛剂/O
+又/O 治/O 刀/B_Disease 伤/M_Disease 出/M_Disease 血/E_Disease
+射干/O
+能/O 清热解毒/O
+散结/O 消炎/O
+消肿止痛/O
+止咳化痰/O
+用于/O 治疗/O 扁/B_Disease 桃/M_Disease 腺/M_Disease 炎/E_Disease 及/O 腰/B_Disease 痛/E_Disease 等/O 症/O
+毛黄肉楠/O
+树皮/O 与/O 叶/O 供/O 药用/O
+有/O 祛风/O
+消肿/O
+散/O 淤/O
+解毒/O
+止咳/O 之/O 效/O
+并/O 能治/O 疮/B_Disease 疖/E_Disease
+对/O 跌/B_Disease 打/E_Disease 亦/O 有效/O
+角花胡颓子/O
+果实/O 可食/O
+生津止/O 喝/O
+可治/O 肠/B_Disease 炎/E_Disease
+腹/B_Disease 泻/E_Disease
+角花胡颓子/O
+全株/O 治/O 痢/B_Disease 疾/E_Disease
+跌/B_Disease 打/E_Disease
+瘀/B_Disease 积/E_Disease
+角花胡颓子/O
+叶治/O 肺/B_Disease 病/E_Disease
+支/B_Disease 气/M_Disease 管/M_Disease 哮/M_Disease 喘/E_Disease
+感/B_Disease 冒/M_Disease 咳/M_Disease 嗽/E_Disease
+角茴香/O
+治/O 咽/B_Disease 喉/M_Disease 炎/E_Disease
+气/B_Disease 管/M_Disease 炎/E_Disease
+目/B_Disease 赤/M_Disease 肿/M_Disease 痛/E_Disease 及/O 伤/B_Disease 风/M_Disease 感/M_Disease 冒/E_Disease
+铰剪藤/O
+全株/O 可/O 药用/O
+治/O 产/B_Disease 后/M_Disease 虚/M_Disease 弱/E_Disease
+催/B_Disease 奶/E_Disease 等/O
+莲座紫金牛/O
+全草/O 供/O 药用/O
+可/O 补血/O
+治/O 痨/B_Disease 伤/M_Disease 咳/M_Disease 嗽/E_Disease
+风/B_Disease 湿/E_Disease
+跌/B_Disease 打/E_Disease 等/O
+莲座紫金牛/O
+亦/O 用于/O 治/O 疮/B_Disease 疥/E_Disease 和/O 毛/B_Disease 虫/M_Disease 刺/M_Disease 伤/E_Disease 等/O
+芋/O
+块茎/O 入药/O 可治/O 乳/B_Disease 腺/M_Disease 炎/E_Disease
+口/B_Disease 疮/E_Disease
+痈/B_Disease 肿/M_Disease 疗/M_Disease 疮/E_Disease
+颈/B_Disease 淋/M_Disease 巴/M_Disease 结/M_Disease 核/E_Disease
+烧/B_Disease 烫/M_Disease 伤/E_Disease
+外/B_Disease 伤/M_Disease 出/M_Disease 血/E_Disease
+叶可治/O 荨/B_Disease 麻/M_Disease 疹/E_Disease
+疮/B_Disease 疥/E_Disease
+接骨草/O
+为/O 药用植物/O
+可治/O 跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease
+有/O 去/O 风/B_Disease 湿/E_Disease
+通/B_Disease 经/E_Disease 活血/O
+解毒/O 消炎/O 之/O 功效/O
+草珊瑚/O
+主治/O 流/B_Disease 行/M_Disease 性/M_Disease 感/M_Disease 冒/E_Disease
+流/B_Disease 行/M_Disease 性/M_Disease 乙/M_Disease 型/M_Disease 脑/M_Disease 炎/E_Disease
+肺/B_Disease 炎/E_Disease
+阑/B_Disease 尾/M_Disease 炎/E_Disease
+盆/B_Disease 腔/M_Disease 炎/E_Disease
+跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease
+风/B_Disease 湿/M_Disease 关/M_Disease 节/M_Disease 痛/E_Disease
+闭/B_Disease 经/E_Disease
+创/B_Disease 口/M_Disease 感/M_Disease 染/E_Disease
+菌/B_Disease 痢/E_Disease 等/O
+草珊瑚/O
+近年来/O 还/O 用以/O 治疗/O 胰/B_Disease 腺/M_Disease 癌/E_Disease
+胃/B_Disease 癌/E_Disease
+直/B_Disease 肠/M_Disease 癌/E_Disease
+肝/B_Disease 癌/E_Disease
+食/B_Disease 管/M_Disease 癌/E_Disease 等/O 恶性肿瘤/O
+有/O 缓解/O
+缩小/O 肿块/O
+延长/O 寿命/O
+改善/O 自觉/O 症状/O 等/O 功效/O
+无副作用/O
+髯毛远志/O
+民间/O 用/O 本种/O 的/O 根/O 煮水/O 内服/O
+治/O 腰/B_Disease 痛/E_Disease
+思茅豆腐柴/O
+治/O 外/B_Disease 伤/M_Disease 出/M_Disease 血/E_Disease
+跌/B_Disease 打/E_Disease
+骨/B_Disease 折/E_Disease 及/O 风/B_Disease 湿/M_Disease 骨/M_Disease 痛/E_Disease （/O 《/O 云南/O 植物/O 志/O 》/O ）/O
+结香/O
+美国/O 东南部/O 佐治亚州/O 也/O 有/O 分布/O
+喜/O 生于/O 阴湿/O 肥沃/O 地/O
+结香/O
+茎/O 皮/O 纤维/O 可/O 做/O 高级/O 纸/O 及/O 人造棉/O 原料/O
+全株/O 入药/O 能/O 舒筋活络/O
+消炎/O 止痛/O
+可治/O 跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease
+风/B_Disease 湿/M_Disease 痛/E_Disease
+结香/O
+也/O 可作/O 兽药/O
+治/O 牛/O 跌/B_Disease 打/E_Disease
+吕宋果/O
+可/O 解毒/O 杀虫/O
+主治/O 中/B_Disease 风/E_Disease
+腹/B_Disease 痛/M_Disease 泻/M_Disease 痢/E_Disease
+小/B_Disease 儿/M_Disease 蛔/M_Disease 虫/E_Disease 及/O 蛇/B_Disease 虫/M_Disease 咬/M_Disease 伤/E_Disease 等/O
+金草/O
+据/O 1967/O 年/O 再版/O 的/O 《/O 中兽医/O 常用/O 手册/O 》/O 记载/O
+本/O 植物/O 治疗/O 猪/B_Disease 丹/M_Disease 毒/E_Disease 效果/O 良好/O
+刺芋/O
+可治/O 淋/B_Disease 巴/M_Disease 结/M_Disease 核/E_Disease
+淋/B_Disease 巴/M_Disease 腺/M_Disease 炎/E_Disease
+胃/B_Disease 炎/E_Disease
+消/B_Disease 化/M_Disease 不/M_Disease 良/E_Disease
+毒/B_Disease 蛇/M_Disease 咬/M_Disease 伤/E_Disease
+跌/B_Disease 打/M_Disease 损/M_Disease 伤/E_Disease
+风/B_Disease 湿/M_Disease 关/M_Disease 节/M_Disease 炎/E_Disease
+刺芋/O
+兽医/O 用以/O 治/O 牛马/O 劳/B_Disease 伤/E_Disease
+催/O 膘/O
+金慈姑/O
+块茎/O 入药/O
+治/O 风/B_Disease 湿/M_Disease 关/M_Disease 节/M_Disease 痛/E_Disease 有/O 良效/O （/O 云南/O 腾冲/O ）/O
+绿萼凤仙花/O
+此/O 植物/O 在/O 广西/O 俗称/O
+金耳环/O
+民间/O 用以/O 消热/O 消肿/O
+治/O 疥/B_Disease 疮/E_Disease
+用/O 茎/O
+叶/O 外敷/O 或外/O 洗/O
+滇水金凤/O
+主治/O 风/B_Disease 湿/M_Disease 筋/M_Disease 骨/M_Disease 疼/M_Disease 痛/E_Disease
+跌/B_Disease 打/M_Disease 瘀/M_Disease 肿/E_Disease
+毒/B_Disease 蛇/M_Disease 咬/M_Disease 伤/E_Disease
+阴/B_Disease 囊/M_Disease 湿/M_Disease 疹/E_Disease
+疥/B_Disease 癞/M_Disease 疮/M_Disease 癣/E_Disease 等/O 症/O
+但/O 有毒/O
+用/O 时应/O 注意/O 用法/O
+旋覆花/O
+根及/O 叶治/O 刀/B_Disease 伤/E_Disease
+疔/B_Disease 毒/E_Disease
+煎服/O 可/O 平喘/O 镇/B_Disease 咳/E_Disease
+旋覆花/O
+花/O 是/O 健胃/O 祛/B_Disease 痰/M_Disease 药/E_Disease
+也/O 治/O 胸/B_Disease 中/M_Disease 丕/M_Disease 闷/E_Disease
+胃/B_Disease 部/M_Disease 膨/M_Disease 胀/E_Disease
+暖/B_Disease 气/E_Disease
+咳/B_Disease 嗽/E_Disease
+呕/B_Disease 逆/E_Disease 等/O （/O 《/O 江苏省/O 药材/O 志/O 》/O ）/O
+旋覆花/O
+古方/O 祛痰/O
+除湿/O
+利肠/O
+又/O 为/O 治/O 水/B_Disease 肿/E_Disease 的/O 主要/O 药/O
+

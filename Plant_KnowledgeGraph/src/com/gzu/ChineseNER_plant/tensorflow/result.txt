@@ -1,0 +1,393 @@
+凤竹,竿高达5.5米   pName:凤竹 ProValue:5.5 
+直径1至2.5厘米   pName:直径1至2.5 
+幼竿淡绿紫色   
+生有向下的白色刺毛；   Color:白色 
+凤竹,节间长达23厘米   pName:凤竹,节 ProValue:23 Unit:厘米 
+竿壁厚3毫米；   pName:竿壁厚3 Unit:毫米 
+凤竹,节隆起   pName:凤竹,节隆 
+竿环高于箨环；   pName:竿环高于 
+凤竹,箨环具箨鞘基部残留物及脱落性的毛环；   pName:凤竹 Organ_part:基部 Place_of_origin:留物 
+凤竹,节内长约5毫米；   pName:凤竹,节内 Unit:长约5毫米 
+凤竹,竿每节分3枝   pName:凤竹 
+唯以后可增多为4或5枝   pName:唯以后可增 
+凤竹,竿箨早落；   pName:凤竹 
+凤竹,箨鞘纸质   pName:凤竹,箨鞘纸 
+鲜时紫绿色   
+干后淡棕色   
+背面具脱落性平伏刺毛   pName:背面具脱 
+边缘生褐色纤毛   pName:边缘生褐色纤 
+基部密生褐色毛茸；   pName:基部密生褐色 
+凤竹,箨耳及鞘口繸毛俱缺；   pName:凤竹 
+凤竹,箨舌拱形   
+淡褐色   
+背部具短硬毛   pName:背部具 
+边缘生白色纤毛；   pName:边缘生白色纤 
+凤竹,箨片狭三角形至线状披针形   pName:凤竹,箨片 Shape:三角形 Shape:线状披 
+直立   
+两面均被长柔毛   pName:两面均被长柔 
+在基部尤密；   pName:在基部尤 
+凤竹,边缘具褐色纤毛   pName:凤竹,边缘 Color:褐色 
+凤竹,每小枝具1至3叶   pName:凤竹 
+通常为2叶；   pName:通常为2叶 
+凤竹,叶鞘有柔毛   pName:凤竹 Organ:叶鞘 
+尤以上部较密；   Organ_part:上部 
+凤竹,叶舌高1至3毫米   pName:凤竹 Organ:叶舌 Unit:毫米 
+背面具短柔毛；   pName:背面具 
+凤竹,叶片长椭圆状披针形   pName:凤竹 Organ:叶片 Shape:椭圆 Shape:披针形 
+长6至15厘米   pName:长6至15 
+宽0.6至1.6厘米   pName:宽0.6至1.6 Unit:厘米 
+下表面灰白色   
+两面无毛或仅下表面主脉的基部有疏柔毛   pName:两面无毛 Organ_part:基部 
+凤竹,总状花序具2至3(5)枚小穗；   pName:凤竹 Organ:总状花序 
+凤竹,花序柄短   pName:凤竹 Organ:花序 
+全部或有时连同花序下部的分枝均为鞘状苞片所覆盖；   pName:全部 Organ:花序 Organ_part:下部 Organ:苞片 
+凤竹,小穗柄细长   pName:凤竹,小 
+具柔毛   
+尤以上部较密   Organ_part:上部 
+基部托以锥状的苞片；   pName:基部托以锥状 Organ:苞片 
+凤竹,小穗长1.4至3.5厘米   pName:凤竹,小 MinValue:1.4 MaxValue:3.5 Unit:厘米 
+含3至7朵小花；   pName:含3至7 
+凤竹,小穗轴节间长约4毫米   pName:凤竹 Unit:毫米 
+生有纤毛；   pName:生有纤 
+凤竹,颖2或3片   pName:凤竹,颖2 
+第一颖较小   pName:第一 
+7至9脉   
+第二颖或连同第三颖均形似外稃；   pName:第二 Shape:形似 
+凤竹,外稃长12毫米   pName:凤竹 ProValue:12 Unit:毫米 
+密生微糙毛及白色细柔毛   pName:密生微糙毛 Color:白色 
+上部边缘有白色长纤毛；   pName:上部边缘 Color:白色 
+凤竹,内稃长约7毫米   pName:凤竹,内 Unit:毫米 
+背部两脊均疏生短纤毛   pName:背部两脊均疏生 
+先端钝或稍尖   
+有时具浅凹头   pName:有时具浅 
+鳞被以居中的一片稍大   
+有数条脉纹   
+边缘具细纤毛；   pName:边缘具细纤 
+凤竹,雄蕊3或4   pName:凤竹 Organ:雄蕊 
+稀可5   
+花药长8毫米；   pName:花药长8 Unit:毫米 
+凤竹,花柱1   pName:凤竹 Organ:花柱 
+柱头3   
+羽毛状   
+凤竹,果实未见   pName:凤竹 Organ:果实 
+凤竹,笋期4月下旬   pName:凤竹 Period:笋期 
+花期4月上旬   pName:花期4月上 
+凤竹,产湖北秭归   
+模式标本产地   
+点地梅,一年生或二年生草本   pName:点地梅 Life_form:一年生 Life_form:二年生 Life_form:草本 
+点地梅,主根不明显   pName:点地梅 
+具多数须根   
+点地梅,叶全部基生   pName:点地梅 Shape:全部基 
+叶片近圆形或卵圆形   pName:叶片 Shape:圆形 Shape:卵圆形 
+直径5至20毫米   pName:直径5至20 Unit:毫米 
+先端钝圆   
+基部浅心形至近圆形   pName:基部浅心形 Shape:圆形 
+边缘具三角状钝牙齿   pName:边缘具三角状 
+两面均被贴伏的短柔毛；   pName:两面均 
+点地梅,叶柄长1至4厘米   pName:点地梅 Organ:叶柄 Unit:厘米 
+被开展的柔毛   pName:被开展 
+点地梅,花葶通常数枚自叶丛中抽出   pName:点地梅 Organ:花葶通 
+高4至15厘米   pName:高4至15 
+被白色短柔毛   pName:被白色 
+点地梅,伞形花序4至15花；   pName:点地梅 Shape:伞形花序 MaxValue:15 
+点地梅,苞片卵形至披针形   pName:点地梅 Organ:苞片 Shape:卵形 Shape:披针形 
+长3.5至4毫米；   pName:长3.5至4 Unit:毫米 
+点地梅,花梗纤细   pName:点地梅 Organ:花梗 
+长1至3厘米   pName:长1至3 Unit:厘米 
+果时伸长可达6厘米   pName:果时伸长可达6 
+被柔毛并杂生短柄腺体；   pName:被柔毛并杂生 Period:腺体 
+点地梅,花萼杯状   pName:点地梅 Organ:花萼 
+长3至4毫米   pName:长3至4 Unit:毫米 
+密被短柔毛   
+分裂近达基部   
+裂片菱状卵圆形   
+具3至6纵脉   pName:具3至6 
+果期增大   
+呈星状展开；   pName:呈星状展开 
+点地梅,花冠白色   pName:点地梅 Organ:花冠 Color:白色 
+直径4至6毫米   pName:直径4至6 
+筒部长约2毫米   pName:筒部长约2 
+短于花萼   
+喉部黄色   
+裂片倒卵状长圆形   pName:裂片 Shape:圆形 
+长2.5至3毫米   pName:长2.5至3 Unit:毫米 
+宽1.5至2毫米   pName:宽1.5至2 Unit:毫米 
+点地梅,蒴果近球形   pName:点地梅 Organ:蒴果 Shape:球形 
+直径2.5至3毫米   pName:直径2.5 
+果皮白色   
+近膜质   
+点地梅,花期2至4月；   pName:点地梅 Period:花期 
+点地梅,果期5至6月   pName:点地梅 Period:果期 
+点地梅,产于东北   
+华北和秦岭以南各省区   pName:华北和秦岭以南 
+点地梅,生于林缘   pName:点地梅 Property:生于 
+草地和疏林下   pName:草地和疏林 
+点地梅,朝鲜   
+日本   
+菲律宾   
+越南   
+缅甸   
+印度均有分布   pName:印度均 
+点地梅,模式标本采自越南   pName:点地梅,模式标本 
+点地梅,民间用全草治扁桃腺炎   pName:点地梅,民 Life_form:草治 
+咽喉炎   
+口腔炎和跌打损伤   pName:口腔 
+蚕豆,一年生草本   pName:蚕豆,一年生草 
+高30至100(至120)厘米   pName:高30至100 MaxValue:120 Unit:厘米 
+蚕豆,主根短粗   pName:蚕豆,主根 
+多须根   
+根瘤粉红色   
+密集   
+蚕豆,茎粗壮   pName:蚕豆,茎 
+直立   
+直径0.7至1厘米   pName:直径0.7 
+具四棱   
+中空   
+无毛   
+蚕豆,偶数羽状复叶   pName:蚕豆, 
+叶轴顶端卷须短缩为短尖头；   pName:叶轴顶 
+蚕豆,托叶戟头形或近三角状卵形   pName:蚕豆,托叶 Shape:头形 Shape:三角 Shape:卵形 
+长1至2.5厘米   pName:长1至2.5 Unit:厘米 
+宽约0.5厘米   pName:宽约0.5 
+略有锯齿   
+具深紫色密腺点；   pName:具深紫色密腺 
+蚕豆,小叶通常1至3对   pName:蚕豆, Organ:叶通 
+互生   
+上部小叶可达4至5对   pName:上部小叶可达 
+基部较少   
+小叶椭圆形   
+长圆形或倒卵形   pName:长圆形 Shape:倒卵形 
+稀圆形   
+长4至6(至10)厘米   pName:长4至6( Texture:10 Unit:厘米 
+宽1.5至4厘米   pName:宽1.5至4 Unit:厘米 
+先端圆钝   
+具短尖头   
+基部楔形   
+全缘   
+两面均无毛   
+蚕豆,总状花序腋生   pName:蚕豆,总状花序 
+花梗近无；   pName:花梗近 
+蚕豆,花萼钟形   
+萼齿披针形   
+下萼齿较长；   pName:下萼 
+蚕豆,具花2至4(至6)朵呈丛状着生于叶腋   pName:蚕豆,具花2 Property:生于 
+花冠白色   
+具紫色脉纹及黑色斑晕   pName:具紫色脉纹 Color:黑色 
+长2至3.5厘米   pName:长2至3.5 Unit:厘米 
+旗瓣中部缢缩   pName:旗瓣中部 
+基部渐狭   
+翼瓣短于旗瓣   
+长于龙骨瓣；   pName:长于龙骨瓣 
+蚕豆,雄蕊2体(9+1)   pName:蚕豆 Organ:雄蕊 Property:体(9 MinValue:+1 
+子房线形无柄   pName:子房线形无 
+胚珠2至4(至6)   pName:胚珠2至4( 
+花柱密被白柔毛   pName:花柱密 
+顶端远轴面有一束髯毛   Organ_part:远轴面 
+蚕豆,荚果肥厚   pName:蚕豆,荚果肥 
+长5至10厘米   pName:长5至10 
+宽2至3厘米；   pName:宽2至3 Unit:厘米 
+蚕豆,表皮绿色被绒毛   pName:蚕豆, Color:绿色 
+内有白色海绵状   pName:内有白色海 
+横隔膜   
+成熟后表皮变为黑色   pName:成熟后表皮 Color:黑色 
+蚕豆,种子2至4(至6)   pName:蚕豆,种子2 
+长方圆形   
+近长方形   
+中间内凹   
+种皮革质   
+青绿色   
+灰绿色至棕褐色   
+稀紫色或黑色；   pName:稀紫色 Color:黑色 
+蚕豆,种脐线形   pName:蚕豆,种 Shape:线形 
+黑色   
+位于种子一端   Organ:种子 
+蚕豆,花期4至5月   pName:蚕豆,花期4 
+果期5至6月   pName:果期5 
+蚕豆,2n=12   pName:蚕豆,2 
+蚕豆,全国各地均有栽培   pName:蚕豆,全国 
+以长江以南为胜   pName:以长江以南 
+蚕豆,原产欧洲地中海沿岸   pName:蚕豆,原 Unit:产欧洲地中海 
+亚洲西南部至北非   pName:亚洲西南部 
+蚕豆,生于北纬63°温暖湿地   pName:蚕豆,生于北纬63 
+耐至4°C低温   
+但畏暑   
+蚕豆,模式标本系采自栽培作物   pName:蚕豆,模式标本 
+蚕豆,是人类最早栽培的豆类作物之一   pName:蚕豆, Place_of_origin:豆类 
+世界上种植的有40多个国家   pName:世界上种植 ProValue:40 
+集中在黑海和地中海沿岸   pName:集中在黑海 Place_of_origin:中海 
+我国有40多个栽培品种   pName:我国有40 
+本世纪50年代产量居世界第一   pName:本世纪50 Property:代产 Place_of_origin:量居世界 
+年产30亿公斤以上   pName:年产30亿公 
+蚕豆,作为粮食磨粉制糕点   pName:蚕豆,作 Property:粮食 Place_of_origin:磨粉 
+小吃   
+蚕豆,嫩时作为时新蔬菜或饲料   pName:蚕豆,嫩 Place_of_origin:新蔬菜 
+种子含蛋白质22.35％   pName:种子含蛋白质 Unit:22.3 
+淀粉43％   pName:淀粉43 
+蚕豆,民间药用治疗高血压和浮肿   pName:蚕豆,民间 Place_of_origin:高血 
+蚕豆,国外有用提取抗癌物质的报道   pName:蚕豆,国外 Texture:物质 
+佛肚树,直立灌木   
+不分枝或少分枝   pName:不分枝 
+高0.3至1.5米   pName:高0.3至1.5 
+茎基部或下部通常膨大呈瓶状；   pName:茎基部 Organ_part:下部 
+佛肚树,枝条粗短   pName:佛肚树,枝 
+肉质   
+具散生突起皮孔   pName:具散生 
+叶痕大且明显   pName:叶痕大且明 
+佛肚树,叶盾状着生   pName:佛肚树,叶盾 
+轮廓近圆形至阔椭圆形   pName:轮廓近圆形 Shape:椭圆形 
+长8至18厘米   pName:长8至18 
+宽6至16厘米   pName:宽6至16 
+顶端圆钝   
+基部截形或钝圆   pName:基部截形 
+全缘或2至6浅裂   pName:全缘 Life_form:2至6 
+上面亮绿色   
+下面灰绿色   
+两面无毛；   pName:两面无毛 
+佛肚树,掌状脉6至8   pName:佛肚树,掌状脉6 
+其中上部3条直达叶缘；   pName:其中上部3 Property:直达 
+佛肚树,叶柄长8至16厘米   pName:佛肚树 Organ:叶柄 MaxValue:16 Unit:厘米 
+无毛；   
+佛肚树,托叶分裂呈刺状   pName:佛肚树 Organ:托叶 
+宿存   
+佛肚树,花序顶生   pName:佛肚树 Organ:花序 Growth_form:顶生 
+具长总梗   
+分枝短   
+红色   
+花萼长约2毫米   pName:花萼长约2 
+裂片近圆形   
+长约1毫米；   pName:长约1毫米 
+佛肚树,花瓣倒卵状长圆形   pName:佛肚树 Organ:花瓣 Shape:圆形 
+长约6毫米   pName:长约6 
+红色；   
+佛肚树,雄花   
+雄蕊6至8枚   pName:雄蕊6至8 
+基部合生   
+花药与花丝近等长；   pName:花药 Organ:花丝 
+佛肚树,雌花   
+子房无毛   
+花柱3枚   
+基部合生   
+顶端2裂   
+佛肚树,蒴果椭圆状   pName:佛肚树 Organ:蒴果 Shape:椭圆 
+长13至18毫米   pName:长13至18 Unit:毫米 
+直径约15毫米   pName:直径约15 
+具3纵沟；   pName:具3 
+佛肚树,种子长约1.1厘米   pName:佛肚树 Organ:种子 ProValue:1.1 Unit:厘米 
+平滑   
+佛肚树,花期几全年   pName:佛肚树 Period:花期 
+佛肚树,原产中美洲或南美洲热带地区；   pName:佛肚树,原 Unit:产中美洲 Place_of_origin:南美洲 Place_of_origin:地区 
+佛肚树,现作为观赏植物栽培   pName:佛肚树, Life_form:赏植物 
+佛肚树,我国许多省区园林部门及花卉爱好亦有栽培   pName:佛肚树,我 Unit:国许多省区园林部门 
+佛光草,一年生草本；   pName:佛光草 Life_form:一年生 Life_form:草本 
+佛光草,根须状   pName:佛光草,根须 
+簇生   
+佛光草,茎少数   pName:佛光草,茎 
+丛生   
+基部上升或匍匐   pName:基部上升 
+高10至40厘米   pName:高10至40 Unit:厘米 
+不分枝或少分枝   pName:不分枝 
+四稜形   
+具浅槽   
+被短柔毛或微柔毛   
+佛光草,叶有根出及茎生   pName:佛光草,叶 
+根出叶大多数为单叶   
+茎生叶为单叶或三出叶或3裂   pName:茎生叶 
+单叶叶片卵圆形   
+长1至3厘米   pName:长1至3 Unit:厘米 
+宽0.8至2厘米   pName:宽0.8至2 Unit:厘米 
+先端圆形   
+基部截形或圆形   pName:基部截形 Shape:圆形 
+边缘具圆齿   
+膜质   
+两面近无毛或仅沿脉上被微硬毛   pName:两面近 
+三出叶或三裂时   pName:三出叶 
+小叶卵圆形   
+顶生的较大   pName:顶生 
+卵圆形至近圆形   
+侧生的比顶生的小许多   pName:侧生 Growth_form:顶生 
+小叶柄长1至4毫米或至无柄   pName:小叶柄长1至4 Unit:毫米 
+被微柔毛；   pName:被微柔 
+佛光草,叶柄长0.6至6厘米   pName:佛光草 Organ:叶柄 MinValue:0.6 Unit:厘米 
+扁平   
+被微柔毛   
+佛光草,轮伞花序2至8花   pName:佛光草,轮 Organ:花序 
+在下部疏离上部稍密集组成长7至15厘米的顶生或腋生总状花序   pName:在下部疏 Organ_part:上部 Property:成长 MaxValue:15 Unit:厘米 Growth_form:顶生 
+有时顶生总状花序基部具2短分枝   Growth_form:顶生 Organ:总状花序 Organ_part:基部 
+因而组成三叉状的总状圆锥花序；   Organ:总状圆锥花序 
+佛光草,苞片长卵圆形   pName:佛光草 Organ:苞片 Shape:卵圆形 
+长3至5毫米   pName:长3至5 Unit:毫米 
+先端渐尖或锐尖   
+基部楔形   
+全缘   
+两面近无毛；   pName:两面近 
+佛光草,花梗长约2毫米   pName:佛光草 Organ:花梗 Unit:毫米 
+与花序轴密被微硬毛及具腺疏柔毛   pName:与花序 
+佛光草,花萼钟形   pName:佛光草 Organ:花萼 
+花时长3至4毫米   pName:花时长3至4 Unit:毫米 
+果时增大   
+长达7毫米   
+外面被微柔毛及腺点   pName:外面被微柔 
+内面近无毛   
+二唇形   
+上唇梯形   
+顶端截形   
+全缘或具不明显二齿   pName:全缘 
+下唇比上唇稍长   pName:下唇比上唇 
+深裂成2齿   pName:深裂成2 
+齿卵状三角形   
+先端锐尖   
+佛光草,花冠淡红或淡紫色   pName:佛光草 Organ:花冠 Color:淡紫色 
+细小   
+长5至7毫米   pName:长5至7 Unit:毫米 
+外面略被微柔毛   pName:外面略 
+内面无毛环或具毛环   pName:内面无毛环 
+根据原描写   
+冠筒近外伸或稍外伸   pName:冠筒近外伸 
+钟形   
+长3至4毫米   pName:长3至4 Unit:毫米 
+基部筒状   
+宽约1毫米   pName:宽约1 
+至子房部分稍缢缩   pName:至子房部分 
+其上渐扩大   
+至喉部宽约2毫米   pName:至喉部宽约2 Unit:毫米 
+冠檐二唇形   
+上唇近长圆形或倒卵圆形   pName:上唇近 Shape:圆形 Shape:卵圆形 
+直伸   
+先端微凹   
+下唇3裂   
+中裂片较大   pName:中裂片 
+近倒心形   
+边缘浅波状   
+侧裂片圆形   
+佛光草,能育雄蕊2   pName:佛光草 Organ:雄蕊 
+上弯   
+不外伸   
+花丝长1毫米   pName:花丝长1 Unit:毫米 
+药隔短小   
+长不到1毫米   pName:长不到1 Unit:毫米 
+弯成弧形   
+上下臂等长   pName:上下臂 
+下臂发育   
+较上臂为小   
+分离   
+佛光草,花柱内藏   pName:佛光草 Organ:花柱 
+先端2裂   
+前裂片伸长   
+佛光草,花盘前方微膨大   pName:佛光草 Unit:,花盘前方 
+佛光草,小坚果卵圆形   pName:佛光草,小 Shape:卵圆形 
+长1.5毫米   pName:长1.5 Unit:毫米 
+直径0.7毫米   pName:直径0.7 
+淡褐色   
+顶端圆形   
+腹面具稜   
+无毛   
+佛光草,花期3至5月   pName:佛光草 Period:花期 
+佛光草,产浙江   
+福建   
+湖南   
+贵州   
+四川；   
+佛光草,生于林内   pName:佛光草 Unit:,生于林内 
+沟边   
+石隙等潮湿地   
+海拔40至950米   

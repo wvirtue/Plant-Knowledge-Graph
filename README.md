@@ -1,5 +1,6 @@
 # Plant Knowledge Graph
 ## import文件夹中的CSV文件含义
+```
 attributes_p.csv--植物属性关系三元组
 funcTriple.csv--植物治疗疾病关系三元组
 func_node.csv--疾病节点信息
@@ -13,6 +14,7 @@ placeOfOrigin.csv--中国植物志网获取的植物分布区域关系三元组
 placeOfOriginNode.csv--中国植物志网获取的植物分布区域关系尾实体节点信息
 plantClassify.csv--中国植物志网获取的植物分类概念节点信息
 plant_func.csv--中国植物志网获取的植物功用关系三元组
+```
 ## 将import文件夹中的CSV文件导入Neo4j图数据库的步骤
 ### 1.导入植物品种节点
 ```

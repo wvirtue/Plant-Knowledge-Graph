@@ -47,13 +47,21 @@ CREATE (:植物经济用途 { title: line.func })
 CREATE CONSTRAINT ON (c:植物经济用途)
 ASSERT c.title IS UNIQUE
 ```
+### 5.导入植物特征节点
+```
+LOAD CSV WITH HEADERS FROM "file:///featureNode.csv" AS line
+CREATE (:植物特征 { title: line.node})
 
-### 5.创建经济用途实体到植物分类
+//创建植物特征索引
+CREATE CONSTRAINT ON (c:植物特征)
+ASSERT c.title IS UNIQUE
+```
+### 6.创建经济用途实体到植物分类
 ```
 LOAD CSV WITH HEADERS FROM "file:///plantClassify.csv" AS line
 CREATE (:植物分类 { entity: line.entity })
 ```
-### 6.导入新节点
+### 7.导入新节点
 ```
 // 导入互动百科抽取到的新节点
 LOAD CSV WITH HEADERS FROM "file:///new_node.csv" AS line
@@ -71,7 +79,7 @@ ASSERT c.title IS UNIQUE
 :schema
 ```
 
-### 7.导入植物实体的关系和属性
+### 8.导入植物实体的关系和属性
 ```
 //将attributes_p.csv放到neo4j的import目录下，然后执行
 LOAD CSV WITH HEADERS FROM "file:///attributes_p.csv" AS line
@@ -109,6 +117,10 @@ CREATE (entity1)-[:RELATION { type: line.relation }]->(entity2)
 
 LOAD CSV WITH HEADERS FROM "file:///plant_func.csv" AS line
 MATCH (entity1:植物品种{title:line.title}), (entity2:植物经济用途{title:line.value})
+CREATE (entity1)-[:RELATION { type: line.relation }]->(entity2)
+
+LOAD CSV WITH HEADERS FROM "file:///plantFeatureTriple.csv" AS line
+MATCH (entity1:植物品种{title:line.name}), (entity2:植物特征{title:line.value})
 CREATE (entity1)-[:RELATION { type: line.relation }]->(entity2)
 
 --导入iplantFunc

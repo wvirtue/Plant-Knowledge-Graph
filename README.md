@@ -4,6 +4,7 @@
 attributes_p.csv--植物属性关系三元组
 funcTriple.csv--植物治疗疾病关系三元组
 func_node.csv--疾病节点信息
+featureNode.csv--植物特征节点信息
 hudong_iplant_fusion.csv--互动百科网与中国植物志网获取的植物上下位关系融合后的三元组
 hudong_plant.csv--互动百科网获取的植物名称节点详细信息
 hudong_wiki_fusion.csv--互动百科与维基百科获取的植物分类关系融合后的三元组
@@ -14,6 +15,7 @@ placeOfOrigin.csv--中国植物志网获取的植物分布区域关系三元组
 placeOfOriginNode.csv--中国植物志网获取的植物分布区域关系尾实体节点信息
 plantClassify.csv--中国植物志网获取的植物分类概念节点信息
 plant_func.csv--中国植物志网获取的植物功用关系三元组
+plantFeatureTriple.csv--中国植物志网获取的植物特征关系三元组
 ```
 ## 将import文件夹中的CSV文件导入Neo4j图数据库的步骤
 ### 1.导入植物品种节点

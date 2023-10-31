@@ -1,4 +1,4 @@
-# Plant Knowledge Graph
+# 植物知识图谱 Plant Knowledge Graph
 ## import文件夹中的CSV文件含义
 ```
 attributes_p.csv--植物属性关系三元组

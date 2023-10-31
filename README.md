@@ -1,6 +1,7 @@
 # 植物知识图谱 Plant Knowledge Graph
 ## import文件夹中的CSV文件含义
 ```
+以下文件需要导入图数据库，用于构建植物知识图谱。
 attributes_p.csv--植物属性关系三元组
 funcTriple.csv--植物治疗疾病关系三元组
 func_node.csv--疾病节点信息
